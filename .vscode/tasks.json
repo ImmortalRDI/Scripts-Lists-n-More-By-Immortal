@@ -1,0 +1,295 @@
+{    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ConvertEMFiles",
+            "type": "shell",
+            "command": "",
+            "dependsOn": [
+                "UUIDCollect",
+                "MEIRename",                
+                "LSFXFiller",
+                "LSFDelete",
+                "EMLoca",
+                "EMLSX1",
+                "EMLSX2",
+                "EMLSX3",
+                "EMLSX4",
+                "MEIRelocate",
+                "EMLSX4HT",
+                "LSFDeleteHT",
+                "VFXRecolor",
+            ],
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": []
+        },
+        {
+                "label": "UUIDCollect",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "collect_uuid.py",
+                    "your\\input\\folder\\here"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "problemMatcher": []
+            
+        },
+        {
+                "label": "MEIRename",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "mt_rename_mei.py",
+                    "your\\input\\folder\\here",
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "problemMatcher": [],
+        },
+        {
+                "label": "LSFXFiller",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "mt_lsfx_filler.py",
+                    "your\\input\\folder\\here"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "problemMatcher": [],
+        },
+        {
+                "label": "LSFDelete",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "mt_delete_lsf.py",
+                    "your\\input\\folder\\here"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },                
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "EMLoca",
+                "type": "shell",
+                "command": "python 'folder\\path\\to\\your\\Scripts\\convert_loca.py'",
+                "dependsOn":["LSFDelete"],
+                "args": [
+                    "-f",
+                    "${workspaceFolder}\\Localization\\English\\LocalizationNameHere.xml",
+                    "-o",
+                    "${workspaceFolder}\\Localization\\English\\LocalizationNameHere.loca"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+    },
+        {
+                "label": "EMLSX1",
+                "type": "shell",
+                "command": "python",
+                "dependsOn":["LSFDelete","EMLoca"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "args": [
+                    "convert_lsf.py",
+                    "-f",
+                    "your\\input\\folder\\here",
+                    "-b",
+                    "--ext",
+                    ".lsx",
+                    "--outputext",
+                    ".lsf"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "EMLSX2",
+                "type": "shell",
+                "command": "python",
+                "dependsOn":["LSFDelete","EMLoca","EMLSX1"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "args": [
+                    "convert_lsf.py",
+                    "-f",
+                    "your\\input\\folder\\here",
+                    "-b",
+                    "--ext",
+                    ".lsx",
+                    "--outputext",
+                    ".lsf"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "EMLSX3",
+                "type": "shell",
+                "command": "python",
+                "dependsOn":["LSFDelete","EMLoca","EMLSX2"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "args": [
+                    "convert_lsf.py",
+                    "-f",
+                    "your\\input\\folder\\here",
+                    "-b",
+                    "--ext",
+                    ".lsx",
+                    "--outputext",
+                    ".lsf"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "EMLSX4",
+                "type": "shell",
+                "command": "python",
+                "dependsOn":["LSFDelete","EMLoca","EMLSX1","EMLSX2","EMLSX3"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "args": [
+                    "convert_lsfx.py",
+                    "-f",
+                    "your\\input\\folder\\here",
+                    "-b",
+                    "--ext",
+                    ".lsx",
+                    "--outputext",
+                    ".lsf"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "MEIRelocate",     /* This task is only needed if you use subfolders to organize your MultiEffectInfos. */
+                "dependsOn": ["LSFDelete","EMLoca","EMLSX1","EMLSX2","EMLSX3","EMLSX4"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "relocate_mei_lsf.py",
+                    "${workspaceFolder}\\Public\\ModNameHere\\MultiEffectInfos",   
+                    "${workspaceFolder}\\Public\\ModNameHere\\MultiEffectInfos"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                }
+        },
+        {
+                "label": "EMLSX4HT",
+                "type": "shell",
+                "command": "python",
+                "dependsOn":["LSFDeleteHT"],
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "args": [
+                    "convert_lsfx.py",
+                    "-f",
+                    "your\\input\\folder\\here",
+                    "-b",
+                    "--ext",
+                    ".lsx",
+                    "--outputext",
+                    ".lsfx"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },
+                "problemMatcher": []
+        },
+        {
+                "label": "LSFDeleteHT",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "mt_delete_lsf.py",
+                    "your\\input\\folder\\here"
+                ],
+                "group": {
+                    "kind": "build",
+                    "isDefault": true
+                },
+                "presentation": {
+                    "reveal": "always",
+                    "panel": "new"
+                },                
+                "options": {
+                    "cwd": "folder\\path\\to\\your\\Scripts"
+                },
+                "problemMatcher": []
+        }
+    ]
+}
