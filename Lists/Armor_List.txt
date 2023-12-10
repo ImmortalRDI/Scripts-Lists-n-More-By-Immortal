@@ -1,0 +1,2766 @@
+File: C:\Users\gmc51\Documents\GameMods\BG3\ModUtilities\LsLib-&-MultiTool\Multitool\UnpackedData\Shared\Public\Shared\Stats\Generated\Data\Armor.txt
+Name: _Body
+
+Name: ARM_Padded_Body
+Root Template: 63cc7723-245d-4b62-b9e6-5a47283cf777
+
+Name: ARM_Leather_Body
+Root Template: 02ae5d88-8044-43df-8363-02a2900776db
+
+Name: ARM_StuddedLeather_Body
+Root Template: 19451420-13f6-444c-a15b-7abb6dde3f91
+
+Name: ARM_Hide_Body
+Root Template: b78fabcc-d2df-4c74-b5d4-1eda6dc4c071
+
+Name: ARM_ChainShirt_Body
+Root Template: 921cd1e1-c39c-44c3-a090-b667322af7f8
+
+Name: ARM_ScaleMail_Body
+Root Template: ca0aafad-0f1e-4d76-8e3b-925397bb436b
+
+Name: ARM_Breastplate_Body
+Root Template: 4814825e-23ee-41ed-9784-d9963434150d
+
+Name: ARM_HalfPlate_Body
+Root Template: 34a71679-0ab5-4fd4-bba8-d6ad341ee490
+
+Name: ARM_RingMail_Body
+Root Template: e3a5099a-397a-4bbc-932c-cd0a00043b79
+
+Name: ARM_ChainMail_Body
+Root Template: b973e3cb-c18d-4514-ba01-ebcabbf26968
+
+Name: ARM_Splint_Body
+Root Template: 8ed82f7e-fdd4-4a9f-94b6-f256c599bfdd
+
+Name: ARM_Plate_Body
+Root Template: 95b4e2c4-759a-4d33-a2d1-4e0ee6ed4f29
+
+Name: ARM_Robe_Body
+Root Template: 168b9099-19f5-44e4-b55c-e64ceb60b71f
+
+Name: _Armor_Enchanted
+
+Name: ARM_Robe_Body_1
+Root Template: 7ec40cde-4d96-4352-b93e-cdcab6383337
+
+Name: ARM_Robe_Body_2
+Root Template: 467cca20-42bb-45cd-8eac-6ed49bbc2707
+
+Name: ARM_Cloth_Body_1
+Root Template: 427d12a3-dff2-4b59-978e-8e55daaed4ce
+
+Name: ARM_Cloth_Body_2
+Root Template: 0f2e59b9-c244-4e3c-836e-4f1e7b755b12
+
+Name: ARM_Padded_Body_1
+Root Template: f5faa6c5-a43c-4edd-a77f-6e7536a7e683
+
+Name: ARM_Padded_Body_2
+Root Template: 96613037-cbac-4f43-a39b-584e6f2629c7
+
+Name: ARM_Leather_Body_1
+Root Template: 90a79e46-e327-41f4-a349-8e4dd70b1892
+
+Name: ARM_Leather_Body_2
+Root Template: ac71c753-c207-465c-b28b-c10f95ed0745
+
+Name: ARM_StuddedLeather_Body_1
+Root Template: 58d7927f-c6eb-4635-85b6-70265c621b3d
+
+Name: ARM_StuddedLeather_Body_2
+Root Template: 83603f36-d158-4a0e-b9c9-358413ba3a92
+
+Name: ARM_Hide_Body_1
+Root Template: 94ed8ec8-93a4-4a8c-bc47-55cb3faae7c0
+
+Name: ARM_Hide_Body_2
+Root Template: fd4ab5b0-67e6-4a8b-8745-2003f2f5ada3
+
+Name: ARM_ChainShirt_Body_1
+Root Template: eac652ed-ecf7-4505-bf64-0fec29e7d677
+
+Name: ARM_ChainShirt_Body_2
+Root Template: 461f1cbe-6d0d-40ee-8bf6-8a68e0570d6f
+
+Name: ARM_ScaleMail_Body_1
+Root Template: dc748177-8590-4a99-a446-feccbd8d8eb4
+
+Name: ARM_ScaleMail_Body_2
+Root Template: 21f0dd84-6f02-4be9-8654-4cebd00dcbaf
+
+Name: ARM_Breastplate_Body_1
+Root Template: ad912cef-8bfb-4bf3-98f0-f2c5e3b45915
+
+Name: ARM_Breastplate_Body_2
+Root Template: 4842e9ec-95ba-4168-81a9-f184b08d6c2c
+
+Name: ARM_HalfPlate_Body_1
+Root Template: c3407c8d-0180-4f5a-9530-e1167e7290b3
+
+Name: ARM_HalfPlate_Body_2
+Root Template: 15338da1-c4f8-4b43-912c-c14e7d9a8579
+
+Name: ARM_RingMail_Body_1
+Root Template: 4837915c-080b-491f-813e-be5a71571a17
+
+Name: ARM_RingMail_Body_2
+Root Template: 339c2d50-af1b-45d4-af96-cf2d27e1e11d
+
+Name: ARM_ChainMail_Body_1
+Root Template: ed7a8055-cf36-42c8-ad77-15a80d19744f
+
+Name: ARM_ChainMail_Body_2
+Root Template: d8120501-e5bb-4eb1-b5cf-120b8bfd2ab2
+
+Name: ARM_Splint_Body_1
+Root Template: ecfb1364-b1a0-4d0e-b82a-0becd8c291fd
+
+Name: ARM_Splint_Body_2
+Root Template: 2e8dfe32-cd6e-475b-98b5-5e2d9c42a7df
+
+Name: ARM_Plate_Body_1
+Root Template: dd905194-9a67-4c61-b26d-5b4da4725cde
+
+Name: ARM_Plate_Body_2
+Root Template: fdb8ce53-51dc-4ccb-9e29-d1d99040e60b
+
+Name: _Armor_Magic
+
+Name: _Armor_Magic_Robe
+
+Name: UNI_RobeOfSummer
+Root Template: ffed890a-69fe-4798-8c71-1bd3b72369bc
+
+Name: ARM_StuddedLeather_Body_Drow
+Root Template: cab3455f-59fe-42be-8dcd-7cd61149389a
+
+Name: _Armor_VisualVariation
+
+Name: ARM_HalfPlate_Body_Githyanki
+Root Template: 38c63f49-3c50-46d0-90d3-68b247542c36
+
+Name: _Foot
+Root Template: 00000000-0000-0000-0000-000000000000
+
+Name: ARM_Boots_Metal
+Root Template: 689e8d3e-b79b-417b-8cd2-9d08b2f5e618
+
+Name: ARM_Boots_Metal_Githyanki
+Root Template: 319c625a-cfb7-4e44-ac3f-370a00c0d4ef
+
+Name: ARM_ChainShirt_Body_Shar
+Root Template: 0c0c1031-4a04-4e8f-ba8a-8aafa2a396e8
+
+Name: UNI_Astarion_StarterArmor
+Root Template: 397dbd19-efed-4507-85f9-66daebad5258
+
+Name: ARM_Leather_Body_Druid
+Root Template: b8468a39-a5ff-4de0-85be-a8883a479628
+
+Name: ARM_Leather_Body_Rogue
+Root Template: 4c4396db-fa4a-4541-9b2a-23e43211dde7
+
+Name: UNI_Daisy_Plate
+Root Template: aa0917ea-5f66-4a22-97de-654228484128
+
+Name: _Hand
+
+Name: ARM_Gloves_Metal
+Root Template: 1dcdf52e-b596-4e3a-8d1c-8fff17ed8c2c
+
+Name: UNI_Daisy_Gloves
+Root Template: 5a0ee632-9145-48b2-9b92-97c32c2ccbd9
+
+Name: UNI_Daisy_Boots
+Root Template: 216f0362-f77b-420c-84cb-d84853aa173d
+
+Name: UNI_GaleRobe
+Root Template: 9410a467-3e49-4b14-b067-ea8ad6a0d431
+
+Name: ARM_Robe_Body_Sorcerer
+Root Template: 4ba55c6f-1302-4069-9e04-ff0bf2a7ede2
+
+Name: ARM_Robe_Body_Sorcerer_DraconicAncestry
+Root Template: 5ebd4ed6-17e6-4787-86d6-bbcaad8c6565
+
+Name: ARM_Robe_Body_Sorcerer_StormSorcery
+Root Template: a81be340-0706-4201-bb4c-da52920574cf
+
+Name: ARM_Barbarian
+Root Template: f6599c3f-cfcd-4721-9cc2-1df5d8ff0154
+
+Name: ARM_Bard
+Root Template: da345d08-2186-4e4a-857c-3fd6a104cec6
+
+Name: ARM_ScaleMail_Body_Paladin_Devotion
+Root Template: a455f1a1-acc6-4fce-a09e-111aceced98a
+
+Name: ARM_ScaleMail_Body_Paladin_Ancients
+Root Template: e4daf34d-053c-471a-9171-92fa9b4db4af
+
+Name: _Armor_Destroyed
+
+Name: ARM_Padded_Body_Destroyed
+Root Template: e8609f47-b67c-4020-850d-58f7897593e0
+
+Name: ARM_Leather_Body_Destroyed
+Root Template: 91d8e57d-4c73-47ca-87dc-252ab0a3aa95
+
+Name: ARM_ChainShirt_Body_Destroyed
+Root Template: 82f4d3d6-c2c8-47ee-8fcb-7b093deff6e9
+
+Name: ARM_ScaleMail_Body_Destroyed
+Root Template: ddf6982a-72d4-44db-a152-4dd2b816e836
+
+Name: ARM_HalfPlate_Body_Githyanki_Destroyed
+Root Template: c3aaffa5-096d-4d4c-87b6-a9298d306cb6
+
+Name: ARM_Robe_Destroyed
+Root Template: 14c13bc9-ab35-4cab-a220-23a61cd43845
+
+Name: ARM_Gloves_Leather
+Root Template: 8e34fd76-8b6d-48a5-89e3-942289bec31e
+
+Name: ARM_Gloves_Metal_Githyanki
+Root Template: 30b19abd-fc49-4826-811f-9c4c556ae6f0
+
+Name: ARM_Bracers_Barbarian
+
+Name: _Hand_Magic
+
+Name: _Hand_Magic_Metal
+
+Name: ARM_Shoes
+Root Template: 97f37571-35e8-4cc8-8b0d-ff92d20ae0bb
+
+Name: ARM_Magic_Shoes
+
+Name: ARM_Boots_Leather
+Root Template: 969bab00-b269-46a5-a7e9-dd4887814719
+
+Name: ARM_Shoes_Barbarian
+Root Template: 2577a332-8ad2-4e54-b52b-f4f7cc5823a1
+
+Name: _Foot_Magic
+
+Name: _Foot_Magic_Metal
+
+Name: ARM_BootsOfSpeed
+Root Template: 8b22d15a-85bb-4c8d-90cf-a773fc451eac
+
+Name: _Foot_VisualVariation
+
+Name: ARM_Boots_Leather_Druid
+Root Template: 7de51e0b-cb9d-4279-9bc5-b0d85dce4cf6
+
+Name: ARM_Boots_Leather_A
+Root Template: cf987856-1381-477e-88db-6b359f7e19e8
+
+Name: ARM_Boots_Leather_B
+Root Template: 2a5964b5-ee7c-4acf-9f40-f45a313b4755
+
+Name: ARM_Boots_Leather_C
+Root Template: c1f9f7af-cdb2-49f6-8459-521f2b9263cb
+
+Name: ARM_Boots_Leather_D
+Root Template: 38f78b0a-4f55-406f-8b28-7c0ec8220905
+
+Name: ARM_Boots_Leather_E
+Root Template: 39eb6810-3cb9-4ddb-966a-ddd68b93e62c
+
+Name: ARM_Boots_Leather_F
+Root Template: d7219371-2f32-4675-b805-a0c9af19c1ff
+
+Name: ARM_Shoes_A
+Root Template: 9c16f3c5-f25a-49ee-b24c-7e974334939f
+
+Name: ARM_Shoes_B
+Root Template: f649e46c-f1d1-4eb7-af73-368423951707
+
+Name: ARM_Shoes_C
+Root Template: 10e07ff1-5586-44fb-b437-31db1f7748ec
+
+Name: ARM_Shoes_D
+Root Template: 85d78eab-e4ad-4f56-bfb3-87c6368f5b17
+
+Name: ARM_Shoes_E
+Root Template: 2134b8b6-fb84-4521-a154-b734c3cf6fd9
+
+Name: ARM_Shoes_F
+Root Template: 524ca019-25b5-4769-a9e4-842505710e77
+
+Name: ARM_Shoes_G
+Root Template: 6c194c79-51c7-4cbd-a5b1-ef0d06b7c559
+
+Name: ARM_Shoes_H
+Root Template: 127d5d89-d6ab-4e4a-b6fe-a3586e6d7020
+
+Name: _Head
+
+Name: ARM_Hat
+Root Template: 4d2e0931-3a01-4759-834b-8ae36749daab
+
+Name: ARM_Hat_Rich
+Root Template: 4d2e0931-3a01-4759-834b-8ae36749daab
+
+Name: ARM_Hat_Wizard_A
+Root Template: 07ad0e9f-7fb4-418f-a1ef-06b431c252be
+
+Name: ARM_Hat_Wizard_B
+Root Template: 65f78de8-f6aa-4080-84de-73e654b02883
+
+Name: ARM_Hat_Wizard_C
+Root Template: a05f4468-4e26-4856-b996-ba8ab8e55a14
+
+Name: ARM_Hat_Wizard_D
+Root Template: b8bd447c-eef3-441e-9fb8-303b5b926432
+
+Name: ARM_Hat_Wizard_E
+Root Template: e24d6a8b-5489-4c5c-b133-b435fda3918a
+
+Name: ARM_Hat_Wizard_F
+Root Template: 694320b7-726b-4804-9dd6-fbc8a307a05f
+
+Name: ARM_Hat_Wizard_G
+Root Template: ff47e1c4-f49f-460c-b6a6-dce635fa48c4
+
+Name: ARM_Hat_Wizard_H
+Root Template: 4a4e2cf1-a02f-41c4-b68f-5f5301f74577
+
+Name: ARM_Hat_MuffinHat_A
+Root Template: 90008c9b-ca19-46c1-9c2b-7164983de6da
+
+Name: ARM_Hat_MuffinHat_B
+Root Template: 3d3c949f-8fff-4133-b12e-3c739dbd6428
+
+Name: ARM_Jester_Hat
+Root Template: 56769fcd-f35c-4569-b7ef-9a974fd2e226
+
+Name: ARM_MerregonMask
+Root Template: b2409a86-dc0d-4193-9985-4f11419c64be
+
+Name: ARM_Helmet_Leather
+Root Template: c58a1f91-ec1b-49c8-96ab-d94d4be4b584
+
+Name: ARM_Helmet_Metal
+Root Template: 67a87879-533e-4f9b-8274-f5bd37748ace
+
+Name: ARM_Circlet
+Root Template: 348b0f52-8960-43e0-ae38-c1d3b1974c3f
+
+Name: _Head_Magic
+
+Name: _Head_Magic_Leather
+
+Name: _Head_Magic_Metal
+
+Name: _Head_Magic_Circlet
+
+Name: ARM_CircletOfBlasting
+Root Template: 3abdbb8a-4701-4397-8fce-7a8dd8a0bb84
+
+Name: ARM_HeadbandOfIntellect
+Root Template: 8779b30f-dc6f-4264-b7af-9dc0eff51bb0
+
+Name: _Head_VisualVariation
+
+Name: UNI_ShadowheartCirclet
+Root Template: 437aede9-dea6-46fd-ade2-fc9cfef16c3d
+
+Name: _Back
+
+Name: ARM_Cloak
+Root Template: a1978b4d-3d93-49ec-9a8b-d19171ed35d5
+
+Name: _Back_Magic
+
+Name: _Ring
+
+Name: ARM_Ring
+Root Template: ecf4a8a4-7859-4a82-8c08-0c9526f29500
+
+Name: ARM_Ring_Copper
+Root Template: 7ff7d7b1-6fdd-44b7-b0ca-d9f4ebf5bb72
+
+Name: ARM_Ring_B
+Root Template: 7ff7d7b1-6fdd-44b7-b0ca-d9f4ebf5bb72
+
+Name: ARM_Ring_C
+Root Template: d4d7ed7f-3b51-4be4-8b3c-15dcd4f9de91
+
+Name: ARM_Ring_D
+Root Template: 9e1ef422-c33e-4429-a197-abc07a02d767
+
+Name: ARM_Ring_E
+Root Template: 8b1c2137-76e4-4a47-bebb-cf50847aca08
+
+Name: ARM_Ring_F
+Root Template: 5dafe8e9-8437-4347-96eb-98b58efaacf6
+
+Name: ARM_Ring_G
+Root Template: 5f2b3262-bc71-4873-beb5-b51968e565ee
+
+Name: ARM_Ring_H
+Root Template: f284c260-84d9-45d6-8a15-257401f361dc
+
+Name: ARM_Ring_I
+Root Template: 5b22795e-8193-4933-98f9-9667d6f60b53
+
+Name: ARM_Ring_Silver
+Root Template: 9c147265-5b32-44fe-af57-fa0d3f6c5712
+
+Name: ARM_Ring_B_Silver_A
+Root Template: 9c147265-5b32-44fe-af57-fa0d3f6c5712
+
+Name: ARM_Ring_C_Silver_A
+Root Template: 81d843ad-2343-4964-b5d0-3db44dfee4e1
+
+Name: ARM_Ring_D_Silver_A
+Root Template: a9f741f6-a758-47ea-bb21-9a37d3ddfe42
+
+Name: ARM_Ring_E_Silver_A
+Root Template: efe2746c-10d4-4082-9133-d05b6f7fa291
+
+Name: ARM_Ring_F_Silver_A
+Root Template: 49b84359-6a28-460e-af98-4526c5fca6fd
+
+Name: ARM_Ring_G_Silver_A
+Root Template: 34dceb64-7246-4a2a-b7c0-411725ce468e
+
+Name: ARM_Ring_H_Silver_A
+Root Template: 5cbedb00-e900-439e-9035-50ab581fc5b9
+
+Name: ARM_Ring_I_Silver_A
+Root Template: fc5dbbb6-10ec-427d-abe5-a04f5182e332
+
+Name: ARM_Ring_Gold
+Root Template: 5cd7c5d3-fb97-4757-b5fd-dcc7a43110a7
+
+Name: ARM_Ring_A_Gem_A_Gold
+Root Template: 173aad0e-0db4-4f2f-8f24-49e6898b8f90
+
+Name: ARM_Ring_A_Simple_Gold
+Root Template: ecf4a8a4-7859-4a82-8c08-0c9526f29500
+
+Name: ARM_Ring_B_Gem_A_Gold
+Root Template: 8eba01b5-b731-447f-887e-0cf0dd4d53d4
+
+Name: ARM_Ring_B_Gem_B_Gold
+Root Template: 2a4b298c-88cb-4951-b244-2e65e6819945
+
+Name: ARM_Ring_B_Gold_A
+Root Template: 5cd7c5d3-fb97-4757-b5fd-dcc7a43110a7
+
+Name: ARM_Ring_C_Gold_A
+Root Template: a631b70a-22e9-4e2c-bb07-2164c2beb5d0
+
+Name: ARM_Ring_D_Gold_A
+Root Template: b7aab838-cafa-4b7d-a8d5-95ec3488f909
+
+Name: ARM_Ring_E_Gold_A
+Root Template: aa39ec3a-55c5-465c-8a3f-d5eb810c073f
+
+Name: ARM_Ring_F_Gold_A
+Root Template: 66dc3535-3757-403b-8236-de380bf3f4ca
+
+Name: ARM_Ring_G_Gold_A
+Root Template: b72c3fb7-c172-4dfa-81bb-f924a3c1ec19
+
+Name: ARM_Ring_H_Gold_A
+Root Template: 638307c5-20ec-41a3-8c2f-c86d56bbaf73
+
+Name: ARM_Ring_I_Gold_A
+Root Template: 65bb04bb-4313-4446-b250-727a712000c9
+
+Name: _Ring_Magic
+
+Name: ARM_RingOfPoisonResistance
+Root Template: 35688051-90df-40e1-890b-c3cde2c82fde
+
+Name: _Amulet
+
+Name: ARM_Amulet
+Root Template: 51873c0d-f319-45e6-a6a2-79164cd8f3db
+
+Name: ARM_Amulet_Bronze
+Root Template: fda631e5-83f5-4ae4-b28f-cf4da102e3be
+
+Name: ARM_Amulet_Necklace_A_Bronze_Green
+Root Template: 8bba4a7c-a7df-4d1f-b202-286522a028fa
+
+Name: ARM_Amulet_Necklace_B_Bronze_A
+Root Template: fda631e5-83f5-4ae4-b28f-cf4da102e3be
+
+Name: ARM_Amulet_Necklace_C_Bronze_A
+Root Template: 032c0c5e-158f-4c51-8fbe-f7658f43c853
+
+Name: ARM_Amulet_Necklace_D_Bronze_Green
+Root Template: 15be2ce4-3f2c-4b75-8068-bd13fd69a3d5
+
+Name: ARM_Amulet_Necklace_F_Bronze_A
+Root Template: 3a3a688b-4d18-44df-9190-003493492070
+
+Name: ARM_Amulet_Silver
+Root Template: 51873c0d-f319-45e6-a6a2-79164cd8f3db
+
+Name: ARM_Amulet_Necklace_A_Silver_Orange
+Root Template: 51873c0d-f319-45e6-a6a2-79164cd8f3db
+
+Name: ARM_Amulet_Necklace_B_Silver_A
+Root Template: 50d054ee-4982-46eb-8f16-7a1c71ec8e28
+
+Name: ARM_Amulet_Necklace_C_Silver_A
+Root Template: c3d8f808-3f35-4206-9f6d-a26961953616
+
+Name: ARM_Amulet_Necklace_D_Silver_Purple
+Root Template: 1df12296-498c-494c-b639-f103b63156a3
+
+Name: ARM_Amulet_Necklace_F_Silver_B
+Root Template: e75e18a0-0a94-42b4-8745-063ea00a5a66
+
+Name: ARM_Amulet_Pearl
+Root Template: 5fb93f62-06fa-4dc1-9c59-ff3fd48043d4
+
+Name: ARM_Amulet_Necklace_E_Pearl_A
+Root Template: 5fb93f62-06fa-4dc1-9c59-ff3fd48043d4
+
+Name: ARM_Amulet_Necklace_E_Pearl_B
+Root Template: 8174f2b6-e595-4d18-a3bb-b1617d0524ac
+
+Name: ARM_Amulet_Necklace_E_Pearl_C
+Root Template: ecd570ea-af01-4835-a9c8-967edf4afe85
+
+Name: ARM_Amulet_Gold
+Root Template: fc44cf0e-04dc-4feb-b143-b1c52cffe252
+
+Name: ARM_Amulet_Necklace_A_Gold_Purple
+Root Template: fc44cf0e-04dc-4feb-b143-b1c52cffe252
+
+Name: ARM_Amulet_Necklace_B_Gold_A
+Root Template: c612c1e6-0ff0-40a1-b199-b25db1c9808e
+
+Name: ARM_Amulet_Necklace_C_Gold_A
+Root Template: ee6309db-5347-435c-94d8-a84f5996ea56
+
+Name: ARM_Amulet_Necklace_F_Gold_A
+Root Template: 912bbc6f-f4f0-4815-9ed5-d914289402e6
+
+Name: ARM_Amulet_Necklace_D_Gold_Blue
+Root Template: 54566608-c5e2-40e1-b2fc-014ba43a67ae
+
+Name: ARM_KeepsakeLocket_A
+Root Template: fa28af9d-f179-4eeb-9780-a4cde893ac1f
+
+Name: _Amulet_Magic
+
+Name: _Shield
+
+Name: ARM_Shield
+Root Template: d2af60ea-1b72-4d25-a188-6d8bc4fe255b
+
+Name: ARM_Shield_C
+Root Template: 4491fcaf-03bf-4087-baf3-b638657080f6
+
+Name: ARM_Shield_D
+Root Template: c069f1f2-1040-4c71-b796-5a95eecfa711
+
+Name: ARM_Shield_E
+Root Template: 89792dc1-221b-462e-adcb-026f2cafbb95
+
+Name: ARM_Shield_Rusty
+Root Template: 8c02c87f-955d-4cc2-b547-f22462ad7106
+
+Name: ARM_Shar_Shield
+Root Template: e4b4c45f-0563-4b00-851c-30a64fcb18ec
+
+Name: ARM_Drow_Shield
+Root Template: e4b4c45f-0563-4b00-851c-30a64fcb18ec
+
+Name: ARM_Drow_Shield_Absolute
+Root Template: 004ab562-5cd4-4f1f-8aa5-497e7e2c5f4f
+
+Name: ARM_Shield_FlamingFist
+Root Template: ab10f66f-6e93-43f5-9384-82565f14124a
+
+Name: ARM_Shield_Broken
+Root Template: d59619ef-320f-4c16-8e21-0644034f0c26
+
+Name: ARM_Toy_Shield
+Root Template: e13facc6-aced-4b48-b239-b0e76448013f
+
+Name: ARM_Goblin_Shield_A
+Root Template: dd7550d6-112d-476e-9234-4901a95bd7f6
+
+Name: ARM_Goblin_Shield_B
+Root Template: 89bb450f-d976-4981-b43e-b5d16948da1e
+
+Name: ARM_Goblin_Shield_C
+Root Template: e0d5a057-328a-467d-b8fb-1bfd298d59e7
+
+Name: ARM_Goblin_Shield_D
+Root Template: 33ab760a-e617-4e12-a3c6-1758c83cc3a7
+
+Name: ARM_Goblin_Shield_E
+Root Template: 2ae874a1-4573-4de3-a595-444591564303
+
+Name: ARM_Duergar_Shield_A
+Root Template: 747387ac-0dc7-47ab-8c69-75269ffc4dbc
+
+Name: ARM_Duergar_Shield_B
+Root Template: 31c99c28-f062-44ba-9ee6-cf969af920c4
+
+Name: ARM_KuoToa_Shield_A
+Root Template: 2099af4a-caa2-4e06-9b6d-fa6e9754bd09
+
+Name: ARM_WoodWoad_Shield
+Root Template: 41b07341-1bf3-450d-9303-377c035c09ac
+
+Name: _Shield_Magic
+Root Template: cb2d6c27-ec29-4555-adf2-41e8c1952439
+
+Name: ARM_Shield_1
+Root Template: cb2d6c27-ec29-4555-adf2-41e8c1952439
+
+Name: ARM_Shield_2
+Root Template: 89792dc1-221b-462e-adcb-026f2cafbb95
+
+Name: _Reference_Shields
+
+Name: ARM_Shield_REF
+Root Template: 84912ccc-b15c-4d6e-b69e-154f3fa2ebbe
+
+Name: ARM_Shield_Round_REF
+Root Template: 4caecc0f-4ae3-4284-bc98-3f01593a8865
+
+Name: _Debug_Armors
+
+Name: ARM_DEBUG_Ring_Strength
+
+Name: ARM_DEBUG_Ring_Dexterity
+
+Name: ARM_DEBUG_Ring_Constitution
+
+Name: ARM_DEBUG_Ring_Intelligence
+
+Name: ARM_DEBUG_Ring_Wisdom
+
+Name: ARM_DEBUG_Ring_Charisma
+
+Name: _Instruments
+
+Name: ARM_Instrument_Drum
+Root Template: 76944b2f-1e79-4c22-8d9a-e6c30e5194e0
+
+Name: ARM_Instrument_Flute
+Root Template: 848ad8dc-59f3-464b-b8b2-95eab6022446
+
+Name: ARM_Instrument_Lute
+Root Template: 8f98a7e7-c773-4b58-9127-5cf79b9206e9
+
+Name: ARM_Instrument_Lute_B
+Root Template: f2487101-548f-4494-9ec8-b20fa3ad6f7b
+
+Name: ARM_Instrument_Lyre
+Root Template: 13739f15-7366-4d7f-9926-991e98b9e964
+
+Name: ARM_Instrument_Violin
+Root Template: aca5d144-773b-42ba-aca1-6903c60c418c
+
+Name: _Vanity_Armors
+
+Name: ARM_Camp_Body
+Root Template: f369f4fa-2da7-4693-a147-16cfaf02bca5
+
+Name: _Vanity_Body_Generic_Common
+
+Name: ARM_Vanity_Body_Citizen
+Root Template: 516d4737-5f69-4083-8bae-3f09e5aab180
+
+Name: ARM_Vanity_Body_Citizen_Black
+Root Template: eff198aa-7040-4893-bde4-b0983c08142c
+
+Name: ARM_Vanity_Body_Citizen_Purple
+Root Template: d73c75f6-7fbf-4336-817e-aab883c47406
+
+Name: ARM_Vanity_Body_Citizen_B
+Root Template: 52353c73-2c58-4dd7-8370-adb266a17fab
+
+Name: ARM_Vanity_Body_Citizen_B_Teal
+Root Template: 2db4d06e-db75-4bcf-97a2-de4dff6939af
+
+Name: ARM_Vanity_Body_Citizen_C
+Root Template: d9caff77-293c-4e8d-a721-3e17908490f8
+
+Name: ARM_Vanity_Body_Citizen_C_Blue
+Root Template: 58f9af08-f4ac-412d-ba38-f8b1d7db9e5f
+
+Name: ARM_Vanity_Body_Citizen_C_Green
+Root Template: 12c9ad5c-040f-44a5-ac30-d8ed4505d651
+
+Name: ARM_Vanity_Body_Citizen_C_Red
+Root Template: 8b9ee0cf-35a6-4439-9402-d5f829645e2a
+
+Name: ARM_Vanity_Body_Pants
+Root Template: a5cc728e-6b8a-4458-86cd-7492f7c4a266
+
+Name: ARM_Vanity_Body_Refugee
+Root Template: c9d62e5b-2734-42cf-9069-6953b8060df0
+
+Name: ARM_Vanity_Body_Refugee_Gray
+Root Template: 47e4e37b-d3fa-4e23-8d53-203804cd3b6e
+
+Name: ARM_Vanity_Body_Refugee_Green
+Root Template: dfe7cf67-64b5-4b91-9ae2-50aea87493f9
+
+Name: ARM_Vanity_Body_Shirt_Blue
+Root Template: e03b6708-5865-409d-8855-67aa834c60bd
+
+Name: ARM_Vanity_Body_Shirt_Red
+Root Template: 4866f90d-ee70-43a8-96a4-35511f4b824e
+
+Name: ARM_Vanity_Body_Shirt_Purple
+Root Template: 8725508f-e47e-488f-8187-3d15ebb9c8e9
+
+Name: ARM_Vanity_Body_Shirt_Green
+Root Template: 39d87577-6f4f-438e-a5b7-abf387a6f0f1
+
+Name: ARM_Vanity_Body_Shirt_Black
+Root Template: 67f1d175-a03b-4cb0-bf3c-c7304b147aca
+
+Name: _Vanity_Body_Generic_Rich
+
+Name: ARM_Vanity_Body_Aristocrat
+Root Template: 3dc4b718-0504-43e2-a88f-0d6736bf6b25
+
+Name: ARM_Vanity_Body_Aristocrat_Brown
+Root Template: 3fc58d24-9743-4e82-a4bd-ad18eda257cb
+
+Name: ARM_Vanity_Body_Aristocrat_White
+Root Template: af6ffb20-cbdc-410c-9a12-6c217eb8aa9c
+
+Name: ARM_Vanity_Body_Patriars
+Root Template: 2e3d2a61-a0ba-495c-80e2-faa452542035
+
+Name: ARM_Vanity_Body_Patriars_Black
+Root Template: 164ebd0f-432e-4aa6-8589-5dccafc8383e
+
+Name: ARM_Vanity_Body_Patriars_Blue
+Root Template: f577a9be-8793-48da-a03d-e66d993dc4e7
+
+Name: ARM_Vanity_Body_Patriars_Green
+Root Template: c2024c47-967b-4d6b-bfb3-978f502d1321
+
+Name: ARM_Vanity_Body_Patriars_Red
+Root Template: c65c5dd5-705c-4103-904c-0835d81bd846
+
+Name: ARM_Vanity_Body_Rich
+Root Template: 9c1fedb8-4262-4426-84cc-8ad8dc01be97
+
+Name: ARM_Vanity_Body_Rich_Gold
+Root Template: 12c2f3d2-a4a6-47e6-a7aa-dfcced16add6
+
+Name: ARM_Vanity_Body_Rich_Green
+Root Template: 3c8eca7a-8c7c-40a5-be4c-64455630f08f
+
+Name: ARM_Vanity_Body_Rich_Teal
+Root Template: f4064489-adce-4b58-b664-311c6d476880
+
+Name: ARM_Vanity_Body_Rich_B
+Root Template: 0469f558-e4f0-4eb5-b4b2-bf00b8e0aa15
+
+Name: ARM_Vanity_Body_Rich_B_Purple
+Root Template: efb49491-ca1d-4bab-a7a7-815f8d298ee0
+
+Name: ARM_Vanity_Body_Rich_B1
+Root Template: a38159ef-a981-4abd-bcdd-58e61558960e
+
+Name: ARM_Vanity_Body_Rich_B1_Beige
+Root Template: 0d2cf317-1e3d-492b-8755-00f33cd3f24f
+
+Name: ARM_Vanity_Body_Rich_C
+Root Template: 66685917-3cd9-4dc8-a792-319288dacb30
+
+Name: ARM_Vanity_Body_Rich_C_Blue
+Root Template: 5daa7ba8-8e8d-4e68-9f5a-3c9f89c32c89
+
+Name: ARM_Vanity_Body_Rich_C_Red
+Root Template: 6909f7fa-6da9-40ea-898e-91cbaac9bf5c
+
+Name: ARM_Vanity_Body_Rich_D
+Root Template: d0b540dd-c778-4573-b0cb-149a0309bfa2
+
+Name: ARM_Vanity_Body_Rich_D_Blue
+Root Template: 0004915f-4399-4ae1-beab-85a62c11b674
+
+Name: ARM_Vanity_Body_Rich_D_Green
+Root Template: 0004915f-4399-4ae1-beab-85a62c11b674
+
+Name: ARM_Vanity_Body_Rich_D_Puple
+Root Template: 05916397-ed55-46e0-bec3-ab6c4b2b1cb4
+
+Name: ARM_Vanity_Body_Rich_D_White
+Root Template: 0e9c3ca7-070f-43e9-b642-bd0b21f76290
+
+Name: ARM_Vanity_Body_Rich_E
+Root Template: 91bb667d-239b-4d56-9287-c41124736872
+
+Name: ARM_Vanity_Body_Rich_E_GreenPink
+Root Template: 1c6c44c6-4bc5-44f6-b5f6-8d3cc4654134
+
+Name: ARM_Vanity_Body_Rich_E_Teal
+Root Template: 6cd27edd-fd6b-491b-8263-c01d9dd915aa
+
+Name: ARM_Vanity_Body_Rich_F
+Root Template: c1212df0-3f47-4af7-b98a-164fca31da97
+
+Name: ARM_Vanity_Body_Rich_F_Blue
+Root Template: a6e5ebd6-beb6-4d67-8aeb-254a2b063332
+
+Name: ARM_Vanity_Body_Rich_G
+Root Template: c9588fa5-3644-4c2d-8b8b-f0d4cdb3869e
+
+Name: ARM_Vanity_Body_Rich_G_Black
+Root Template: 4880fb87-77b7-4931-a586-6909c4a5752a
+
+Name: ARM_Vanity_Body_Rich_G_Bright
+Root Template: e6497a0d-94e6-41bd-8bbd-91885bf56313
+
+Name: ARM_Vanity_Body_Rich_G_Brown
+Root Template: 22a80754-79f2-4b6a-9de4-3e619a80d5d4
+
+Name: ARM_Vanity_Body_Rich_G_Red
+Root Template: 220d0f79-5016-407d-aaa6-5fb4208dcc56
+
+Name: ARM_Vanity_Body_Rich_G2
+Root Template: 9a8a79fe-a9a2-466d-af06-f3973fe5b16b
+
+Name: ARM_Vanity_Body_Rich_G2_Blue
+Root Template: b3185288-bcb3-475d-aac1-7c34fa88898e
+
+Name: ARM_Vanity_Body_Rich_G2_Green
+Root Template: a7b3f166-f909-4103-8c2c-b8559da749b5
+
+Name: ARM_Vanity_Body_Rich_G2_Purple
+Root Template: 0650531b-3a2f-499e-bf4e-58488a14636f
+
+Name: ARM_Vanity_Body_Rich_G2_White
+Root Template: 168a676a-af4c-497c-8b98-76a0f6d20462
+
+Name: _Vanity_Body_Situational
+
+Name: ARM_Vanity_Body_Cultist
+Root Template: ef840839-3516-43b1-823f-103b1e0b04bf
+
+Name: ARM_Vanity_Body_Deva
+Root Template: 62950ae1-b74f-46a6-bfd0-055c93bad651
+
+Name: ARM_Vanity_Body_Drow
+Root Template: 7ab22473-bb9a-49f4-9890-4d3a691331b6
+
+Name: ARM_Vanity_Body_Leather
+Root Template: 82fa106f-3fb9-4c00-818f-5e5df5deb434
+
+Name: ARM_Vanity_Body_Leather_Black
+Root Template: 5efe9bb8-bffe-4c91-bbd6-bee4d5d0611c
+
+Name: ARM_Vanity_Body_Leather_Bright
+Root Template: ab68a753-921f-4df5-9979-d9663cea078e
+
+Name: ARM_Vanity_Body_Leather_Rich
+Root Template: a89389a2-37c5-4fcd-b392-f856451a2325
+
+Name: ARM_Vanity_Body_Leather_Rich_Blue
+Root Template: 6f3c80a9-14f8-481d-ab27-5426a00329e1
+
+Name: ARM_Vanity_Body_Leather_Rich_Green
+Root Template: cf7e5e2f-d791-4929-b1bc-a7ba35db1687
+
+Name: ARM_Vanity_Body_Shar
+Root Template: 754a0191-b439-47ae-9d9e-ebfdad0e9b39
+
+Name: ARM_Vanity_Body_Circus
+Root Template: 76e754a1-9559-4cb7-b11b-045f1b8aada1
+
+Name: ARM_Vanity_Body_Circus_B
+Root Template: c03c2a3c-9e84-4042-8267-189ccb2af715
+
+Name: ARM_Vanity_Body_Prison
+Root Template: a8db945d-ee7a-450a-a8a8-cbcdfd466d85
+
+Name: UNI_DaisyDress
+Root Template: d943c31f-a8c9-49b0-8eba-f120b5075a67
+
+Name: UNI_DaisyPlaysuit
+Root Template: bf4700bb-f1db-4586-8332-4e3e0c3e0fe0
+
+Name: ARM_Vanity_ElegantRobe
+Root Template: 2f7aadd5-65ea-4ab6-8c55-88ee584c72df
+
+Name: ARM_Vanity_Prison_Poor
+Root Template: 42c04143-38cb-4112-91de-0d5ed0ca7101
+
+Name: ARM_Camp_Shoes
+Root Template: 6bb7a595-7646-48a9-9c44-d39f16c1c5cb
+
+Name: _Vanity_Shoes_Generic_Common
+
+Name: ARM_Camp_Shoes_B
+Root Template: d8bc3625-f1d8-4ad3-8cfd-23b6b496cf36
+
+Name: ARM_Camp_Shoes_C
+Root Template: c6db137e-b61c-418f-9785-b0beb6e6de0f
+
+Name: ARM_Camp_Sandals_B
+Root Template: ba0fbaf7-324f-4f79-a124-66ba185faef9
+
+Name: ARM_Camp_Sandals_B_Red
+Root Template: 697a6021-ff43-43d5-b9c9-a432bb3ea59d
+
+Name: ARM_Camp_Sandals_C
+Root Template: aa1b4d17-528f-4934-b350-6b17f389b9dd
+
+Name: _Vanity_Shoes_Generic_Rich
+
+Name: ARM_Camp_Shoes_E
+Root Template: 5272e57c-7ea0-4bda-aac5-449304f4f011
+
+Name: ARM_Camp_Shoes_F
+Root Template: 16a8aee6-568c-458e-b006-cb3344cac4fb
+
+Name: ARM_Camp_Sandals
+Root Template: 1856414d-8a47-4e41-8aee-55991b18f494
+
+Name: ARM_Camp_Sandals_Blue
+Root Template: 2290f957-2e17-4ceb-870f-bd53f81f866c
+
+Name: ARM_Camp_Sandals_A1
+Root Template: 37ceb8fb-7d41-4373-b31b-6fcc602955b4
+
+Name: ARM_Camp_Sandals_A1_Black
+Root Template: 03855492-12d7-42bf-866f-8aeb8eae176f
+
+Name: _Vanity_Shoes_Situational
+
+Name: ARM_Vanity_Shoes_Circus
+Root Template: b61e283d-eba5-4fd2-86a3-21e490ad16bf
+
+Name: ARM_Vanity_Deva_Shoes
+Root Template: db2f2945-debc-4b18-b4f5-6456a11ecddb
+
+Name: _Underwear
+
+Name: ARM_Underwear
+Root Template: d40b567d-6b66-447e-8923-2bbd0d7aea00
+
+Name: ARM_Underwear_Dragonborn
+Root Template: 8494f6d9-d588-4d18-bb0d-c5a58e911771
+
+Name: ARM_Underwear_Dragonborn_Bronze
+Root Template: 6afe0665-ef74-44bb-916a-fb00a267b4b9
+
+Name: ARM_Underwear_Dwarves
+Root Template: 9fecf84d-911f-4986-9454-0429ac437f45
+
+Name: ARM_Underwear_Dwarves_Green
+Root Template: d19364cf-18f9-4841-919b-1e3f0ba2c58c
+
+Name: ARM_Underwear_Elves
+Root Template: 0ec7d956-e65f-4bfa-b677-22f399f81a32
+
+Name: ARM_Underwear_Elves_Blue
+Root Template: f328179e-f5e1-4fd4-bd41-efad411223e8
+
+Name: ARM_Underwear_Elves_Purple
+Root Template: 6d076cab-f23a-4a80-89b6-107be7f345bd
+
+Name: ARM_Underwear_Githyanki
+Root Template: 1cb3fb1b-2dfc-446a-9c9b-666eb0de05d6
+
+Name: ARM_Underwear_Githyanki_Black
+Root Template: 1dc7ff19-a089-4289-8a4f-77c4be1c229d
+
+Name: ARM_Underwear_Gnomes
+Root Template: d692d48f-9a39-4001-8a38-c01e397953dc
+
+Name: ARM_Underwear_Gnomes_Blue
+Root Template: 50a2cef0-8e1b-4166-ac15-06f8bde59e29
+
+Name: ARM_Underwear_Halflings
+Root Template: 78063154-288f-41aa-a99f-e56cbf601129
+
+Name: ARM_Underwear_HalfOrcs
+Root Template: 3caad2f1-719f-4070-b7f0-887c49c773d3
+
+Name: ARM_Underwear_HalfOrcs_Orange
+Root Template: 7d989a9c-ab69-43e0-8fca-02b13d254ae2
+
+Name: ARM_Underwear_Humans
+Root Template: d40b567d-6b66-447e-8923-2bbd0d7aea00
+
+Name: ARM_Underwear_Humans_B
+Root Template: 7efbf614-e004-4e64-b39e-c7928e703b8b
+
+Name: ARM_Underwear_Humans_C
+Root Template: e1797af7-5459-4db2-99da-5703fa203edb
+
+Name: ARM_Underwear_Incubus
+Root Template: 5fa043bf-0445-49ad-9e82-0df77c639fe2
+
+Name: ARM_Underwear_Tieflings
+Root Template: 498c155f-8675-4a55-9cb0-89dd7270469f
+
+
+File: C:\Users\gmc51\Documents\GameMods\BG3\ModUtilities\LsLib-&-MultiTool\Multitool\UnpackedData\Shared\Public\SharedDev\Stats\Generated\Data\Armor.txt
+Name: ARM_ScaleMail_Body_Paladin_Vengeance
+Root Template: bed301f2-cbb8-492f-b94a-597dfc119b3c
+
+Name: UNI_Karlach_StarterArmor
+Root Template: 2e3a2651-18ce-44b0-b7bd-3e2565bf666c
+
+Name: UNI_Karlach_Shoes
+Root Template: 20f935fc-c55b-4841-9f14-1bd71c4bf3c8
+
+Name: UNI_Karlach_Gloves
+Root Template: 8ee5bdde-c22f-452f-add9-2d82ec3dc390
+
+Name: ARM_Boots_Metal_Karlach
+Root Template: df040e30-b424-4a89-be1b-83ffd57eb5a1
+
+Name: ARM_Monk
+Root Template: 063ea449-a0ba-4749-b9b5-869b2c0ebf92
+
+Name: ARM_Padded_BGWatch
+Root Template: 9a487731-93df-45bd-bfcb-9bc82140c719
+
+Name: ARM_Breastplate_BGWatch
+Root Template: f94eafb0-4277-45cd-96c8-03d0184eed51
+
+Name: ARM_StuddedLeather_CultOfAbsolute
+Root Template: 0d6cf147-e47a-481e-9ed7-a2d85e358d2c
+
+Name: ARM_Robe_CultOfAbsolute
+Root Template: 799fd23a-8e18-4642-8650-521dd7880c2b
+
+Name: ARM_Civilian_Body
+Root Template: fefa15ce-2277-42eb-b49a-83e5ac2594c6
+
+Name: ARM_Breastplate_Body_Githyanki
+Root Template: 80b78428-809f-4978-acea-d54670011fbe
+
+Name: ARM_Shield_GuardianOfFaith_Good
+Root Template: efdb7b03-83b0-4284-b1fb-06c5c78424d0
+
+Name: ARM_Shield_GuardianOfFaith_Neutral
+Root Template: 134a78a5-7a20-415a-9af1-5b141db51d42
+
+Name: ARM_Shield_GuardianOfFaith_Evil
+Root Template: 65fff410-33fd-49a6-aacd-d24610bc0e7b
+
+Name: ARM_Shield_Azer
+Root Template: 89792dc1-221b-462e-adcb-026f2cafbb95
+
+Name: ARM_Countercharm_Instrument_Lute
+
+Name: ARM_Countercharm_Instrument_Violin
+
+Name: ARM_Countercharm_Instrument_Drum
+
+Name: ARM_Countercharm_Instrument_Flute
+
+Name: ARM_Countercharm_Instrument_Lyre
+
+Name: ARM_Countercharm_Instrument_MusicBox
+
+Name: ARM_Leather_Body_Drow
+Root Template: 181383f0-c2db-4a15-9786-7d5a396dbfdd
+
+Name: ARM_DeathKnight_Shield
+Root Template: 5b8fe99f-56d9-48a8-a9d0-8290ebae6461
+
+Name: ARM_Splint_Body_Dwarven
+Root Template: ed0e4aee-affe-4d80-bf09-086d4515fc2f
+
+Name: UNI_Leather_Jaheira
+Root Template: f91623dd-7dcd-4d05-b353-6a15f5caa921
+
+Name: UNI_Jaheira_Gloves
+Root Template: 5d3b434b-4448-47c3-8dc3-92e1ca946e29
+
+Name: UNI_Jaheira_Boots
+Root Template: edcc4d57-ba17-4470-ad78-bc2b967b524c
+
+Name: ARM_Leather_Body_Minsc
+Root Template: be29b42a-e3ab-4a41-b4c2-7443cf65162f
+
+Name: ARM_Gloves_Leather_Minsc
+Root Template: ca7faba9-aafb-4a04-b838-17b5d4eadee6
+
+Name: ARM_Cloak_Long_B
+Root Template: 8ed92d35-159c-493c-a8da-fba455f181e4
+
+Name: ARM_Cloak_Long_C
+Root Template: a5f5a875-932b-44c4-8b45-88d2ed379787
+
+Name: ARM_Cloak_Long_C_1
+Root Template: c2f0ea14-9384-4b5e-a0eb-81909ce72d38
+
+Name: ARM_Cloak_Long_D
+Root Template: fc49414b-49d6-4f57-ae92-721d9d912d83
+
+Name: MAG_Gortash_Cloth
+Root Template: 8b868b78-320b-43d0-b5a8-5e52669fc11e
+
+Name: MAG_Gortash_Boots
+Root Template: 48408219-2ab9-4f08-8cb8-2d955fb3dae8
+
+Name: MAG_Gortash_Gloves
+Root Template: f7d87a7a-e5aa-4bc9-ba51-4e2df3e0bae0
+
+Name: ARM_ScaleMail_FlamingFist
+Root Template: 0db0d565-db86-4213-befa-096c3bd09330
+
+Name: ARM_Leather_FlamingFist
+Root Template: 738b0d75-74ce-466b-864d-c5f0f764842b
+
+Name: ARM_HalfPlate_FlamingFist
+Root Template: 4aa373b2-0cb7-4b69-af38-0d1352236a1f
+
+Name: ARM_Robe_FlamingFist
+Root Template: 3ae83f97-63f4-4dab-848f-0b8ac5c26649
+
+Name: ARM_Shoes_Monk
+Root Template: 2c49ed8d-6ca0-45a9-8d2e-a93fe29d3fe2
+
+Name: MAG_Orin_Cloth
+Root Template: 0629b687-0f66-4555-9612-0a787e14545c
+
+
+File: C:\Users\gmc51\Documents\GameMods\BG3\ModUtilities\LsLib-&-MultiTool\Multitool\UnpackedData\Gustav\Public\Honour\Stats\Generated\Data\Armor.txt
+Name: MAG_Harpers_RingOfProjection
+
+Name: MAG_PHB_ofPower_Pearl_Amulet
+
+Name: MAG_Thunder_ReverberationOnStatusApply_Boots
+
+Name: MAG_Shadow_SpellDCBonusWhileObscured_Circlet
+
+Name: MAG_Acid_AcidDamageOnWeaponAttack_Ring
+
+Name: MAG_Healer_HPRestoration_Amulet
+
+Name: MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves
+
+Name: MAG_ElementalGish_MomentumOnElementalDamage_Boots
+
+Name: MAG_Frost_GenerateFrostOnDamage_Gloves
+
+Name: MAG_PHB_PeriaptofWoundClosure_Amulet
+
+Name: MAG_BarbMonk_Defensive_Cloth
+
+Name: MAG_PHB_CloakOfProtection_Cloak
+
+Name: MAG_Monk_Magic_Hat
+
+Name: UNI_ARM_OfMissileSnaring_Gloves
+
+Name: UNI_MassHealRing
+
+Name: UNI_ARM_OfArchery_Gloves
+
+Name: MAG_BG_OfDevotion_Shield
+
+Name: MAG_CKM_SerpenScale_Armor
+
+Name: MAG_BarbMonk_Offensive_Cloth
+
+Name: MAG_OfTheBalancedHands_Gloves
+
+Name: MAG_OfSwordmaster_Gloves
+
+Name: MAG_Evasive_Shoes
+
+Name: MAG_OfAutomaton_Gloves
+
+Name: MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak
+
+Name: MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat
+
+Name: MAG_RiskyAttack_Ring
+
+Name: MAG_CQCaster_ArcaneChargeAfterDash_Boots
+
+Name: MAG_Psychic_MentalFatigue_Cape
+
+Name: MAG_OfTheDuelist_Gloves
+
+Name: MAG_PHB_Sentinel_Shield
+
+Name: MAG_BarbMonk_Cloth_Hat_A_1_Late
+
+Name: MAG_Fighter_ActionSurge_AttackBonus_Gloves
+
+Name: MAG_BG_OfCrushing_Gloves
+
+Name: MAG_Paladin_RestoreChannelDivinity_Armor
+
+Name: MAG_Thunder_InflictDazeOnThunderDamage_Ring
+
+Name: MAG_ofMarksmanship_Hat
+
+Name: MAG_Stalker_Gloves
+
+Name: MAG_Martial_Exertion_Gloves
+
+Name: MAG_BG_Nimblefinger_Gloves
+
+Name: MAG_Zhentarim_Swap_Gloves
+
+Name: MAG_OfWarMaster_Gloves
+
+Name: MAG_PHB_CloakOfDisplacement_Cloak
+
+Name: MAG_LuckySeven_Amulet
+
+Name: MAG_BarbMonk_Leather_Circlet
+
+Name: MAG_MM_Sorcery_SeekingSpell_Gloves
+
+Name: MAG_Warlock_Twinned_Gloves
+
+Name: MAG_EndGameCaster_Cloak
+
+Name: MAG_PHB_OfRegeneration_Ring
+
+Name: MAG_GleamingSorcery_Hat
+
+Name: MAG_Warlock_Quickened_Gloves
+
+Name: MAG_Critical_HidingCritical_Cloak
+
+Name: MAG_EndGameCaster_Hood
+
+Name: MAG_Druid_Spore_Magic_Leather_Armor
+
+Name: MAG_BG_OfTheMasters_Legacy_Gauntlet
+
+Name: MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves
+
+Name: MAG_CQCaster_CloseRangedSpellMastery_Gloves
+
+Name: MAG_BG_OfDexterity_Gloves
+
+Name: MAG_Bhaalist_Armor
+
+Name: MAG_Bhaalist_Hat
+
+
+File: C:\Users\gmc51\Documents\GameMods\BG3\ModUtilities\LsLib-&-MultiTool\Multitool\UnpackedData\Gustav\Public\GustavDev\Stats\Generated\Data\Armor.txt
+Name: _TWN_a
+
+Name: CRE_Crest_Abbot
+Root Template: bf385fcc-8a09-4c98-b899-c9dafb1d830d
+
+Name: TWN_BondedByLove_HusbandsRing
+Root Template: 7becedf0-a90a-40d3-a726-e4e671f3d73f
+
+Name: TWN_BondedByLove_WifesRing
+Root Template: bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780
+
+Name: TWN_BootsOfApparentDeath
+Root Template: 8838eb53-ed3d-4d64-9fe7-a82ab7249c18
+
+Name: TWN_TollCollector_ArmorPart_Head
+Root Template: d7ba60e5-fe90-4503-9919-0f831c306c53
+
+Name: TWN_TollCollector_ArmorPart_Arm_L
+Root Template: def9e410-c2a3-4132-a38c-f7dc436679ad
+
+Name: TWN_TollCollector_ArmorPart_Arm_R
+Root Template: 6dce5e63-42bd-4d49-830a-e40d9641cef4
+
+Name: TWN_TollCollector_ArmorPart_Torso
+Root Template: ee8533b8-483e-4ce6-93d4-82d5a1c29a30
+
+Name: TWN_TollCollector_ArmorPart_Leg_L
+Root Template: 17e965b2-7ae6-4b28-b545-b11469efbd9c
+
+Name: TWN_TollCollector_ArmorPart_Leg_R
+Root Template: cb3330bd-672d-4d4c-973c-fcc7e7c037c5
+
+Name: TWN_RegretfulHunter_SoulAmulet
+
+Name: TWN_NecklaceOfCharming
+Root Template: 9c10ac72-da07-4aca-a2ce-3d04d1ce3485
+
+Name: TWN_Tollhouse_TradersRing
+
+Name: TWN_ShieldOfWatcher
+Root Template: cb2b1ac8-5589-464f-ac9f-ccd6fd27ebed
+
+Name: MAG_TWN_Surgeon_ParalyzingCritical_Amulet
+Root Template: d6db1ae8-8e8e-49d1-8968-5cdb7fa3a02a
+
+Name: SHA_JusticiarArmor_Gloves
+Root Template: 73a443e0-2056-4e4c-b8d2-d4283d8d3595
+
+Name: MAG_JusticiarArmor_Gloves
+Root Template: 518a925b-eb77-44e7-999d-e8c195b2261d
+
+Name: LOW_RamazithsTower_Nightsong_Silver_Shield
+Root Template: daadda55-d439-47eb-a308-acaf575a7fd5
+
+Name: MAG_ChargedLightning_StaticDischarge_Amulet
+Root Template: defadacf-466a-4a4e-85e4-84e2fb7266d2
+
+Name: MAG_ChargedLightning_EnsnaringShock_Ring
+Root Template: 5c8235c3-1aad-4b6d-bd0c-9753c77da5d2
+
+Name: SHA_SandthiefsRing
+Root Template: bf2949fe-6739-4149-ac68-106a00eec905
+
+Name: MOO_Ketheric_Armor
+Root Template: 53b3e771-5835-4703-8845-28169b836b8c
+
+Name: SCE_KhalidsGift
+Root Template: 64b31781-85f6-4266-8fac-430d79bcbdb4
+
+Name: LOW_GuildRing
+Root Template: 46b1d5d4-34e0-467e-b1b8-a43ae33f7541
+
+Name: UNI_GLO_Orin_TeleportRing
+Root Template: 66079879-2c5c-492a-8fb6-bfbae79475e6
+
+Name: MAG_Frost_GenerateFrostOnDamage_Robe
+Root Template: 50faa322-b43d-475a-91b7-25d390ac3ef6
+
+Name: MAG_Frost_GenerateFrostOnStatusApply_Hat
+Root Template: d8ef5f3c-cada-42f8-a947-c3a3f62e569d
+
+Name: MAG_Frost_GenerateFrostOnDamage_Gloves
+Root Template: e6bb26ab-2987-4061-9c5c-764b377f91b8
+
+Name: MAG_Frost_IceSurfaceProneImmunity_Boots
+Root Template: 6ca10a61-07d8-478c-a6e7-8e43072233cf
+
+Name: MAG_Frost_Frostbite_Amulet
+Root Template: 6cc1bd88-9ff8-42bc-ac63-495d0cc027e4
+
+Name: MAG_Frost_GenerateSurfaceOnColdDamage_Ring
+Root Template: ee8d0bb8-ee1c-437c-b8e0-a9671b865c48
+
+Name: MAG_ElementalGish_MomentumOnElementalDamage_Boots
+Root Template: cf8e6826-9133-425a-be21-79a41e1f7add
+
+Name: MAG_ElementalGish_ArcaneAcuity_Helmet
+Root Template: df71a665-a179-43b3-89ee-2e355166fa9b
+
+Name: MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves
+Root Template: 9e259ea7-291f-41bd-b275-cc49edba3bb6
+
+Name: MAG_ElementalGish_ElementalInfusion_Ring
+Root Template: 9ce563ca-82b0-4c28-bd82-8640fd0a5be3
+
+Name: MAG_ElementalGish_AbsorbElements_Cloak
+Root Template: 811ab129-2fb2-49ed-af29-5042197022fe
+
+Name: MAG_ElementalGish_CantripBooster_Amulet
+Root Template: a92cec2f-3a86-4aa1-a7e9-1d6dc9e12957
+
+Name: MAG_Gish_ArcaneAcuity_Gloves
+Root Template: 15381544-e616-46e6-a881-0af793971863
+
+Name: MAG_Gish_ArcaneSynergy_Circlet
+Root Template: f6585fc7-22bb-4e58-b4a6-bbb56e48a86f
+
+Name: MAG_Gish_ArcaneSynergy_Ring
+Root Template: fa7b47e8-d411-4379-b68a-8ceb26891265
+
+Name: MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring
+Root Template: c4194cee-6f9a-4c5e-8327-816d44c86316
+
+Name: MAG_Gish_TempHPWhileConcentrating_Boots
+Root Template: 306d3417-5e12-499e-832e-86b602a075de
+
+Name: MAG_Gish_WeaknessBranding_Amulet
+Root Template: 894a6847-3d80-4368-86fb-354c8cb23525
+
+Name: MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring
+Root Template: afdcde80-f976-4781-86be-75a5fb0ae05e
+
+Name: MAG_Radiant_Radiating_Helmet
+Root Template: 5b3c40c5-b0c0-44b5-9b75-e642069fd2cc
+
+Name: MAG_Radiant_RadiatingOrb_Armor
+Root Template: a2cbaf4f-3eb8-4362-9f2e-d325a0d47a36
+
+Name: MAG_Radiant_RadiatingOrb_Ring
+Root Template: 3bd041cf-bff5-4464-9002-5c17b957b3c7
+
+Name: MAG_Radiant_RadiatingOrb_Gloves
+Root Template: e8a72355-b81f-484e-bc7d-945ec81c04a3
+
+Name: MAG_ZOC_RampartAura_Amulet
+Root Template: 20beaa42-f9fb-4b53-9c86-b971059b845b
+
+Name: MAG_ZOC_ForceConduitWhileSurounded_Boots
+Root Template: cde75746-e209-433b-838c-300e3c7d8306
+
+Name: MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves
+Root Template: 1001f28b-5ea3-4257-864c-f60c812aecf0
+
+Name: MAG_ZOC_ForceConduit_ChainMail
+Root Template: b2530a6b-1235-4f5f-b61c-d174a980bc0b
+
+Name: MAG_ZOC_Force_Helmet
+Root Template: 5ac19da8-48bf-4a75-b312-430c1ab7cb41
+
+Name: MAG_Fire_HeatOnFireDamage_Gloves
+Root Template: aaf703d3-77d2-4259-9369-f98416be0e2e
+
+Name: MAG_Fire_SelfImmolation_Ring
+Root Template: 69362d04-4569-4ec8-8946-c20ee2dc1490
+
+Name: MAG_Fire_HeatOnTakingFireDamage_Amulet
+Root Template: ad278f33-7c10-4779-88fc-d1448f25ae72
+
+Name: MAG_Fire_ArcaneAcuityOnFireDamage_Hat
+Root Template: dbd8a255-771c-4c3e-b3d6-65d744b2cbd8
+
+Name: MAG_Fire_HeatOnInflictBurning_Boots
+Root Template: eff1515c-4612-4e23-9b50-71f318a2f117
+
+Name: MAG_Fire_BurningOnDamaged_Cloak
+Root Template: 8a31c554-1545-4647-b24d-93cf5d81df18
+
+Name: MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat
+Root Template: fa68c8ad-67d7-4680-88bc-f0b066e71761
+
+Name: MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak
+Root Template: c4c5150c-0931-4d9e-b7b2-36f40d56c290
+
+Name: MAG_Thunder_InflictDazeOnThunderDamage_Ring
+Root Template: 5c05ff73-9d0d-4d58-b93a-e4b448a1e388
+
+Name: MAG_Thunder_Reverberation_Gloves
+Root Template: c987b6e4-adcb-47d6-8dfd-6d4d2f15a381
+
+Name: MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet
+Root Template: 203321f7-74f6-428c-90be-5d8b12da23ec
+
+Name: MAG_Thunder_ReverberationOnStatusApply_Boots
+Root Template: 3908725d-29d1-4c9a-be46-4e03c8c65238
+
+Name: MAG_Poison_InflictPoisonHealSelf_Cloak
+Root Template: 857d9a3c-5a40-4dfa-a634-99629095248b
+
+Name: MAG_Poison_PoisonExposure_Gloves
+Root Template: 49c8234e-3134-40f0-8001-e221114b1d2a
+
+Name: MAG_Poison_PoisonLethality_Ring
+Root Template: c4f364cc-daa1-4783-a474-b7ff394d2157
+
+Name: MAG_Acid_AcidDamageOnWeaponAttack_Ring
+Root Template: 463b0a81-1fc3-4db1-bafe-a915f9a8e028
+
+Name: MAG_Acid_AcidMeleeCounter_Cloak
+Root Template: a927e273-3385-4a11-8941-e952d0ddfd38
+
+Name: MAG_Acid_NoxiousFumes_Gloves
+Root Template: ca7a96f9-594c-4ed3-afd3-aed0094c383c
+
+Name: MAG_Shadow_BlindImmunity_Ring
+Root Template: 0661eb9b-0924-450d-923b-1e371de444ae
+
+Name: MAG_Shadow_CriticalBoostWhileObscured_Helmet
+Root Template: 8aaf7649-5bee-442a-9192-5e8abd723c55
+
+Name: MAG_Shadow_FogCloud_Amulet
+Root Template: 17a817b0-ea8b-492c-8925-402ad5cd84d5
+
+Name: MAG_Shadow_SpellDCBonusWhileObscured_Circlet
+Root Template: f0e42b7e-4d6b-46fb-85d6-d577afc72040
+
+Name: MAG_Shadow_FogOfCloudDisengage_Cloak
+Root Template: 4b8ea38f-d0c0-4c29-a66f-bea71219f8a3
+
+Name: MAG_Shadow_ShadowBlade_Ring
+Root Template: 8cc165d7-0372-4f4b-b4ac-f424f4069af1
+
+Name: MAG_Shadow_Shadowstep_Boots
+Root Template: 6cae9a98-b75d-408e-ac59-d6bde6e4ab13
+
+Name: MAG_Shadow_StealthBonusWhileObscured_Armor
+Root Template: 3ce4d5d2-3ed0-470e-8cea-bdac81a60583
+
+Name: CRE_Hatchery_AcidPoisonImmunity_Boots
+Root Template: 3462aa18-bb93-403c-b28d-9841c147787f
+
+Name: MAG_CQCaster_ArcaneChargeAfterDash_Boots
+Root Template: 400b3aca-fc9e-44c7-b5a7-a183693d3a75
+
+Name: MAG_CQCaster_CloseRangedSpellMastery_Gloves
+Root Template: c9f03464-488c-4f3f-aa2f-6d4c8e48a106
+
+Name: MAG_CQCaster_GainArcaneChargeOnDamaged_Robe
+Root Template: 9e8f0ce6-c344-47f9-bb99-202cdd2f7d73
+
+Name: MAG_CQCaster_SpellDCBonusWhileThreatened_Circlet
+Root Template: 4def305d-0141-4811-b1d1-353d323f5f2a
+
+Name: MAG_CQCaster_TempHPAfterCast_Cloak
+Root Template: 62a89e3a-ef88-457a-8219-0cefae6dec92
+
+Name: MAG_Enforcer_NonLethalBlessing_Shield
+Root Template: 35be7c52-fe89-4bec-9d15-0d7ddb94bf38
+
+Name: MAG_Enforcer_RejunevatingKnock_Helmet
+Root Template: e9d1d363-5ebc-41ef-bb87-0db20780765d
+
+Name: MAG_Druid_Ironvine_Shield
+Root Template: eb06636a-8052-492e-bfb1-67fcb18358d1
+
+Name: MAG_Druid_Ironwood_Armor
+Root Template: e17c0a45-e064-4a9f-8bcb-ba273440008d
+
+Name: MAG_Restoration_SpellSlotRestoration_Amulet
+Root Template: ba147dc7-98bc-4bfb-9fbc-efa1735d0841
+
+Name: MAG_TerrainWalkers_Boots
+Root Template: 0624ccf0-1b77-448f-8da9-d8a04efa4935
+
+Name: MAG_Critical_Force_Gloves
+Root Template: 556c4071-7d59-4cb7-ad84-9fa0efcd535f
+
+Name: MAG_Critical_HidingCritical_Cloak
+Root Template: aff94826-0ea4-42e3-8855-aa2002c01b76
+
+Name: MAG_Critical_BolsteringCritical_Armor
+Root Template: a0dfac7c-c6ea-44f1-a12d-b5e67887ae8e
+
+Name: MAG_Critical_ArcanicCritical_Gloves
+Root Template: e07fb5cb-4276-4ecd-8758-7bb9b172372b
+
+Name: MAG_Critical_CriticalSwiftness_Boots
+Root Template: 93cc1480-9fe1-4e76-8c0b-0ad3caf35285
+
+Name: MAG_Critical_CriticalExecution_Ring
+Root Template: 2f2d4bf3-6a14-43f5-81fe-e14aa9871215
+
+Name: MAG_PHB_CloakOfProtection_Cloak
+Root Template: 602f62dd-0fba-4438-ad68-b846f17ac538
+
+Name: MAG_PHB_CloakOfDisplacement_Cloak
+Root Template: 257aed3e-370d-40b3-b464-de10257dd82b
+
+Name: MAG_PHB_ElvenChain_Armor
+Root Template: 391bccb7-8199-41e3-9aa3-261def2ebf26
+
+Name: MAG_Psychic_MentalFatigue_Gloves
+Root Template: 0071fe71-ad1e-4be0-9ca3-cdfdc558b571
+
+Name: MAG_Psychic_PsychicFeedback_Armor
+Root Template: 38fe10d2-720a-4576-a8a7-254646e8f568
+
+Name: MAG_Psychic_Staggering_Amulet
+Root Template: ebe323ad-029a-4d04-8564-106e45d32f12
+
+Name: MAG_Psychic_TempHP_Ring
+Root Template: 13bc3b80-9e0e-44cc-a2e4-612eebfb385f
+
+Name: MAG_Psychic_MentalFatigue_Cape
+Root Template: 1b4d85b9-eefd-4629-9985-db3cb5365e8f
+
+Name: MAG_Psychic_MentalOverload_Ring
+Root Template: 70893b6f-b0de-4f4e-af9f-f10e2c09bd1e
+
+Name: SCL_SpidersLyre
+
+Name: CRE_MAG_Psychic_Githborn_Circlet
+Root Template: 8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f
+
+Name: CRE_MAG_Githborn_Amulet
+Root Template: 1310524f-408e-405d-8d75-7a6d3cb18bcc
+
+Name: MAG_Githborn_MagicEating_HalfPlate
+Root Template: f601bac2-16a7-4da0-854a-ae4132ca448f
+
+Name: MAG_FlamingFist_Flaming_Shield
+Root Template: 8c7caa2a-7c11-4f0b-86a8-b8808057101b
+
+Name: MAG_FlamingFist_ScoutRing
+Root Template: 959e9aa6-b12b-4b71-83b4-0debdf647e9c
+
+Name: MAG_FlamingFist_BattleWizardGloves
+Root Template: 761d719f-dade-4f61-9d23-cc378f9d2f0c
+
+Name: MAG_Harpers_HarpersAmulet
+Root Template: ddc9ac0b-8e68-422b-8d9d-c081629ab4ad
+
+Name: LOW_PendulumOfMalagard
+Root Template: 4c1143b7-1f07-465a-90a0-64df5c00717d
+
+Name: MAG_Illithid_Regen_Circlet
+Root Template: 4b3d2d3d-3dd5-4872-af6c-7acb3756b6c7
+
+Name: MAG_Illithid_Carapace_Gloves
+Root Template: 9e90efe2-200a-4923-a597-ddc044e704f2
+
+Name: MAG_Illithid_Carapace_Armor
+Root Template: ee3c78be-d33b-4d1b-b433-2634a39f50aa
+
+Name: MAG_Illithid_CharmPerson_Ring
+Root Template: 931bdffe-0a36-4645-89f9-5ea7ec2eeb7f
+
+Name: MAG_Illithid_MindTax_Amulet
+Root Template: 28daf3e2-18c6-479d-82f6-54041596980e
+
+Name: MAG_Harpers_ArmorOfShadows
+Root Template: 2077fe9a-991d-4763-9b1a-fff843efd705
+
+Name: MAG_Harpers_JhannylGloves
+Root Template: 79741a3c-730a-4e9d-a3fe-ec39df64af0f
+
+Name: MAG_Harpers_RingOfProjection
+Root Template: 4aba2198-98f9-4ec8-8a1b-bbd9ed864856
+
+Name: MAG_Harpers_RingOfTwilight
+Root Template: 252584f5-e8b8-4ad8-8776-b3a2bb9e0823
+
+Name: MAG_Harpers_ShieldsOfShadows
+Root Template: 1977f0ae-4269-4024-bb3b-a4cca54fafe0
+
+Name: MAG_Harpers_RingOfAttraction
+Root Template: 6c6c956e-80d3-4382-b651-b647ed0a998b
+
+Name: MAG_Myrkulites_CircletOfMyrkul_Circlet
+Root Template: d2a4e407-b5de-4f0b-ab7a-75f9bf5041dd
+
+Name: MAG_Myrkulites_RingofMyrkul_Ring
+Root Template: 6594c1e3-0868-4efd-a93c-b6f4b3bd034d
+
+Name: MAG_Monk_Magic_Armor
+Root Template: ab7f13b8-3b3f-49be-8708-4d52b9690e45
+
+Name: MAG_Monk_Magic_Boots
+Root Template: 1cd85fa0-b46a-43c6-88d2-e90ad4e73cf7
+
+Name: MAG_Monk_Magic_Gloves
+Root Template: 3e088120-9a4f-4e94-9d1e-23fae8616cd4
+
+Name: MAG_Monk_Magic_Hat
+Root Template: 4d444e63-152c-48b7-a198-7027fb5904f0
+
+Name: MAG_Monk_SoulRejunevation_Armor
+Root Template: 1c69a87e-9136-4e13-90af-c0f02d0fc81f
+
+Name: MAG_Monk_SoulPerception_Hat
+Root Template: bfd9ef48-7251-4259-86b0-6646f5f99d72
+
+Name: QUEST_LOW_Bhaal_Amulet
+Root Template: 16a632e2-45b1-4ff1-8250-513eb271abea
+
+Name: TWN_AasimarSurvivor_HazmatSuit
+
+Name: SCL_MastiffPoachers_Ring
+Root Template: 9297096d-98d6-4637-9b7c-843af752505e
+
+Name: MAG_Infernal_Plate_Armor
+Root Template: 7ae705fd-1cfd-4482-a584-d2e68f9c1262
+
+Name: MAG_Infernal_Metal_Helmet
+Root Template: 1c198060-6b6a-41c5-82ce-a3d3c3d76404
+
+Name: MAG_Infernal_Metal_Gloves
+Root Template: ad219a90-ab3d-4821-8206-011293f5837b
+
+Name: MAG_Infernal_Metal_Boots
+Root Template: bc82f909-ade5-4ada-9b94-cec7ca1d4a68
+
+Name: MAG_LC_TheAmplifier_Amulet
+Root Template: a3964bb7-abe5-49f3-a1b1-30ff160ecbf3
+
+Name: MAG_LC_Nymph_Cloak
+Root Template: 6062db99-6719-44e2-9d01-9a99131d1ba7
+
+Name: MAG_LC_Jannath_Hat
+Root Template: 62189421-f3e5-4ebc-927a-26bc0ebf844a
+
+Name: MAG_Zhentarim_Lockpicking_Gloves
+Root Template: 31809893-c293-4c89-b6b6-437a3c49b604
+
+Name: MAG_LC_DrowSpider_Gloves
+Root Template: 69d30b5a-1fcc-4d66-88a2-6f021ae8f010
+
+Name: MAG_PHB_PeriaptofWoundClosure_Amulet
+Root Template: 716e94de-130b-4f54-84d9-a14fc60adcfb
+
+Name: MAG_PHB_Sentinel_Shield
+Root Template: 2baa835f-1422-43f0-9d2a-11e601fbb25e
+
+Name: MAG_PHB_Ring_Of_Protection
+Root Template: 1352a999-76cc-46c5-a67a-26edc2011911
+
+Name: MAG_LC_Cyric_FearImmunity_Amulet
+Root Template: a67c7aa5-7b3f-4222-a655-6e4217d3b8e6
+
+Name: MAG_LC_Umberlee_Regeneration_Robe
+Root Template: 56a26829-5103-49e7-8f5a-b88381a86903
+
+Name: MAG_LC_Umberlee_Regeneration_Boots
+Root Template: a1eb910c-0090-4c50-a1cb-a35cbe8c80f2
+
+Name: MAG_LC_Umberlee_Protection_Cape
+Root Template: e36702e9-10e5-4964-b254-7ff0659f9bb5
+
+Name: MAG_LC_Tinkerer_Gloves
+Root Template: dbcab01a-0654-4365-836b-c0f8ccc94558
+
+Name: MAG_LC_Lorroakan_Robe
+Root Template: 09e5d397-bcf6-456a-be6e-e6b474721f1c
+
+Name: MAG_LC_HellishMadness_Amulet
+Root Template: 52503330-69de-427a-a443-b49ab748fc1c
+
+Name: MAG_WYRM_SleepImmunity_Amulet
+Root Template: d9ee5eb0-3fa8-4d9c-96d2-676798791095
+
+Name: MAG_OpenHand_Radiant_Gloves
+Root Template: 59fcc2e4-5897-4e0d-a9ca-4d9234f85af8
+
+Name: MAG_Monk_Cold_Gloves
+Root Template: 6ba63a43-5322-4a03-b82f-46eb6bf9cf4f
+
+Name: MAG_Banites_Gloves
+Root Template: 106d74f9-5341-478e-a8d5-feaef5624675
+
+Name: MAG_Monk_Lightning_Gloves
+Root Template: e050d6c6-a228-4bc2-9794-9ae5c69345c7
+
+Name: MAG_Monk_Thunder_Gloves
+Root Template: 6906d0c8-d99d-439c-8a4c-c00f081770ba
+
+Name: MAG_Monk_Fire_Gloves
+Root Template: 663e4a1a-5f0d-4e2e-8dcf-0fb515fc2e0f
+
+Name: MAG_WYRM_UndeadProtector_Robe
+Root Template: fe48d485-1563-4172-952c-7eb53d9faca8
+
+Name: MAG_WYRM_OfBalduran_Helmet
+Root Template: 0a64283a-1fc4-45cd-9e5e-f463f6b762ea
+
+Name: MAG_EndGameCaster_Robe
+Root Template: 56906f41-61a3-4c23-aa46-2295e08d9add
+
+Name: UNI_DarkJusticiarArmor_HalfPlate
+Root Template: 742d43ff-b74d-4cbe-9554-51773bbccdc2
+
+Name: UNI_SHA_DarkJusticiar_Boots
+Root Template: e33850ba-f697-40f5-abec-2951077f2cef
+
+Name: UNI_DarkJusticiar_Helmet
+Root Template: 3523b640-e9da-4d89-b031-6ffe1d5fd3ed
+
+Name: UNI_OrpheusChains_Helmet
+Root Template: 520666df-5f1b-4fd9-983e-c0753f224855
+
+Name: UNI_OrpheusChains_Gloves
+Root Template: 35c0a291-fe35-4a3e-94d5-adbf31b269d4
+
+Name: MAG_EndGame_Plate_Armor
+Root Template: fb2ff6d1-3096-4904-813c-a448e3fbec4d
+
+Name: MAG_EndGame_HalfPlate
+Root Template: 42e6357a-4c05-4eda-9415-6b6b4c7d44c5
+
+Name: MAG_EndGame_StuddedLeather_Armor
+Root Template: 8472235c-8ced-4db3-825f-322eace0f34d
+
+Name: MAG_Heat_Fire_Robe
+Root Template: 63df7557-efe6-4e11-8a0d-10ab211ac1b8
+
+Name: MAG_OfSpellResistance_Robe
+Root Template: c3309d8f-8cff-4418-b064-bca8bd77700c
+
+Name: MAG_OfArcanicAssault_Robe
+Root Template: 1f038181-a534-434b-b447-7c4084636cc3
+
+Name: MAG_OfArcanicDefense_Robe
+Root Template: f3e90ffd-1559-4915-8829-740f55741c92
+
+Name: MAG_Zhentarim_Demonspirit_Gloves
+Root Template: 7ef359b6-79af-4414-99bc-f93bc5eeed77
+
+Name: MAG_PHB_OfEvasion_Ring
+Root Template: 57e350dc-5156-49a7-8994-0f6a8eca08ea
+
+Name: MAG_WYRM_OfTruthTelling_Ring
+Root Template: d897788f-6bed-498a-a87d-c205c7195525
+
+Name: MAG_FlamingFist_Flame_Armor
+Root Template: 12a8f326-cc3a-4d21-92c2-f3a6d0fcaee3
+
+Name: MAG_PHB_ScarabOfProtection_Amulet
+Root Template: 7107c86e-ec6a-4bd8-bc93-8147412fc501
+
+Name: MAG_Warlock_Twinned_Gloves
+Root Template: fc4fd633-bc45-4ff4-90e6-2e454f7ceaa0
+
+Name: WYR_MonkAmulet_Amulet_NoGhost
+Root Template: 14a6da9a-6689-4c70-96a1-d03319ba3278
+
+Name: WYR_MonkAmulet_Amulet_AfterCombat
+Root Template: 7eaa1331-877c-40d7-9811-8238aee09f68
+
+Name: ARM_BootsOfDimensionalDoor
+Root Template: ae4af670-5674-4fed-bbf9-4083f06519b0
+
+Name: MAG_Githborn_MageHandSupport_Gloves
+Root Template: 4be77d67-2310-44fc-bdaf-81cffb411467
+
+Name: MAG_Githborn_PsionicMovement_Boots
+Root Template: 18919a04-67a0-4321-82ff-ce2b64a27589
+
+Name: UNI_LOW_SteelWatchFoundry_ExplodingCollar
+Root Template: 47af23c3-7eb0-4a49-a4a4-f2ee5ab521c0
+
+Name: LOW_KerriRing_Ring
+Root Template: d874115c-6b92-4222-b1a2-594cf111b075
+
+Name: LOW_JannathRing_Ring
+Root Template: d5617279-2a10-4749-9d2d-686144178689
+
+Name: UNI_DarkUrge_Bhaal_Cloak
+Root Template: dff731f7-d6da-403d-80cf-7f3d9cc7345b
+
+Name: MAG_Bhaalist_Armor
+Root Template: 443b2caf-8d36-42cf-b389-d774229ed18c
+
+Name: MAG_Bhaalist_Hat
+Root Template: d5d22dfc-bba4-4e2c-ba71-c804d3b47919
+
+Name: MAG_Bhaalist_Gloves
+Root Template: afd74d05-7c24-45ec-8033-84f365e6ea5f
+
+Name: UNI_ARM_OfGiantHillStrength_Gloves
+Root Template: 9481aa27-ce9c-414c-84ff-5e974fd64d89
+
+Name: UNI_ARM_Debtor_Body
+Root Template: 30c5721d-bdc3-4150-8cd1-d99197eb4870
+
+Name: UNI_ARM_DebtorAlt_Body
+Root Template: 6f7d15a8-9bcb-45de-94c5-8c77424aaf42
+
+Name: MAG_Greenstone_Amulet
+Root Template: e4d2562d-2789-4598-befe-d46b255f551a
+
+Name: MAG_OfFeywildSparks_Ring
+Root Template: a4813d7b-2ff0-488b-8152-a27cb75e8d8e
+
+Name: LOW_OfWindrider_Amulet
+Root Template: 489290fd-c517-4c26-83e8-db102d8db25b
+
+Name: MAG_Steadfast_Shield
+Root Template: 1cee750f-79c6-4109-8272-d27b97ef02df
+
+Name: MAG_OfShielding_Shield
+Root Template: dfeaa5fd-1f87-4f99-85b0-8f49664d691f
+
+Name: MAG_OfTheDevout_Amulet
+Root Template: 1acf71e6-6bca-4d9b-9d24-739823e10723
+
+Name: LOW_DeadMansSwitch_Shield
+Root Template: 10d9e4a8-8019-47a9-88e3-dac74f7b8ae5
+
+Name: MAG_OfTheShapeshifter_Mask
+Root Template: 5d66776d-0650-4512-b300-b2ac38e2be3a
+
+Name: QUEST_WYR_RestoredMagicRing
+
+Name: MAG_Oathbreaker_Boots
+Root Template: 71030d3c-c3c4-4ad6-80de-f9871bd6f11d
+
+Name: MAG_Oathbreaker_Gloves
+Root Template: f66431d0-08a6-4b15-b8a4-7154fc1e5f47
+
+Name: MAG_Oathbreaker_Helmet
+Root Template: ae1dc399-3706-447e-8c79-f8a35c035ec4
+
+Name: MAG_Oathbreaker_Platemail
+Root Template: c67137ac-4ece-4652-aaab-14615aa25b20
+
+Name: MAG_OfAutomaton_Gloves
+Root Template: d10ec0b7-5868-4563-9a34-e1ab72d50269
+
+Name: MAG_TheBulwark_Shield
+Root Template: 4f313dde-14bb-43a2-abdd-07b2eb38b33a
+
+Name: _Body_override
+
+Name: UNI_LOW_SzarrRing
+Root Template: 846d27b5-c247-4049-9872-86171c172015
+
+Name: DLC_DD_Red_Price_Cloak
+Root Template: be8f2382-576f-426f-ae90-45544b507e07
+
+Name: DLC_DD_Lohses_Lute
+Root Template: 35a38ec0-8902-46bf-ae84-f2361e713b7e
+
+Name: DLC_DD_Beasts_Tricorn
+Root Template: d7696865-e8c2-4c44-a890-a43f5b6f9752
+
+Name: MAG_ofGreaterHealth_Amulet
+Root Template: 5ed63342-30c9-456d-9a57-a88c8596c0c9
+
+Name: MAG_OfUndeadServant_Ring
+Root Template: e86c0cbb-9791-4cc7-95ba-9821902119fa
+
+Name: MAG_Lesser_Infernal_Plate_Armor
+Root Template: d76dd47b-e1bf-4e30-b366-6069d9eb9e22
+
+Name: MAG_Lesser_Infernal_Metal_Gloves
+Root Template: cbc9b5dd-76e5-4e22-b0cf-26e957033a9d
+
+Name: MAG_Lesser_Infernal_Metal_Helmet
+Root Template: 2b69a73f-0d1b-4514-bdae-5565a8045e26
+
+Name: MAG_LegendaryEvasion_Amulet
+Root Template: ed529c1b-abb0-4efa-8f5b-c4ed8560dfd3
+
+Name: MAG_MissileProtection_Shield
+Root Template: e308d17c-7278-44c1-b1fc-853ea3cf5c29
+
+Name: UNI_ARM_OfMissileSnaring_Gloves
+Root Template: 687cc55b-77a3-4893-a7d7-cfbafdc2737c
+
+Name: UNI_ARM_OfArchery_Gloves
+Root Template: 6d84b9e5-e9e4-477c-8d5b-a3f232a4415a
+
+Name: UNI_ARM_OfTeleportation_Helm
+Root Template: fef0dda1-1d06-45b5-a302-a31e545b8ede
+
+Name: UNI_ARM_OfDefense_Gloves
+Root Template: 58315437-f06a-4797-a26a-6bbcff80c4fe
+
+Name: UNI_ARM_Sarevok_Armor
+Root Template: 935f9927-2df0-4a8d-a831-b7cb5bbbcae3
+
+Name: UNI_ARM_Sarevok_Horned_Helmet
+Root Template: 139b28dc-7db0-40b2-a383-3a4ce4c09812
+
+Name: MAG_OfGreaterSorcery_Amulet
+Root Template: 99864ac4-824c-4049-8933-e81667c4a408
+
+Name: MAG_WoodWoad_Nature_Shield
+Root Template: 90ba50bd-3e65-42ec-9f21-6e07d3ed89ab
+
+Name: MAG_Vampiric_Gloves
+Root Template: 51ce5b9a-e56a-40d6-9383-ad4ec7042acc
+
+Name: MAG_ShapeshiftersBurgeon_Ring
+Root Template: 6853e585-e9c7-4f26-918e-995342b19d1a
+
+Name: MAG_PHB_OfJumping_Ring
+Root Template: cddea208-03cc-4b67-969d-a038bb233e5d
+
+Name: MAG_PHB_ofPower_Pearl_Amulet
+Root Template: 6b8fcc06-fa6a-4a11-8318-075d90d8e909
+
+Name: MAG_PHB_OfFreeAction_Ring
+Root Template: 50379f58-7892-44cb-be6e-146a60070055
+
+Name: MAG_PHB_OfThievery_Gloves
+Root Template: 5a2d9181-8179-46cc-a5f8-d5bae909d8e0
+
+Name: MAG_PHB_OfRegeneration_Ring
+Root Template: d6ee2594-7373-4fed-a167-f9d95cb4ecfd
+
+Name: MAG_PHB_OfSoulCatching_Gloves
+Root Template: c1342b19-c898-451c-b2e8-6eb6666fe1c2
+
+Name: MAG_Warlock_Quickened_Gloves
+Root Template: 4b1b3dcd-dcbc-4a93-a848-f16510d76d82
+
+Name: MAG_BonusAttack_AgainstMarked_Circlet
+Root Template: 1e59513c-a787-4f77-bcef-675ac4199daf
+
+Name: MAG_Martial_Exertion_Gloves
+Root Template: 2c6da257-8ca8-4e7c-847d-3e03bb32f260
+
+Name: MAG_Bonded_Shield
+Root Template: 3a8f9b79-1153-4128-8832-a306502fd512
+
+Name: MAG_OfSwordmaster_Gloves
+Root Template: 66e20a58-4bc3-4e17-a13e-510a19b23c33
+
+Name: MAG_RiskyAttack_Ring
+Root Template: 6fa51fb6-0c99-4e2e-bf3c-f4fe18fd64a7
+
+Name: MAG_MM_Sorcery_SeekingSpell_Gloves
+Root Template: 98c60a0f-a58b-4dc1-99ca-06b9db0cd42f
+
+Name: MAG_GleamingSorcery_Hat
+Root Template: 76ce9b38-9203-437f-9962-4be4c4ad1193
+
+Name: MAG_OfWarMaster_Gloves
+Root Template: 85865321-5feb-447f-92e7-5c04359fe3af
+
+Name: MAG_Healer_HPRestoration_Amulet
+Root Template: b648ee98-f648-411b-be7e-6c50ca9b463c
+
+Name: MAG_Acrobat_Shoes
+Root Template: 32b1a84f-2e32-4249-8b19-ecaa7f279cb0
+
+Name: MAG_Jumping_Shoes
+Root Template: b9872a9c-d653-4108-9060-21d6d8ec511a
+
+Name: MAG_BG_OfDexterity_Gloves
+Root Template: f3775096-0055-4d35-8cc0-f5765284bc7d
+
+Name: MAG_OfTheDuelist_Gloves
+Root Template: 97e362b2-e2aa-4703-9840-6824d7068334
+
+Name: MAG_BG_OfTheMasters_Legacy_Gauntlet
+Root Template: c9ea7679-d30a-481f-b45b-c0427d569ec7
+
+Name: MAG_BG_Wondrous_Gloves
+Root Template: afe6c7a2-fdd7-4cca-9441-e0b3a2237f5f
+
+Name: MAG_BG_OfCrushing_Gloves
+Root Template: a8d15838-5721-4a3f-bfbd-f51c58c2fde3
+
+Name: MAG_Illithid_Carapace_Boots
+Root Template: 397331d6-e86e-448d-8255-014dab6f860f
+
+Name: MAG_EndGame_Metal_Boots
+Root Template: f3d8ff49-eaac-4c10-9421-3fd2180c7b39
+
+Name: MAG_CKM_SerpenScale_Armor
+Root Template: 14ebeea8-7d0a-47a9-ba79-b1168c21f8d4
+
+Name: MAG_BG_Nimblefinger_Gloves
+Root Template: fbc9b0ad-f31e-4cdc-a1cc-1e2204cb46c5
+
+Name: MAG_Evasive_Shoes
+Root Template: 119f753a-8b06-44d8-bb9a-8a307f6032da
+
+Name: MAG_BG_Gargoyle_Boots
+Root Template: b22318a2-5c8d-4886-b181-6602f3e4e535
+
+Name: MAG_BG_OfDevotion_Shield
+Root Template: a0bc3295-c01d-405e-8396-e0fa7e1e5340
+
+Name: MAG_Stalker_Gloves
+Root Template: dd99248c-fe42-4d07-9861-853e9291ea51
+
+Name: MAG_ArcaneTrickster_Ring
+Root Template: 5b74c9d8-cb88-4a29-99c4-25d98c7d88f7
+
+Name: MAG_OB_Paladin_DeathKnight_Shield
+Root Template: b3571443-403b-431b-b4ba-3d943a500f4b
+
+Name: MAG_OB_Paladin_DeathKnight_Armor
+Root Template: 1109da0a-2d12-4ed3-a93a-fe369023ead3
+
+Name: MAG_OB_Paladin_DeathKnight_Boots
+Root Template: bc3c8375-bad5-4f02-b1f3-2261cea690aa
+
+Name: MAG_OB_Paladin_DeathKnight_Gloves
+Root Template: 65c65d78-1786-4a78-9a43-96c19849b6f3
+
+Name: MAG_Absolute_Protecter_Shield
+Root Template: 53b3317f-5a52-41c0-89ea-c6ef31adc4f7
+
+Name: MAG_Fighter_ActionSurge_AttackBonus_Gloves
+Root Template: 7529f6ba-6fff-4224-bdd9-e10538a96528
+
+Name: MAG_Druid_Magic_Hide_Armor
+Root Template: 9cf8e8a9-16ee-4186-88b7-bdfcaa734e61
+
+Name: MAG_Druid_Magic_StuddedLeather_Armor
+Root Template: e3f2d3d9-8ec6-4033-911a-966630fd1344
+
+Name: MAG_Barbarian_BoneSpike_Armor
+Root Template: 7cca51a5-bfa6-4c65-b2d9-ef0167762a19
+
+Name: MAG_Barbarian_BoneSpike_Helmet
+Root Template: 72152951-3670-4004-b275-6b722c498bbc
+
+Name: MAG_Barbarian_BoneSpike_Gloves
+Root Template: 7e32e812-b79d-4bdb-a7c6-ee6778e893ec
+
+Name: MAG_Barbarian_BoneSpike_Shoes
+Root Template: 23806fd3-f5f6-4ff3-826d-054afe03b7c0
+
+Name: MAG_BarbMonk_Defensive_Cloth
+Root Template: b18ef236-44dc-43cd-8f6e-51ae785fae4d
+
+Name: MAG_BarbMonk_Offensive_Cloth
+Root Template: 48215bcb-b4a2-48cb-bfbe-8b601e678032
+
+Name: MAG_Druid_Late_Hide_Armor_1
+Root Template: a1d321be-ff4c-423a-bc50-bcad85a3a83a
+
+Name: MAG_Druid_Late_Hide_Armor_2
+Root Template: dee3077c-f9ef-4b28-8878-9b61a92ae601
+
+Name: MAG_BarbMonk_Cloth_B_1
+Root Template: 7cca51a5-bfa6-4c65-b2d9-ef0167762a19
+
+Name: MAG_BarbMonk_Cloth_A_1
+Root Template: b18ef236-44dc-43cd-8f6e-51ae785fae4d
+
+Name: MAG_BarbMonk_Cloth_A_1_Late
+Root Template: 48215bcb-b4a2-48cb-bfbe-8b601e678032
+
+Name: MAG_BarbMonk_Cloth_A_2_Late
+Root Template: 1c69a87e-9136-4e13-90af-c0f02d0fc81f
+
+Name: MAG_BarbMonk_Cloth_Hat_A_2_Late
+Root Template: bfd9ef48-7251-4259-86b0-6646f5f99d72
+
+Name: MAG_BarbMonk_Cloth_Hat_A_1
+Root Template: 0d109073-74f6-4e35-80f7-4da10bfcf3b9
+
+Name: MAG_BarbMonk_Cloth_Hat_A_1_Late
+Root Template: 8eece655-bd99-4451-8ce0-f763edec09a4
+
+Name: MAG_Zhentarim_Swap_Gloves
+Root Template: 48c5fe1f-c058-4b47-9a36-024f89a5b0f7
+
+Name: MAG_Druid_Magic_Leather_Armor
+Root Template: 10338c7e-39c8-44b3-a0a2-2a76af453718
+
+Name: MAG_Druid_Moon_Magic_Leather_Armor
+Root Template: d33d71f8-f7b9-4c19-9b39-03d0b9ba8829
+
+Name: MAG_Druid_Land_Magic_Leather_Armor
+Root Template: baa33dbe-6f95-4569-87bf-9582b4b58bd2
+
+Name: MAG_Druid_Spore_Magic_Leather_Armor
+Root Template: eb3a4744-26e4-404a-be65-c72bb17f5cfc
+
+Name: MAG_Safeguard_Shield
+Root Template: 3138b480-3ef6-42af-ba35-e4cad4e962ee
+
+Name: ORI_Wyll_Infernal_Robe
+Root Template: b2de6dee-50c1-45b9-b35d-7d5e8d53135f
+
+Name: MAG_Wizard_Pointy_Hat
+Root Template: 6c2e4f84-a8f2-4a91-81bf-488b497718a2
+
+Name: MAG_EndGameCaster_Circlet
+Root Template: 5cd6935a-4be9-4018-9fc2-e340b96ac519
+
+Name: MAG_EndGameCaster_Hood
+Root Template: c5a627ff-7fc5-4cde-81ca-e4fb57cb38d6
+
+Name: MAG_EndGameCaster_Cloak
+Root Template: 58c9bc94-b0ac-4ab9-a005-28cc445186f8
+
+Name: MAG_DarkJusticiar_HalfPlate
+Root Template: 20318684-a35f-4830-b566-41ecd379893a
+
+Name: MAG_Monk_Magic_Armor_1
+Root Template: dbe75b4c-d23a-4a19-b630-34de519750c6
+
+Name: MAG_Barbarian_Magic_Armor_1
+Root Template: 3a213e92-1714-4f11-9726-ca762943d2cc
+
+Name: ARM_Leather_1_Red
+Root Template: 2cbf1f6b-2607-4789-972f-f51e8c892a68
+
+Name: ARM_Robe_Selunite
+Root Template: 204de787-46de-4d39-8fe0-2e080bf44a61
+
+Name: MAG_Selunite_Isobel_Robe
+Root Template: 3b498702-834f-4989-a9d1-c0f3b38fbcfc
+
+Name: MAG_SpectatorEye_Amulet
+Root Template: 6fe3b3f6-22f4-4745-9be0-25d0e36a1a4f
+
+Name: MAG_Hat_Butler
+Root Template: 14b2e775-9734-4fa0-82c3-2e560b8f2e2f
+
+Name: MAG_Hat_Circushat
+Root Template: 42aa49c5-8ad2-4c2d-bb60-16016fa53205
+
+Name: MAG_Druid_Wildshape_Hat
+Root Template: e3720399-7a78-4073-aff7-cb0fb37b13eb
+
+Name: MAG_CharismaCaster_Robe
+Root Template: 1e64badf-4898-4169-9b02-3910518dc73d
+
+Name: MAG_ofMarksmanship_Hat
+Root Template: f67b0733-ad73-4d1b-94fd-e3e0236623ca
+
+Name: UNI_WYR_Circus_WheelRing
+Root Template: 258f4d35-959c-497b-a38a-df3a1e71f3a0
+
+Name: MAG_Projectile_Shoes
+Root Template: 9b94fd74-bcee-4d30-8862-0a18ae65541b
+
+Name: MAG_EGW_OfTheDrunkard_Amulet
+Root Template: b6510e39-54fc-45fa-a49e-e7d8cbfdafe6
+
+Name: MAG_Drunken_Cloth
+Root Template: 652c5cb5-b03b-4bd4-8993-3d4f07ed215c
+
+Name: MAG_OfSharpCaster_Hat
+Root Template: 5be5a605-ddeb-4244-ba05-551ec86297fa
+
+Name: MAG_Arcanist_Gloves
+Root Template: c187103e-7f51-49f7-b3b7-72ec78e4a44f
+
+Name: MAG_OfTheBalancedHands_Gloves
+Root Template: 7ffce863-d530-4492-a455-a8f11c53d6c3
+
+Name: SCL_MAG_SkepticalRobber_WifesRing
+Root Template: d337a7fe-dcbf-446c-a595-00b30f8f2e58
+
+Name: MAG_PassWithoutTrace_Ring
+Root Template: c0bce741-9829-49c5-9778-426f2b00a642
+
+Name: MAG_SecondChance_Amulet
+Root Template: 49c2d3d1-f489-4433-8f9a-bdef766ee9f1
+
+Name: MAG_OfBlink_Ring
+Root Template: ec81c059-7d71-42ba-8970-cc77b9864967
+
+Name: MAG_OfRevivify_Gloves
+Root Template: 0e94335a-bf4d-47b9-bde7-85ee2f01102f
+
+Name: MAG_Radiant_CrusaderMantle_Cloak
+Root Template: f1fdb8db-e754-4ea9-b6ce-440db6b776ac
+
+Name: MAG_LuckySeven_Amulet
+Root Template: 95f850c6-ccaf-4f37-8c7a-33f740765ec0
+
+Name: MAG_BarbMonk_Leather_Circlet
+Root Template: 48920bf4-85b0-44a1-9f6a-0ad8b493fa47
+
+Name: MAG_Raven_Gloves
+Root Template: ce92a056-0754-4e8a-b3b7-5d6cbb844c65
+
+Name: UNI_LOW_KiamGodasKilatDrum
+Root Template: ab846656-a9f7-4ed5-93ae-85a8df39b5ac
+
+Name: UNI_LOW_DostrealtsPiccolo
+Root Template: 09de8b63-12ad-43d5-a2cf-b9b32692e777
+
+Name: UNI_LOW_StolyarofsTableLute
+Root Template: 59a1ed6f-b530-44b2-972e-2a73e02080cb
+
+Name: UNI_LOW_FalataericCliLyre
+Root Template: 3542b820-713a-4dd3-9cc8-35586f4e7f46
+
+Name: UNI_LOW_GlimmergadSelgauntFiddle
+Root Template: 209c50b2-1e39-4484-905d-588741eba320
+
+Name: MAG_Ketheric_Shield
+Root Template: 6cb88e48-70ce-4304-b3b6-db52d1880bec
+
+Name: MAG_TheOptimist_Amulet
+Root Template: b4f88dd8-0a5b-4641-937e-a882bebc26b1
+
+Name: MAG_TheOptimist_Ring
+Root Template: 743984c8-55a8-4045-9904-f0c84a0cf692
+
+Name: MAG_Justiciar_Shield
+Root Template: a189686a-cfcf-4157-9c18-f7a8e7f0be87
+
+Name: UNI_Ravengard_Plate
+Root Template: 637f2b2f-9947-406e-b942-8b3b884172c0
+
+Name: MAG_Viconia_Robe
+Root Template: bf59b289-5603-479f-8fd3-7cb258d31ba5
+
+Name: MAG_Orpheus_Ring
+Root Template: 1789fae7-b4c9-48a6-8886-cd96687bf45f
+
+Name: MAG_ParalyzingRay_Ring
+Root Template: 7902afa6-2b17-4052-beb2-2a1bced5c6e6
+
+Name: MAG_LOW_Rat_Keepsake_Ring
+Root Template: 75a84557-5cc5-4e74-83a8-1353f84116ef
+
+Name: MAG_Taras_Collar_Amulet
+Root Template: 7d4b8a5c-7748-4021-a760-4bf646518a88
+
+Name: WYR_Circus_TeleportBoots
+Root Template: 480a8519-e375-4ce0-ae0a-513bc9d39820
+
+Name: WYR_Circus_ThiefGloves
+Root Template: 39e420ae-ceae-441c-ab6b-251e97c3c26d
+
+Name: WYR_Circus_WetCloak
+Root Template: fc9f7223-6b39-4734-b600-820fad6c4a08
+
+Name: MAG_Hat_Barbarian_Hide
+Root Template: 271af9f0-409d-4b14-8277-95a36b8dd543
+
+Name: MAG_Helmet_Human_Watcher
+Root Template: c2ef4013-e6d1-48da-99f0-db486c223a90
+
+Name: MAG_DevilsBlackmith_Boots
+Root Template: df040e30-b424-4a89-be1b-83ffd57eb5a1
+
+Name: MAG_DevilsBlackmith_ScaleMail
+Root Template: 5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7
+
+Name: MAG_DevilsBlackmith_Gloves
+Root Template: b337cd63-d206-4229-84fd-4b77809f7eb3
+
+Name: MAG_Toll_Collector_Cloak
+Root Template: c7774285-21b3-44fc-bae0-0b893a6a3549
+
+Name: MAG_BlackTentacle_Amulet
+Root Template: 757d37d1-a225-448f-a25b-02daffbdec97
+
+
+File: C:\Users\gmc51\Documents\GameMods\BG3\ModUtilities\LsLib-&-MultiTool\Multitool\UnpackedData\Gustav\Public\Gustav\Stats\Generated\Data\Armor.txt
+Name: _CRA_a
+
+Name: CRA_HermitCrab_Ring
+Root Template: bcd0ad1a-19b3-4068-a3b0-b968c8d50bf7
+
+Name: _CHA_a
+
+Name: ARM_TalismanOfJergal
+Root Template: e89d55a7-9a68-445a-bac9-b4a02654f0c7
+
+Name: CHA_OutpostJewelry
+Root Template: 8b5fb90f-f957-4a1a-b8eb-2baff0c3b40b
+
+Name: _DEN_a
+
+Name: Quest_DEN_ARM_LuckyBoots
+Root Template: ed82c14d-f047-4c4a-866e-836f33e74e40
+
+Name: DEN_RaidingParty_GoblinCaptain_Gloves
+Root Template: d22e2679-aff0-4244-9ed2-7aac981b82cf
+
+Name: DEN_Thiefling_Ring1
+Root Template: 1abd032b-c138-45ee-b85e-62b5bbb6ea2d
+
+Name: DEN_Thiefling_Ring2
+Root Template: 4ca7ff5f-2c7b-407c-b754-b227d6e4fc31
+
+Name: DEN_Thiefling_Ring3
+Root Template: 1f2df119-5ca2-4860-ba0c-ecbb9c140e37
+
+Name: DEN_Thiefling_Ring4
+Root Template: 46e1228a-6682-4766-af76-bf5a42fe8611
+
+Name: DEN_Thiefling_Ring5
+Root Template: eb4e9410-3d33-4986-a5c2-8642ca5bbfc4
+
+Name: DEN_VoloOperation_ErsatzEye
+Root Template: 000cfc9f-b973-48e7-a5c8-f2992a47a943
+
+Name: DEN_Arabella_Locket
+Root Template: be745c7b-f5a0-48cb-a7bd-3b7713f6e702
+
+Name: DEN_HarpyMeal_NestRing
+Root Template: eadad0c4-d4a5-45cb-b4c3-e16a9b3ebe0a
+
+Name: DEN_BearReward_Amulet
+Root Template: c0b04c1c-afb5-4f02-b832-e12043a2d2c4
+
+Name: DEN_HellridersPride
+Root Template: db4d4560-dc72-4d64-b552-5caf442c0927
+
+Name: UNI_Druid_Helmet_Circlet
+Root Template: f4bef44e-57f1-47b5-ab2d-2457ff21c707
+
+Name: _FOR_a
+
+Name: Quest_Amulet_ConqueringGodPriest
+
+Name: FOR_ShadowheartOM_SharCrown
+Root Template: ad3c0c6b-bcc4-488e-a5cf-32b809188633
+
+Name: FOR_OwlbearCubs_Armor
+Root Template: 9ab8b5fa-ba00-44d4-8c4a-50acd5fa62e3
+
+Name: FOR_OgresForHire_HeadbandOfIntellect
+Root Template: 8f4876f1-44d9-4bb8-802e-907c6b0a0dba
+
+Name: FOR_DeathOfATrueSoul_TrueSoul_Ring
+Root Template: f09b6c2f-e5f3-43df-82c7-9ed5862a7421
+
+Name: FOR_SpiderstepBoots
+Root Template: d0666101-d24e-4d2b-bc63-63f67532b38c
+
+Name: FOR_SpiderQueen_Robe
+Root Template: 0db056b3-23d1-4873-883d-482b5d9337b5
+
+Name: _GOB_a
+
+Name: UNI_GOB_SeluneAmulet
+Root Template: e7bf966a-b611-4c36-89fe-0a3b28393d97
+
+Name: ARM_DrunkGoblinRing
+Root Template: 41eed7f8-308a-4ab8-9f47-8ef619d6da57
+
+Name: GOB_Priest_Shield
+Root Template: 3d57c1a7-2dee-4a0f-aa7a-e7b6574b75e3
+
+Name: GOB_Priest_Amulet
+Root Template: 95b04c9c-8b58-44c5-bf1f-7d4d1027d57e
+
+Name: GOB_DrowCommander_Amulet
+Root Template: 338848e7-b2c6-4f97-879b-cb3439b4f959
+
+Name: GOB_DrowCommander_Leather_Armor
+Root Template: c0c0534c-b7fc-4d0b-a335-b8f4c548852d
+
+Name: GOB_DrowCommander_Leather_Gloves
+Root Template: 69e57d02-44a2-4e39-8b2a-502413761219
+
+Name: GOB_DrowCommander_Leather_Boots
+Root Template: b1bf7df1-94e0-43b1-b083-e55eaafde2ae
+
+Name: GOB_Pens_BeastmasterAmulet
+Root Template: 01d74aea-9e8a-4d03-9b55-e43458b61163
+
+Name: UNI_Leather_Halsin
+Root Template: 26b77cf7-8722-4e61-a820-555de653e8ab
+
+Name: UNI_Halsin_Gloves
+Root Template: eb99ce71-8ef2-4ff6-a94a-a7b9cff3d45b
+
+Name: _HAG_a
+
+Name: HAG_HagsRing
+Root Template: 139a436b-120a-413e-a36e-c0e2c970439c
+
+Name: HAG_EyeballNecklace
+Root Template: 3af0e44d-309a-4a42-818a-288af77a7350
+
+Name: ARM_HAG_Phylactery
+Root Template: 6d02f3e8-9c0e-49ce-993e-035e433d02b2
+
+Name: ACT1_HAG_HagMask
+Root Template: 73690248-deea-4713-84d6-c1c8fb045869
+
+Name: HAG_SwampedHero_OldFancyHelmet
+Root Template: 910ed403-38b3-4128-b07b-0de5d14da8f8
+
+Name: _PLA_a
+
+Name: PLA_SmugglerRing
+Root Template: 1b47637d-fdea-431f-a828-7ff8d9b4341e
+
+Name: PLA_ZhentCave_Gloves
+Root Template: 69271c04-ab3d-4efc-ab3c-4ca6c5ec7db3
+
+Name: _UND_a
+
+Name: FOR_NightWalkers
+Root Template: ac9145d1-31d0-4aa3-8755-62cc85dad22b
+
+Name: UND_Myco_Alchemist_HealerGloves
+Root Template: f3ff7066-f407-41c7-b936-0aff066c08e4
+
+Name: UND_ShadowOfMenzoberranzan
+Root Template: d46206c9-fb4f-44a4-a4f4-f70f8cd2a64c
+
+Name: UNI_UND_RingOfMindShielding
+Root Template: c8f05ff8-58f9-49f9-8ea7-abda1fea27d6
+
+Name: UND_MushroomHunger_RingOfExploration
+Root Template: 046598e3-8cb4-497c-bfd2-866ff88b50db
+
+Name: UND_FairyRing_AntiCharmHelmet
+Root Template: a47c13a1-1a8e-4b3b-9cd9-53cf9c7058f0
+
+Name: UND_SocietyOfBrilliance_MagicMissileNecklace
+Root Template: 4a9f0479-954f-486c-9534-d7d72c11f919
+
+Name: UND_SocietyOfBrilliance_DarkvisionRing
+Root Template: e8b6eb1d-c4f2-4b46-979c-ad3b9469030e
+
+Name: UND_SocietyOfBrilliance_PullingRing
+Root Template: a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978
+
+Name: UND_Minotaur_BeltAmulet
+Root Template: b96d16dc-da98-4108-9a0e-5e55720dbf5c
+
+Name: UND_Tower_RingArcana
+Root Template: 4b6d7c53-43b5-4c17-8139-732ca0fc2972
+
+Name: UND_Tower_RingLight
+Root Template: 70ad7889-e1e2-4c2f-980f-28eaa02c2022
+
+Name: UND_Tower_AmuletDetectThoughts
+Root Template: cfbda235-8cb7-4ee7-bd94-b9a2249ed82e
+
+Name: UND_Tower_BootsFeatherFall
+Root Template: baae9783-dcd3-4d6b-bba3-86faf2fe4c8e
+
+Name: UND_DeadInWater_CallarduranTrinket
+Root Template: f2b2327e-0aae-4389-87fb-cc999f7121ed
+
+Name: UND_DrowDisguiseCowl
+Root Template: 85f6aec3-a6df-458c-8ef4-b3fa58d85a56
+
+Name: UND_MyconidAmulet_Good
+Root Template: 5556b0c1-5b0a-47f9-8bc6-91c8f293f83e
+
+Name: UND_MyconidAmulet_Evil
+Root Template: f6963e1e-b95a-496d-9d57-d4ad79a4394c
+
+Name: UND_MonkAmulet_Amulet
+Root Template: 086ae8fd-c44e-43a7-b8be-777b551a06d6
+
+Name: UND_Justiciar_Mask_Magic
+Root Template: 58968403-4dd6-4611-a7a2-a293ae7cf0b0
+
+Name: UND_Justiciar_Helmet_Magic
+Root Template: 27f1c6cd-c716-440d-ba7c-795c431ce5a3
+
+Name: UND_Justiciar_Chainshirt_Magic
+Root Template: 14c4c9a8-9d2b-4b15-a6b6-a24852092c5a
+
+Name: UND_KC_RingOfAbsolute
+Root Template: c7a58f48-f24f-4139-b0f0-8b12e1bf074e
+
+Name: _MAG_a
+
+Name: UNI_MassHealRing
+Root Template: 4aef9bb0-38a8-428e-8b87-6e462d612dd6
+
+Name: UNI_MartyrAmulet
+Root Template: c1cb7388-bd2f-4cc7-8305-7d7a0651874f
+
+Name: MAG_LowHP_CounterOnDamage_ChainShirt
+Root Template: 81cdbea7-3cd5-44a5-baa7-852c930bdf7b
+
+Name: MAG_LowHP_TemporaryHP_Shield
+Root Template: 3374ad91-ddcf-430a-bddd-f48e8699ade9
+
+Name: MAG_LowHP_IncreaseSpeed_Boots
+Root Template: e3ab8ed8-de3a-466a-ad85-319bdea94bde
+
+Name: MAG_LowHP_ResistanceFire_Gloves
+Root Template: 9c888908-04d0-4047-bf9d-02d3cecb08d6
+
+Name: MAG_LowHP_IgnoreAttackOfOpportunity_Amulet
+Root Template: 5bf24229-7a46-46d7-94d7-766ea5591ec2
+
+Name: MAG_LowHP_BonusAction_Helmet
+Root Template: d98595e1-0722-4200-ab73-5e88269519fa
+
+Name: MAG_LowHP_IncreasedSpellDamage_Amulet
+Root Template: 49a3a5ac-4e04-497a-a721-1decf89ea077
+
+Name: MAG_Fire_IncreasedDamage_Ring
+Root Template: 146e88ea-85ca-469b-9ce0-60be52613f2d
+
+Name: MAG_Fire_ApplyBurningOnFireDamage_Gloves
+Root Template: 88225372-376e-42fb-a028-65ac3d0dd864
+
+Name: MAG_Fire_BonusActionOnFireSpell_Circlet
+Root Template: d5e4dce0-4385-4fae-a601-22a11fe0b2af
+
+Name: MAG_Healer_DisengageOnHeal_ChainShirt
+Root Template: e6e74ef9-1916-4c6b-a7bb-98fc83e71b62
+
+Name: MAG_Healer_HealSelf_Helmet
+Root Template: e305c00e-a231-41e4-86de-cbb320bafbc8
+
+Name: MAG_Healer_HealSelfPoisonWeapon_Amulet
+Root Template: 21abc023-343a-4693-b63f-3ba07a231864
+
+Name: MAG_Healer_TempHPOnHeal_Boots
+Root Template: bc090f4e-ff74-49f6-a3f2-7eb561f57436
+
+Name: MAG_Shove_ACboost_Ring
+Root Template: c714fc94-eeaf-4622-9375-545261867514
+
+Name: MAG_Rage_TempHPOnExit_Gloves
+Root Template: b51863cc-f8de-4945-a062-6bda2a35cdbc
+
+Name: MAG_Mobility_MomentumOnDash_Boots
+Root Template: 1a6825cb-95d5-4542-b018-deb48d936b73
+
+Name: MAG_Mobility_MomentumOnCombatStart_Helmet
+Root Template: 94cc605d-e407-408d-acb6-9e2e31dfb283
+
+Name: MAG_Mobility_SprintForMomentum_ChainShirt
+Root Template: 88107048-2ec3-4e48-9670-4d4dd2ca0ff9
+
+Name: MAG_Mobility_LowHP_Momentum_Ring
+Root Template: 699135e9-8932-4bde-8a17-8be5e11d873f
+
+Name: MAG_Mobility_JumpOnDash_Gloves
+Root Template: df7093d7-efdd-4153-bfb6-b2a6350fb3c2
+
+Name: MAG_Violence_LowHP_Violence_Clothes
+Root Template: 5fc2fcce-810d-47d2-824c-f6acf7b81a22
+
+Name: MAG_Violence_ViolenceOnDamaged_Helmet
+Root Template: b2ac96aa-5f04-49fb-800c-ab51a2bdb3c6
+
+Name: MAG_Violence_ViolenceOnDash_Boots
+Root Template: edb7385a-e4d4-4fb7-ad9f-a9910e4b9e97
+
+Name: MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail
+Root Template: 5427c806-5565-421f-a00f-a8282a9f504f
+
+Name: MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield
+Root Template: 96907713-b560-4daf-ab32-3c1aec3f3890
+
+Name: MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail
+Root Template: ea3cf349-19ab-4104-9253-8e182bdbf538
+
+Name: MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet
+Root Template: 6b1c4d55-e0d1-4b58-a26d-57d807bca488
+
+Name: MAG_ChargedLightning_ElectricSurface_Boots
+Root Template: fc9104ab-b61c-4481-8402-cecb13baf30f
+
+Name: MAG_ChargedLightning_Dash_Boots
+Root Template: 66be4e91-933b-44e8-a73c-3b8a9c6b14a8
+
+Name: MAG_ChargedLightning_Electrocute_Armor
+Root Template: 1fda52bd-6983-49a3-ba52-6756327a5182
+
+Name: MAG_ChargedLightning_TempHP_Helmet
+Root Template: 3ccc28a3-faa5-4664-a46a-39300b2d3803
+
+Name: MAG_ChargedLightning_StaticDischarge_Shield
+Root Template: 93c2143c-1c9f-493e-9fee-2310c7bee672
+
+Name: MAG_ChargedLightning_LightningBlast_Amulet
+Root Template: c2bbb262-34ee-4483-a0f8-f72cb7794ff1
+
+Name: MAG_ChargedLightning_AbilityCheckBoost_Gloves
+Root Template: a0bbe602-ffc1-45f1-9a09-de7d11575465
+
+Name: MAG_ChargedLightning_Resistance_Ring
+Root Template: a72120e6-aa1c-4a2b-89ae-a0469fb5b088
+
+Name: MAG_ChargedLightning_BonusAC_Robe
+Root Template: f28c3264-8cdb-46c1-800f-a47a01e49efc
+
+Name: MAG_Bard_RefreshBardicInspirationSlot_Shoes
+Root Template: a7ce200c-ab1a-4d49-bf7d-c6894b1e5b06
+
+Name: MAG_Bard_TempHP_Armor
+Root Template: 947dbbe3-19e3-4b96-ba5a-14750f0acc29
+
+Name: MAG_Bard_HealingBardicInspiration_Hat
+Root Template: cfbd013c-f24d-4430-be13-d7bfafd48709
+
+Name: MAG_Paladin_LayOnHandsSupport_Gloves
+Root Template: 110144ac-db1d-4db8-a907-92f642086d0d
+
+Name: MAG_Paladin_MomentumOnConcentration_Boots
+Root Template: 8770f821-38bc-41cc-aae9-02988d46df02
+
+Name: MAG_Paladin_RestoreChannelDivinity_Armor
+Root Template: c4af39d8-628d-4791-9dc4-4446ee31e160
+
+Name: MAG_Paladin_SmiteSpellsSupport_Helmet
+Root Template: 0ae1e62c-b36a-4dbc-97fb-e0658b454974
+
+Name: _Vanity_Armors
+
+Name: ARM_Camp_Body_Astarion
+Root Template: b7392453-6569-4c24-9a1b-cbaea7cebac8
+
+Name: ARM_Camp_Body_Gale
+Root Template: c56bbf29-2315-415e-a488-fada851828ea
+
+Name: ARM_Camp_Body_Halsin
+Root Template: dc74db6c-14b2-44fa-8415-0dd1194e90e2
+
+Name: ARM_Camp_Body_Jaheira
+Root Template: 0d0d9c0f-e9aa-4ba4-a0a9-1a0b7b7069ca
+
+Name: ARM_Camp_Body_Karlach
+Root Template: 5c79e518-2c59-41c5-84a7-d43a58e76d09
+
+Name: ARM_Camp_Body_Laezel
+Root Template: 54de4a07-c57c-421e-912c-7e8bd93ca0c4
+
+Name: ARM_Camp_Body_Minsc
+Root Template: 42ff9d36-849d-4777-968c-8cf9ca7d8027
+
+Name: ARM_Camp_Body_Minthara
+Root Template: 29a31736-6f9d-46ef-880d-ac3157187202
+
+Name: ARM_Camp_Body_Shadowheart
+Root Template: 7062410b-439c-4f2f-bc48-1c16ab1ace20
+
+Name: ARM_Camp_Body_Wyll
+Root Template: bd2ac836-5584-41e5-b4ff-01782c0dec6d
+
+Name: ARM_Camp_Shoes_Astarion
+Root Template: 4700fad1-769e-4831-9b3f-4ead08c49cfa
+
+Name: ARM_Camp_Shoes_Gale
+Root Template: cb28ea7d-2838-43e7-a807-11277c44facb
+
+Name: ARM_Camp_Shoes_Halsin
+Root Template: 42de5102-7a39-44d2-b1d8-645ec4d8b0ce
+
+Name: ARM_Camp_Shoes_Jaheira
+Root Template: 556de2bd-99a6-4d62-b78c-d4681ce5bdfa
+
+Name: ARM_Camp_Shoes_Karlach
+Root Template: b8f42945-a42e-46cb-a424-3a0a5e97157a
+
+Name: ARM_Camp_Shoes_Laezel
+Root Template: 212bf756-b237-4ede-9c67-e871fd60e788
+
+Name: ARM_Camp_Shoes_Minsc
+Root Template: 836e13ab-78a6-4ca3-ba8e-adc4c25205f1
+
+Name: ARM_Camp_Shoes_Minthara
+Root Template: f107cc6a-3a6e-4a58-be16-fbe73b3f7ae8
+
+Name: ARM_Camp_Shoes_Shadowheart
+Root Template: e92e4dad-8e96-4f27-aacb-cc430df0bc75
+
+Name: ARM_Camp_Shoes_Wyll
+Root Template: b307af36-a2da-4c01-aac3-a31771edd407
+
+Name: ARM_Underwear_Astarion
+Root Template: 4b30a649-fd88-4f64-a57b-1149d7b9ac41
+
+Name: ARM_Underwear_Gale
+Root Template: 5cdc0fe0-dbda-4f31-89f8-9e16782daef1
+
+Name: ARM_Underwear_Halsin
+Root Template: 9ebb9117-a0ae-46f2-a243-8d67650e9586
+
+Name: ARM_Underwear_Jaheira
+Root Template: 91259e65-dd71-4312-ba3c-c55757978788
+
+Name: ARM_Underwear_Karlach
+Root Template: e865db4c-4df3-48e9-8cf3-5abad75510ba
+
+Name: ARM_Underwear_Laezel
+Root Template: 185ab1be-e93d-4518-b053-d6d4d7168d68
+
+Name: ARM_Underwear_Minsc
+Root Template: 48a3ffbe-f14e-4cfe-b45e-ebadb3af0fd4
+
+Name: ARM_Underwear_Minthara
+Root Template: 73874ef8-a3c4-4a68-8d2a-ed3d580dfb52
+
+Name: ARM_Underwear_Shadowheart
+Root Template: b460bd0c-58fe-4a56-831c-af92fd4ba7e2
+
+Name: ARM_Underwear_Wyll
+Root Template: 1930ceec-4a50-43d9-8589-94593c449be4
+
+Name: ARM_Underwear_Helper
+Root Template: 305718fa-de30-474f-97a8-41ae79b4919e
+
+

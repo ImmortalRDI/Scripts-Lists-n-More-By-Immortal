@@ -1,0 +1,570 @@
+Folder Path: Gustav\Public\GustavDev\Stats\Generated\Data, Total Interrupts: 25
+	Name: Interrupt_ShieldBlow
+
+	Name: Interrupt_Legendary_ShieldBlow
+
+	Name: Interrupt_TheClover_TrueStrike_Riposte
+
+	Name: Interrupt_TheDueller_WitheringCut
+
+	Name: Interrupt_MAG_Counterspell
+
+	Name: Interrupt_Scarab_Of_Protection
+
+	Name: Interrupt_Legendary_InfernalResistance
+
+	Name: Interrupt_LegendaryEvasion_Protection
+
+	Name: Interrupt_Legendary_SoulCatching_Attack
+
+	Name: Interrupt_Legendary_SoulCatching_SavingThrow
+
+	Name: Interrupt_MAG_Shield
+
+	Name: Interrupt_MAG_Monk_KushigoCounter
+
+	Name: Interrupt_MAG_Monk_KushigoCounterEx
+
+	Name: Interrupt_MAG_Shield_LeatherArmor
+
+	Name: Interrupt_MAG_Defender_Weapon
+
+	Name: Interrupt_MAG_ParalyzingCritical
+
+	Name: Interrupt_MAG_CriticalExecution
+
+	Name: Interrupt_MAG_Cunning_Combo_HandCrossbow
+
+	Name: Interrupt_MAG_Shield_HarpersAmulet
+
+	Name: Interrupt_MAG_SecondChance
+
+	Name: Interrupt_MAG_MissileSnaring
+
+	Name: Interrupt_AbsorbElements
+
+	Name: Interrupt_LOW_RamazithsTower_Deva_Flame
+
+	Name: Interrupt_LOW_Cistern_AvoidMinsc
+
+	Name: Interrupt_LOW_FatherCarrion_FatherOfTheDead
+
+
+Folder Path: Gustav\Public\Honour\Stats\Generated\Data, Total Interrupts: 81
+	Name: Interrupt_LEGENDARY_ACTIONS
+
+	Name: Interrupt_KineticArmor_AdamantineGolem
+
+	Name: Interrupt_UND_Nere_PsychicMirror
+
+	Name: Interrupt_UND_Nere_PsychicMirror_Break_01
+
+	Name: Interrupt_UND_Nere_PsychicMirror_Break_02
+
+	Name: Interrupt_UND_Nere_PsychicMirror_Break_03
+
+	Name: Interrupt_SHA_Necromancer_SpectralForm
+
+	Name: Interrupt_SHA_Necromancer_LandOfTheDead
+
+	Name: Interrupt_MixChangeExplosion_Brewer
+
+	Name: Interrupt_MidasWrath_TollCollector
+
+	Name: Interrupt_MindScreech_Surgeon
+
+	Name: Interrupt_MindScreech_Surgeon_Nurses_Technical
+
+	Name: Interrupt_LOW_BloodSwipe_Orin
+
+	Name: Interrupt_LOW_BhaalsRetribution_Melee_Orin
+
+	Name: Interrupt_LOW_BhaalsRetribution_Ranged_Orin
+
+	Name: Interrupt_LOW_BhaalsRetribution_Melee_Sarevok
+
+	Name: Interrupt_LOW_BhaalsRetribution_Ranged_Sarevok
+
+	Name: Interrupt_LOW_FatherCarrion_SpiritParade
+
+	Name: Interrupt_DiamondScalesBurst_Bulette
+
+	Name: Interrupt_Cursedome_Oliver
+
+	Name: Interrupt_Gaze_Apostle
+
+	Name: Interrupt_FOR_SpiderQueen_SilkTomb
+
+	Name: Interrupt_WYR_DivineBeckoning_Gortash
+
+	Name: Interrupt_LOW_Raphael_BeguilingRebuke
+
+	Name: Interrupt_LOW_Raphael_CascadeOfSouls
+
+	Name: Interrupt_LOW_Raphael_CascadeOfSouls_IF_Ally
+
+	Name: Interrupt_LOW_Raphael_BeguilingRebuke_Radiant
+
+	Name: Interrupt_LOW_Raphael_CascadeOfSouls_Radiant
+
+	Name: Interrupt_LOW_Raphael_CascadeOfSouls_IF_Ally_Radiant
+
+	Name: Interrupt_SHA_Orthon_BlindingPursuit_Ranged
+
+	Name: Interrupt_SHA_Orthon_BlindingPursuit_Melee
+
+	Name: Interrupt_SHA_Orthon_BlindingPursuit_Ally
+
+	Name: Interrupt_FOR_Owlbear_CallConsort
+
+	Name: Interrupt_FOR_Owlbear_Daddy_Rage
+
+	Name: Interrupt_FOR_Owlbear_Daddy_Rage_Health
+
+	Name: Interrupt_LOW_Viconia_HeartWrench
+
+	Name: Interrupt_LOW_Viconia_HeartWrench_IF_Ally
+
+	Name: Interrupt_LOW_Viconia_DarkSentinel
+
+	Name: Interrupt_LOW_Viconia_HeartWrench_Wolf
+
+	Name: Interrupt_LOW_Viconia_HeartWrench_IF_Ally_Wolf
+
+	Name: Interrupt_LOW_Viconia_DarkSentinel_Wolf
+
+	Name: Interrupt_LOW_Cazador_BatSwarm
+
+	Name: Interrupt_MOO_Ketheric_GeneralsWrath
+
+	Name: Interrupt_ChainStaticBolt_Automaton
+
+	Name: Interrupt_HAG_Counterswap
+
+	Name: Interrupt_CRE_GithyankiInquisitor_VlaakithsMindSword
+
+	Name: Interrupt_CRE_GithyankiInquisitor_MindSteal_Link
+
+	Name: SYSTEMS_INTERRUPT
+
+	Name: Interrupt_SneakAttack
+
+	Name: Interrupt_SneakAttack_Critical
+
+	Name: Interrupt_Smite_Divine
+
+	Name: Interrupt_Smite_Divine_2
+
+	Name: Interrupt_Smite_Divine_3
+
+	Name: Interrupt_Smite_Divine_4
+
+	Name: Interrupt_Smite_Divine_5
+
+	Name: Interrupt_Smite_Divine_6
+
+	Name: Interrupt_Smite_Divine_NPC
+
+	Name: Interrupt_Smite_Divine_2_NPC
+
+	Name: Interrupt_Smite_Divine_3_NPC
+
+	Name: Interrupt_Smite_Divine_Critical
+
+	Name: Interrupt_Smite_Divine_Critical_2
+
+	Name: Interrupt_Smite_Divine_Critical_3
+
+	Name: Interrupt_Smite_Divine_Critical_4
+
+	Name: Interrupt_Smite_Divine_Critical_5
+
+	Name: Interrupt_Smite_Divine_Critical_6
+
+	Name: Interrupt_DivineStrike_Cold
+
+	Name: Interrupt_DivineStrike_Cold_Critical
+
+	Name: Interrupt_DivineStrike_Fire
+
+	Name: Interrupt_DivineStrike_Fire_Critical
+
+	Name: Interrupt_DivineStrike_Lightning
+
+	Name: Interrupt_DivineStrike_Lightning_Critical
+
+	Name: Interrupt_DivineStrike_Poison
+
+	Name: Interrupt_DivineStrike_Poison_Critical
+
+	Name: Interrupt_DivineStrike_Radiant
+
+	Name: Interrupt_DivineStrike_Radiant_Critical
+
+	Name: Interrupt_DivineStrike_Thunder
+
+	Name: Interrupt_DivineStrike_Thunder_Critical
+
+	Name: Interrupt_DivineStrike_MeleeWeapon
+
+	Name: Interrupt_DivineStrike_MeleeWeapon_Critical
+
+	Name: Interrupt_DivineStrike_RangedWeapon
+
+	Name: Interrupt_DivineStrike_RangedWeapon_Critical
+
+
+Folder Path: Shared\Public\SharedDev\Stats\Generated\Data, Total Interrupts: 121
+	Name: Interrupt_ON_SPELL_CAST
+
+	Name: Interrupt_ControlledChaos
+
+	Name: Interrupt_Counterspell_4
+
+	Name: Interrupt_Counterspell_5
+
+	Name: Interrupt_Counterspell_6
+
+	Name: Interrupt_DestructiveWrath
+
+	Name: Interrupt_ElementalAffinity
+
+	Name: Interrupt_HeartOfTheStorm_Lightning
+
+	Name: Interrupt_HeartOfTheStorm_Thunder
+
+	Name: Interrupt_InstinctiveCharm
+
+	Name: Interrupt_MageSlayer
+
+	Name: Interrupt_TAD_PsionicBacklash
+
+	Name: Interrupt_TAD_PsionicDominance
+
+	Name: Interrupt_ON_POST_ROLL
+
+	Name: Interrupt_BendLuck_Bonus
+
+	Name: Interrupt_BendLuck_Malus
+
+	Name: Interrupt_EntropicWard
+
+	Name: Interrupt_FightingStyle_Protection
+
+	Name: Interrupt_GuidedStrike
+
+	Name: Interrupt_IllusorySelf
+
+	Name: Interrupt_Indomitable
+
+	Name: Interrupt_LegendaryResistance
+
+	Name: Interrupt_LegendaryResistance_Strength
+
+	Name: Interrupt_LegendaryResistance_Dexterity
+
+	Name: Interrupt_LegendaryResistance_Constitution
+
+	Name: Interrupt_LegendaryResistance_Intelligence
+
+	Name: Interrupt_LegendaryResistance_Wisdom
+
+	Name: Interrupt_LegendaryResistance_Charisma
+
+	Name: Interrupt_LegendaryResistance_CrowdControl
+
+	Name: Interrupt_Lucky_ReplaceAttackersDie
+
+	Name: Interrupt_Lucky_RollAdditionalDie
+
+	Name: Interrupt_Portent_1
+
+	Name: Interrupt_Portent_2
+
+	Name: Interrupt_Portent_3
+
+	Name: Interrupt_Portent_4
+
+	Name: Interrupt_Portent_5
+
+	Name: Interrupt_Portent_6
+
+	Name: Interrupt_Portent_7
+
+	Name: Interrupt_Portent_8
+
+	Name: Interrupt_Portent_9
+
+	Name: Interrupt_Portent_10
+
+	Name: Interrupt_Portent_11
+
+	Name: Interrupt_Portent_12
+
+	Name: Interrupt_Portent_13
+
+	Name: Interrupt_Portent_14
+
+	Name: Interrupt_Portent_15
+
+	Name: Interrupt_Portent_16
+
+	Name: Interrupt_Portent_17
+
+	Name: Interrupt_Portent_18
+
+	Name: Interrupt_Portent_19
+
+	Name: Interrupt_Portent_20
+
+	Name: Interrupt_RingOfEvasion
+
+	Name: Interrupt_Shield_Wizard
+
+	Name: Interrupt_Shield_Sorcerer
+
+	Name: Interrupt_Shield_Warlock
+
+	Name: Interrupt_Shield_Sorcerer_2
+
+	Name: Interrupt_Shield_Warlock_2
+
+	Name: Interrupt_Shield_Wizard_2
+
+	Name: Interrupt_Shield_Sorcerer_3
+
+	Name: Interrupt_Shield_Warlock_3
+
+	Name: Interrupt_Shield_Wizard_3
+
+	Name: Interrupt_Shield_Sorcerer_4
+
+	Name: Interrupt_Shield_Warlock_4
+
+	Name: Interrupt_Shield_Wizard_4
+
+	Name: Interrupt_Shield_Sorcerer_5
+
+	Name: Interrupt_Shield_Warlock_5
+
+	Name: Interrupt_Shield_Wizard_5
+
+	Name: Interrupt_Shield_Sorcerer_6
+
+	Name: Interrupt_Shield_Warlock_6
+
+	Name: Interrupt_Shield_Wizard_6
+
+	Name: Interrupt_TAD_LuckOfTheFarRealms
+
+	Name: Interrupt_TidesOfChaos
+
+	Name: Interrupt_UncannyDodge
+
+	Name: Interrupt_WardingFlare_Improved
+
+	Name: Interrupt_WarGodsBlessing
+
+	Name: Interrupt_ON_PRE_DAMAGE
+
+	Name: Interrupt_DampenElements
+
+	Name: Interrupt_DeflectMissiles
+
+	Name: Interrupt_Parry
+
+	Name: Interrupt_ProjectedWard
+
+	Name: Interrupt_GithyankiParry_Supreme
+
+	Name: Interrupt_ON_CAST_HIT
+
+	Name: Interrupt_DeflectMissiles_Return
+
+	Name: Interrupt_DivineStrike_Cold
+
+	Name: Interrupt_DivineStrike_Cold_Critical
+
+	Name: Interrupt_DivineStrike_Fire
+
+	Name: Interrupt_DivineStrike_Fire_Critical
+
+	Name: Interrupt_DivineStrike_Lightning
+
+	Name: Interrupt_DivineStrike_Lightning_Critical
+
+	Name: Interrupt_DivineStrike_Poison
+
+	Name: Interrupt_DivineStrike_Poison_Critical
+
+	Name: Interrupt_DivineStrike_Radiant
+
+	Name: Interrupt_DivineStrike_Radiant_Critical
+
+	Name: Interrupt_DivineStrike_Thunder
+
+	Name: Interrupt_DivineStrike_Thunder_Critical
+
+	Name: Interrupt_DivineStrike_MeleeWeapon
+
+	Name: Interrupt_DivineStrike_MeleeWeapon_Critical
+
+	Name: Interrupt_DivineStrike_RangedWeapon
+
+	Name: Interrupt_DivineStrike_RangedWeapon_Critical
+
+	Name: Interrupt_GuardianOfFaith_Retaliate
+
+	Name: Interrupt_HellishRebuke_Myrmidon
+
+	Name: Interrupt_MistyEscape
+
+	Name: Interrupt_Overwhelm
+
+	Name: Interrupt_Sentinel
+
+	Name: Interrupt_SneakAttack
+
+	Name: Interrupt_SneakAttack_Critical
+
+	Name: Interrupt_StormsFury
+
+	Name: Interrupt_WrathOfTheStorm_Lightning
+
+	Name: Interrupt_WrathOfTheStorm_Thunder
+
+	Name: Interrupt_TAD_Charm
+
+	Name: Interrupt_Unstable_Backlash
+
+	Name: Interrupt_OTHERS
+
+	Name: Interrupt_PolearmMaster
+
+	Name: Interrupt_WarCaster
+
+	Name: Interrupt_MONSTER
+
+	Name: Interrupt_SteelWatcher_Biped_SelfDestruct_Begin
+
+	Name: Interrupt_SteelWatcher_Biped_SelfDestruct_Begin_BanishingSmite
+
+	Name: Interrupt_Berserk_FleshGolem
+
+	Name: Interrupt_Shield_Mindflayer
+
+	Name: Interrupt_CounterSpell_MindFlayer
+
+	Name: Interrupt_ExplosiveRetribution_Orthon
+
+
+Folder Path: Shared\Public\Shared\Stats\Generated\Data, Total Interrupts: 54
+	Name: Interrupt_ON_SPELL_CAST
+
+	Name: Interrupt_Counterspell
+
+	Name: Interrupt_Counterspell_Scroll
+
+	Name: Interrupt_ON_POST_ROLL
+
+	Name: Interrupt_BardicInspiration_Attack
+
+	Name: Interrupt_BardicInspiration_Attack_d8
+
+	Name: Interrupt_BardicInspiration_Attack_d10
+
+	Name: Interrupt_BardicInspiration_SavingThrow
+
+	Name: Interrupt_BardicInspiration_SavingThrow_d8
+
+	Name: Interrupt_BardicInspiration_SavingThrow_d10
+
+	Name: Interrupt_CombatInspiration_Attack
+
+	Name: Interrupt_CombatInspiration_Attack_d8
+
+	Name: Interrupt_CombatInspiration_Attack_d10
+
+	Name: Interrupt_CombatInspiration_SavingThrow_ArmorClass
+
+	Name: Interrupt_CombatInspiration_SavingThrow_ArmorClass_d8
+
+	Name: Interrupt_CombatInspiration_SavingThrow_ArmorClass_d10
+
+	Name: Interrupt_CuttingWords
+
+	Name: Interrupt_DefensiveDuelist
+
+	Name: Interrupt_RecklessAttack
+
+	Name: Interrupt_WardingFlare
+
+	Name: Interrupt_ON_PRE_DAMAGE
+
+	Name: Interrupt_ShieldMaster
+
+	Name: Interrupt_GithyankiParry
+
+	Name: Interrupt_ON_CAST_HIT
+
+	Name: Interrupt_CombatInspiration_Damage
+
+	Name: Interrupt_CombatInspiration_Damage_d8
+
+	Name: Interrupt_CombatInspiration_Damage_d10
+
+	Name: Interrupt_GiantKiller
+
+	Name: Interrupt_HellishRebuke
+
+	Name: Interrupt_HellishRebuke_WarlockMI
+
+	Name: Interrupt_HellishRebuke_2
+
+	Name: Interrupt_HellishRebuke_AsmodeusTiefling
+
+	Name: Interrupt_HellishRebuke_3
+
+	Name: Interrupt_HellishRebuke_4
+
+	Name: Interrupt_HellishRebuke_5
+
+	Name: Interrupt_HellishRebuke_6
+
+	Name: Interrupt_Riposte
+
+	Name: Interrupt_Smite_Divine
+
+	Name: Interrupt_Smite_Divine_2
+
+	Name: Interrupt_Smite_Divine_3
+
+	Name: Interrupt_Smite_Divine_4
+
+	Name: Interrupt_Smite_Divine_5
+
+	Name: Interrupt_Smite_Divine_6
+
+	Name: Interrupt_Smite_Divine_NPC
+
+	Name: Interrupt_Smite_Divine_2_NPC
+
+	Name: Interrupt_Smite_Divine_3_NPC
+
+	Name: Interrupt_Smite_Divine_Critical
+
+	Name: Interrupt_Smite_Divine_Critical_2
+
+	Name: Interrupt_Smite_Divine_Critical_3
+
+	Name: Interrupt_Smite_Divine_Critical_4
+
+	Name: Interrupt_Smite_Divine_Critical_5
+
+	Name: Interrupt_Smite_Divine_Critical_6
+
+	Name: Interrupt_OTHERS
+
+	Name: Interrupt_AttackOfOpportunity
+
+

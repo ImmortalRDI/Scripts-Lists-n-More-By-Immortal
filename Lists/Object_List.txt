@@ -1,0 +1,4915 @@
+Gustav\Public\Gustav\Stats\Generated\Data	Total Objects: 362
+	Name: _Reference
+
+	Name: REF_Primitives
+
+	Name: CLIMB_Crate
+	Root Template: 24d8db62-65d4-41f1-8d6a-2e7fd05cf85f
+
+	Name: OBJ_CMB_Stalactite
+
+	Name: DLC_OBJ_Dye_Larian
+	Root Template: dfb0bd5d-e4ed-4bd3-bcfe-45195260e7dc
+
+	Name: BOOK_GEN_Factions_OriginsofZhentarim
+	Root Template: acb6b30e-4f55-48cb-8f5e-cbc33be9ad22
+
+	Name: BOOK_GEN_Planes_AdventuresMorrowAstral
+	Root Template: f3e33547-67fc-4383-a115-f286df2613bb
+
+	Name: BOOK_GEN_Planes_AdventuresMorrowFeywild
+	Root Template: 47a7f088-f9f8-4150-84f3-0dd31e425511
+
+	Name: BOOK_GEN_Planes_AdventuresMorrowRavenloft
+	Root Template: 12729021-17da-4aee-9afe-522b451a6c73
+
+	Name: BOOK_GEN_Planes_AdventuresMorrowElementalAir
+	Root Template: 62fbbde5-ec9e-494e-8182-6da86badebb8
+
+	Name: BOOK_GEN_Gods_HouseholdPrayer1
+	Root Template: ada27df4-16bc-4139-92cb-8103a0a278cf
+
+	Name: BOOK_GEN_Races_HalflingRhymes1
+	Root Template: 59a92135-4427-4fcd-99bc-c60e705626fa
+
+	Name: BOOK_GEN_Factions_SecretSocieties1
+	Root Template: 12c5d5df-1f2e-48d4-948c-861db9510b5a
+
+	Name: BOOK_GEN_Factions_FlamingFistPoster
+	Root Template: 6f28e5f2-8559-476a-b82c-b43614b71232
+
+	Name: BOOK_GEN_Races_GoblinsMockingMaglubiyet
+	Root Template: d9f84cce-72d1-4bc4-8d34-1b1a265a77eb
+
+	Name: BOOK_GEN_Planes_CityofJudgment
+	Root Template: e8183f9e-217a-49a9-96ae-b61329e78a5f
+
+	Name: BOOK_GEN_Races_DrowSeldarineSchism
+	Root Template: f0888a67-6099-40aa-93b4-812d6118cace
+
+	Name: BOOK_GEN_History_SunderingOghmaLetter
+	Root Template: e188543b-47c2-4982-bd97-e108390a0762
+
+	Name: BOOK_GEN_Gods_AforAzuth1
+	Root Template: fab86448-9438-47dc-a035-1735012efda9
+
+	Name: BOOK_GEN_Gods_AforAzuth2
+	Root Template: 8caea82b-1f0f-4dc4-a674-316291c48db4
+
+	Name: BOOK_GEN_Gods_AforAzuth3
+	Root Template: f113c497-7a39-4fc2-9013-5277b2952f1b
+
+	Name: BOOK_GEN_Gods_AforAzuth6
+	Root Template: db86e4c5-02d2-453d-8e21-c36df29491c8
+
+	Name: BOOK_GEN_Gods_AforAzuth7
+	Root Template: ccc1b5bf-e5a2-4342-999c-56c60c10f589
+
+	Name: BOOK_GEN_Gods_AforAzuth9
+	Root Template: dfa7fc05-bef4-4de5-b950-42dadeaac3b1
+
+	Name: BOOK_GEN_Gods_AforAzuth11
+	Root Template: 1d469c41-6f49-408a-9093-24eee76b5c6e
+
+	Name: BOOK_GEN_FablesofFaerun1
+	Root Template: fa9c1179-5b54-45f8-b451-85b9c463f65c
+
+	Name: BOOK_GEN_FablesofFaerun2
+	Root Template: a4f87897-1d2b-41da-9b51-8f403df53bb8
+
+	Name: BOOK_GEN_FablesofFaerun3
+	Root Template: d5ec3a05-e479-4ee4-9803-b17ff55bfa1d
+
+	Name: BOOK_GEN_Races_FablesofFaerun4
+	Root Template: 2e445358-15a4-4f46-8828-2f283f1b5427
+
+	Name: BOOK_GEN_Races_FablesofFaerun5
+	Root Template: 029ea937-6abf-407b-bdd8-5b58aa2a0853
+
+	Name: BOOK_GEN_History_AbsoluteMonsterAlliance
+	Root Template: a0670a06-0e59-48f0-acae-7a89da302074
+
+	Name: BOOK_GEN_World_IntroToTheWeave
+	Root Template: 6f4a329d-6efd-44e1-92a9-8a32f981fa0e
+
+	Name: BOOK_GEN_History_FFElturelTranscript
+	Root Template: 79ecffbe-ee7f-44bb-9131-393e4ec8fade
+
+	Name: BOOK_GEN_History_SensibleLiving12
+	Root Template: ee8d1b5e-489c-4d7a-9a2c-9f3f3b275341
+
+	Name: BOOK_GEN_Races_TieflingAutobiography
+	Root Template: a9c63ba9-f0ff-4f0d-9ca4-af414fdb83ee
+
+	Name: BOOK_GEN_Races_ScandalousCambionPlayInterview
+	Root Template: faa68d8e-2ff9-40da-b8f9-ccb4ff5330c4
+
+	Name: BOOK_GEN_Races_OralHistories_MFGith
+	Root Template: baed9260-f84f-460e-8450-33fb6bed7ba4
+
+	Name: BOOK_GEN_Gods_SharSeluneConflict
+	Root Template: 9d0cbc40-3777-418f-8047-38e18dde2400
+
+	Name: BOOK_GEN_History_ElturelDoomDocument
+	Root Template: a558703e-1b5a-46bf-aa25-a098b8aee027
+
+	Name: BOOK_GEN_Races_SoothsayerAccount
+	Root Template: da15599b-dcf5-4e98-b8c6-35c1769ee7dc
+
+	Name: BOOK_GEN_World_JourneyThroughChult
+	Root Template: 154cdc87-f633-4d45-b7b4-be0cf45e8258
+
+	Name: BOOK_GEN_World_GuideRisenRoad
+	Root Template: 2aed64cd-0eb0-4351-9259-183d3f345910
+
+	Name: BOOK_GEN_World_GuideOuterCity
+	Root Template: ea3786b5-2219-454c-87de-31743d34d359
+
+	Name: BOOK_GEN_World_GuideLowerCityInns
+	Root Template: 2a5ebe78-425c-4455-ab75-e1d42e43c553
+
+	Name: BOOK_GEN_World_FringePhilosophy5
+	Root Template: 1e4b31e9-b7ee-4ac5-af52-79050c047dfa
+
+	Name: BOOK_GEN_World_OralHistories_OathbreakerPaladins
+	Root Template: 8c5d52d8-310e-47c4-8991-dbaf9aafe762
+
+	Name: BOOK_GEN_Races_PurgedPalate1
+	Root Template: b148c167-2073-4aec-99f5-c82b4953d543
+
+	Name: BOOK_GEN_World_GuideOnHags001
+	Root Template: a631e116-8d6d-44ad-a053-be050d6c638f
+
+	Name: BOOK_GEN_World_BGPeacockLetter
+	Root Template: cf92871b-0d72-45f6-a976-608ffa73502a
+
+	Name: BOOK_GEN_World_ApproachableEast1
+	Root Template: 2fce8bfc-79e4-40d9-92c0-56707dd08343
+
+	Name: BOOK_GEN_World_ApproachableEast2
+	Root Template: df6a6026-e23e-49ed-a245-8ac03165f9df
+
+	Name: BOOK_GEN_World_ApproachableEast3
+	Root Template: 1b6c0e9b-da93-4490-9b24-5f488317ebec
+
+	Name: BOOK_GEN_World_ApproachableEast4
+	Root Template: f4bca6c4-3edb-4845-b718-2275e3681072
+
+	Name: BOOK_GEN_World_ApproachableEast5
+	Root Template: fac28dde-6a46-4e30-9e77-aa31e7db6a87
+
+	Name: BOOK_GEN_World_ApproachableEast6
+	Root Template: 410522a4-b282-4371-bfaa-e150b19adc31
+
+	Name: BOOK_GEN_World_ApproachableEast7
+	Root Template: e8b000dd-a827-4361-9114-d9017514f04d
+
+	Name: BOOK_GEN_Gods_DeadThreeCase
+	Root Template: 65edc2b5-b666-4c12-ad5a-e105cae24f07
+
+	Name: BOOK_GEN_Planes_SoulCoinsTreatise
+	Root Template: 97423da0-582b-42e3-90ed-ee219afed495
+
+	Name: BOOK_GEN_World_GuideOnHags002
+	Root Template: 10439139-fe1d-4aaa-8cee-5acf8f5dcbfd
+
+	Name: BOOK_GEN_History_BhaalspawnMissives
+	Root Template: d35d8106-2d83-4ae0-bfca-15a7b413a32a
+
+	Name: BOOK_GEN_Faction_ThievesGuildHiddenRulers
+	Root Template: 6084f8e4-20f7-426c-8a08-ec1c9ac012c7
+
+	Name: BOOK_GEN_Races_RealmAccordingToBumpo001
+	Root Template: c8571ea2-ac5b-4b49-b806-1553c5a1cbbe
+
+	Name: BOOK_GEN_World_SensibleLiving4
+	Root Template: f34aea56-8a85-4e55-915c-a67cc8cadfc8
+
+	Name: BOOK_GEN_Races_CurseofVampyr
+	Root Template: 4c060abe-ce49-49c4-b7d4-b2e1c75d6f13
+
+	Name: BOOK_GEN_World_OralHistories_LuirenAbeirSpellplague
+	Root Template: c41ea64e-04e4-41a8-be6f-575a68d944b7
+
+	Name: BOOK_GEN_World_GatekeeperPamphlet
+	Root Template: 52ffdaa6-b2b5-4257-ab0d-631f81434f05
+
+	Name: BOOK_GEN_History_SarevokDiaryEncounter
+	Root Template: dfe0b5c7-e9cd-42a9-af6c-714ba68ef187
+
+	Name: BOOK_GEN_History_BhaalspawnTestimonials
+	Root Template: b4e15cb9-b7f9-4a35-b58b-cee52699abe6
+
+	Name: BOOK_GEN_World_MissingStatueNotice
+	Root Template: db060369-0926-4730-a647-ab19ba2d8ed3
+
+	Name: BOOK_GEN_Faction_OrderGauntletTenets
+	Root Template: 64a2cf4f-82cf-410f-a987-2c9cb9052e04
+
+	Name: BOOK_GEN_World_AnnalsofBGOrigin
+	Root Template: 3a8e1749-7e68-4497-ae49-a86d4016c49d
+
+	Name: BOOK_GEN_World_AdventuresofBalduran001
+	Root Template: 9cb501b9-2644-48cf-abad-382ec79c5837
+
+	Name: BOOK_GEN_History_WondersofPhandalin
+	Root Template: a7442d3d-a705-44e4-98b3-7674e8d468c0
+
+	Name: BOOK_GEN_Gods_DeathandDivinityJergal
+	Root Template: 19170ddc-1a9e-4c2c-b793-1794fbb9b445
+
+	Name: BOOK_GEN_World_MetatextResurrection
+	Root Template: d82f1cad-4947-426d-8ebb-06115462cf3b
+
+	Name: BOOK_GEN_Planes_Yeenoghu
+	Root Template: ceb4f488-2c11-4e11-8ae7-fc049a6a7966
+
+	Name: UND_StoneFigure
+
+	Name: DEN_Apprentice_Antidote
+	Root Template: 25fea821-5ec1-4052-bd6c-60c249e72a79
+
+	Name: QUEST_FOR_OwlbearEgg
+
+	Name: QUEST_CaptureFlask
+	Root Template: eab1eab0-17a0-471a-bd6f-9ccc988bc050
+
+	Name: UNI_CONT_DEVIL_PuzzleBox_A
+
+	Name: QUEST_Boo
+	Root Template: 96c02591-b827-4c05-b12b-a1c67464a6f9
+
+	Name: QUEST_GOB_GoblinBoozeTub
+	Root Template: 8c5b446c-8114-4e3b-ad3e-d85d70d110ca
+
+	Name: QUEST_GOB_GoblinBoozeTub_Poisoned
+	Root Template: 015ac04c-2568-4668-a672-339448c58154
+
+	Name: QUEST_HAG_HangingCage
+
+	Name: QUEST_HAG_GrenadeFire
+	Root Template: a0b56e94-bd59-4cfd-af1b-bb07ff95f931
+
+	Name: QUEST_HAG_Grenade
+
+	Name: Quest_FOR_BrokenSpear_Head
+
+	Name: Quest_FOR_BrokenSpear_Shaft
+
+	Name: Quest_FOR_ThayanSkeleton_Box
+
+	Name: OBJ_DEN_BadGruel
+	Root Template: 8ae93c63-7345-4ff4-8a7f-2c7cd23cbe10
+
+	Name: QUEST_Indestructible
+
+	Name: QUEST_Indestructible_Camp_Bedroll
+
+	Name: QUEST_FOR_SchoolOgres_Stash_Boulder
+
+	Name: QUEST_DEN_MainGate
+
+	Name: QUEST_DEN_GateMechanism
+
+	Name: GOB_DestructiblePlatform_Stone
+
+	Name: PUZ_ProximityMine
+
+	Name: PLA_ZhentDungeon_DroppingProximityMine
+
+	Name: QUEST_CHA_HeavyVase
+	Root Template: ed7d57f9-cd5a-4fd4-bdf6-d8b8a6ee10b3
+
+	Name: QUEST_UND_Raft_Fastener
+
+	Name: QUEST_CHA_LaezelCageLock
+
+	Name: GOB_DestructibleWall_Stone
+
+	Name: GOB_DestructibleCageWall_Wood
+
+	Name: GOB_DestructibleCageFloor_Wood
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: GOB_DestructibleCageDoor_Wood
+
+	Name: QUEST_FOR_SussurBark
+	Root Template: ea99e006-80e1-414a-8995-c03d92eaf170
+
+	Name: QUEST_FOR_Adamant
+	Root Template: a9cb6a33-c0b1-43fc-a40c-44e1c24b032a
+
+	Name: QUEST_FOR_AdamantBar
+	Root Template: c6e7eaf7-f823-41fb-8260-c33b89dd756d
+
+	Name: UND_Noblestalk
+	Root Template: 48c679c1-b713-4d2f-9bba-1c43ed654404
+
+	Name: UND_AncientSussurTree
+
+	Name: UND_SussurTree
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: UND_SussurTree_Flower
+
+	Name: _Hag_Potions
+
+	Name: HAG_Mothers_Loathing
+	Root Template: d4fc499a-945e-4e0b-a4db-ba6157281616
+
+	Name: HAG_Broken_Promises
+	Root Template: 3575950d-c41a-448d-bb2d-cd08c78c88c6
+
+	Name: HAG_Faltering_Will
+	Root Template: 4d37061a-901d-47d7-9c11-4237e34b98a1
+
+	Name: HAG_Heart_Of_Stone
+	Root Template: 0e54d347-dffa-4d13-92c0-74c82decefba
+
+	Name: HAG_Insanitys_Kiss
+	Root Template: b1b5590b-e246-4e33-acaa-5984b2e2306f
+
+	Name: HAG_Lost_Time
+	Root Template: a46558fe-54a8-4720-a12e-7470e072a9d7
+
+	Name: HAG_Lovers_Avarice
+	Root Template: 920dcb59-b732-4d97-ae1a-fadbb5955fe5
+
+	Name: HAG_Missing_Pets
+	Root Template: 44da51b6-6d05-488c-9097-99dd6c795ed3
+
+	Name: HAG_Stillborn
+	Root Template: 9d98eb5a-08c1-471a-84d5-76dbb098f160
+
+	Name: HAG_Wilted_Dreams
+	Root Template: 2a507888-cf2b-425a-8920-dc0ca35cfa2e
+
+	Name: HAG_InspirationAmulet
+
+	Name: OBJ_PLT_SpiderWebBarricade
+
+	Name: FOR_DestructibleWall_Stone
+
+	Name: GOB_Priestess_Statue
+	Root Template: 3cb2cf4d-4126-4d78-9215-a345b10bdc23
+
+	Name: GOB_MetalDoor_Weak
+
+	Name: CRA_HarperRock
+
+	Name: FOR_DangerousBook
+
+	Name: DEN_Horn
+	Root Template: e89505df-2be5-4b3c-b1bc-c49e77c4b866
+
+	Name: DEN_GoblinBarrel
+
+	Name: CHA_LaezelRecruitment_CageBottom
+
+	Name: DEN_GoblinPoisoning_EthelBrew
+	Root Template: 29414a52-2dee-4386-a6a2-ae05fd44d47d
+
+	Name: CRA_ShellKid_Cup
+	Root Template: 957de976-3099-42b0-a429-823b5800e49e
+
+	Name: CRA_ShellKid_Stone
+	Root Template: d9e2e790-ef5d-4b97-a553-275d70e0df93
+
+	Name: DEN_EldathIdol
+	Root Template: bedb61cb-9cce-45c9-b882-68f1c5d354d8
+
+	Name: CRA_Fisher_LoveLetter
+	Root Template: 4e00f7f9-7ee0-4eaa-be95-db3f0ad9427a
+
+	Name: GOB_RoastingDwarf_Meat
+	Root Template: c245cb1a-ecfb-4dac-b686-26013dbb00d9
+
+	Name: QUEST_GOB_SuspiciousMeat
+
+	Name: UND_MushroomHunter_Backpack
+
+	Name: UND_Wand_Fireballs_Crooked
+	Root Template: 7fe2b8bb-473a-4a1b-96a6-840a629c2444
+
+	Name: UND_Wand_Fireballs_Snapped
+
+	Name: FOR_PLT_Floor
+	Root Template: de8b63e8-1223-4a56-9541-9eede1eea679
+
+	Name: GLO_SoulCoin
+	Root Template: 8c68e68d-96d4-45d6-804c-5f31ac948ff3
+
+	Name: QUEST_HAG_HagHair_Wisdom
+	Root Template: de2c9582-fab5-4d5e-9a81-44d67af6a681
+
+	Name: QUEST_HAG_HagHair_Strength
+	Root Template: 8f6b0c08-d1b1-4ae7-ade2-da3c679ce323
+
+	Name: QUEST_HAG_HagHair_Constitution
+	Root Template: d16922ba-a36b-4015-8072-27610821fb53
+
+	Name: QUEST_HAG_HagHair_Dexterity
+	Root Template: 7e3afbf6-4e1a-444e-826d-f8e0e0a8308f
+
+	Name: QUEST_HAG_HagHair_Intelligence
+	Root Template: 9abbab89-d29f-47c0-9ffe-f12018dd83d9
+
+	Name: QUEST_HAG_HagHair_Charisma
+	Root Template: eec5de82-c988-40e6-8f10-474d5675c550
+
+	Name: QUEST_CMB_StalkBulb
+	Root Template: 88fbb698-6dd9-4239-a29c-51606b95af1c
+
+	Name: DEN_EmptyRuneSocket
+
+	Name: DEN_RuneRepaired
+	Root Template: c3db2da6-48ca-4875-bf20-fef526feb4b3
+
+	Name: FOR_ThayanMirror
+	Root Template: a7bf1435-ec62-4ac2-9eea-5900471046c6
+
+	Name: UND_ArcanePowerGenerator
+	Root Template: 73fd1af9-ba3e-4e9a-b99f-8cb2e227821b
+
+	Name: FOR_ForgeWithSussurBark
+	Root Template: 077573ae-45d0-4aeb-b6b1-a69e4b62d360
+
+	Name: FOR_BlacksmithForge
+
+	Name: DEN_Apprentice_AntidoteCauldron
+
+	Name: UNI_Volo_ErsatzEye
+	Root Template: 000cfc9f-b973-48e7-a5c8-f2992a47a943
+
+	Name: CHA_PLT_Fissure
+
+	Name: HAG_WoodWoad_InvisibleHelper
+
+	Name: HAG_PoisonApple
+	Root Template: 1617582e-5c09-460a-8ae7-7be77803955d
+
+	Name: UND_SharFort_Gem
+
+	Name: HAG_AntidotePear
+	Root Template: 7b3d0c97-9b8a-4e72-bb3d-da0c1d020087
+
+	Name: CONS_FOOD_Fruit_HAG_AntidotePear_7b3d0c97-9b8a-4e72-bb3d-da0c1d020087
+
+	Name: GLO_CursedIronFlask
+	Root Template: 369c04b5-992b-4bde-8451-1eac0a3376ea
+
+	Name: UND_ArcaneLightsource
+
+	Name: GOB_DwarfsPoem
+
+	Name: GOB_OrnateDoor_Gut
+
+	Name: DEN_PoisonousThorn
+	Root Template: 91c883ff-9c21-4da8-bc34-1eab397e92ab
+
+	Name: UND_SeluneOutpost_Key
+	Root Template: 592a4157-1b4d-483c-a86b-9900f980e961
+
+	Name: HAG_Bubbly_Fireflies
+	Root Template: 31fa5a83-0a3e-490f-b65e-6c8fffffa4cf
+
+	Name: UNI_PUZ_MithralOre
+	Root Template: f65292f7-a930-48a3-a803-914da4781056
+
+	Name: UND_FearfulRothe_Rubble
+	Root Template: 163cdc6e-681e-4dcf-869d-33a12d5a6b9c
+
+	Name: UND_InjuredGnome_DuergarAntidote
+	Root Template: d0e9a8cd-ca87-42bc-bc48-8bf20975a927
+
+	Name: UNI_NarrativeLoot_BloodBottle
+	Root Template: f707a269-04e0-4d28-ae39-0565a78adbee
+
+	Name: UNI_BLD_AdamantineForge_Crucible
+	Root Template: cdb69de5-d603-49be-b4d1-ca0272adb2f6
+
+	Name: UNI_BLD_AdamantineForge_CrucibleFilled
+	Root Template: a0a04f87-1868-44d0-be9a-1819e12905c4
+
+	Name: UNI_BLD_AdamantineForge
+	Root Template: 8677c8eb-6b43-4e4f-971a-93c64f461033
+
+	Name: UNI_BLD_AdamantineForge_Scalemail
+	Root Template: 886b5401-754d-4a66-97e8-9cb571cb387b
+
+	Name: UNI_BLD_AdamantineForge_Splint
+	Root Template: 0fce209f-9217-4e28-8cb8-2d57a1a2db2f
+
+	Name: UNI_BLD_AdamantineForge_Mace
+	Root Template: d67a171a-b605-44b9-8ac4-6189c89731d5
+
+	Name: UNI_BLD_AdamantineForge_Longsword
+	Root Template: f39150de-5512-4f13-8c6b-f310e38a893c
+
+	Name: UNI_BLD_AdamantineForge_Scimitar
+	Root Template: 476c89a5-c182-44f1-9850-1481bbb42ce3
+
+	Name: UNI_BLD_AdamantineForge_Shield
+	Root Template: 6d8a020c-e518-4f1b-aa2f-5d78c1839273
+
+	Name: UNI_LOOT_AdamantineForge_ScaleMold
+	Root Template: e0dd88fa-b057-499a-b2fd-fe8e92a856df
+
+	Name: UNI_LOOT_AdamantineForge_SplintMold
+	Root Template: e3526b0a-b74f-43c5-9466-334c08de88fe
+
+	Name: UNI_LOOT_AdamantineForge_MaceMold
+	Root Template: a1cd6c84-84bc-4546-b052-a58e38faf4a5
+
+	Name: UNI_LOOT_AdamantineForge_ScimitarMold
+	Root Template: fecf2955-a5a2-42e5-86f3-4bf87b3d0e2a
+
+	Name: UNI_LOOT_AdamantineForge_ShieldMold
+	Root Template: 8e2c856e-6317-40f3-89a4-b195b70b9fa1
+
+	Name: UNI_LOOT_AdamantineForge_LongswordMold
+	Root Template: 348649e0-e74c-4968-9613-fe3712796dd6
+
+	Name: UNI_MagicStaff_Part_Crystal
+	Root Template: 35308cf1-3480-4a22-be9c-c0f41c3eb14c
+
+	Name: UNI_MagicStaff_Part_Helve
+	Root Template: 44bb4707-398c-4a38-9959-eb3052ebabc2
+
+	Name: UNI_MagicStaff_Part_Top
+	Root Template: db32d957-c708-4694-a863-271e6a9a4676
+
+	Name: UND_OBJ_Runepowder_Vial
+	Root Template: 9220d896-4ff3-430f-9523-00d2a4dfbc17
+
+	Name: UND_OBJ_Runepowder_Barrel
+	Root Template: 79dfb371-cd87-48f3-b542-26db2d39cfe2
+
+	Name: OBJ_Runepowder_Timebomb
+	Root Template: 9a711e91-04d0-4300-8ca8-b4cc07529a56
+
+	Name: UND_PUZ_LavaBubble
+	Root Template: 30589104-ccc4-459f-8fa0-84ddb0424f6c
+
+	Name: UNI_HAG_Wand_SummonHusband
+
+	Name: FOR_StashBoulder
+
+	Name: UNI_OBJ_BeerBarrel
+	Root Template: 35175721-c8f2-4bf2-ac2f-dcd8edddad6d
+
+	Name: UNI_OBJ_BeerBarrel_Poisoned
+	Root Template: a26ae9d0-6a7a-448e-82e8-66d79eb5e6a0
+
+	Name: Quest_UND_Moonlantern_Broken
+	Root Template: 2c99f1f1-776b-45dd-a9d7-06e6a8e14b3f
+
+	Name: FOR_KnifeInMeatMeat
+
+	Name: UNI_UND_NarrativeLoot_BlingdenstoneWine
+	Root Template: ba0a465a-f438-41ca-93bc-dacd63421344
+
+	Name: UND_SharFort_Door
+
+	Name: UND_SharFort_TurretHelper
+
+	Name: DEN_IdolOfEldath
+	Root Template: 6635ff41-c914-4b01-9df7-a51963f8663f
+
+	Name: TUT_Lab_ClericBrainJar
+
+	Name: FOR_SchoolOgres_Horn
+	Root Template: fffed42d-f849-47ad-9931-3f7fe72e364c
+
+	Name: ORI_Gale_DeathFlute
+
+	Name: OBJ_HarperPin
+	Root Template: 1589f0d3-dcec-4588-8045-6b15d2c0d2d9
+
+	Name: GOB_PrisonEscape_TunnelNoBody
+
+	Name: GLO_CursedIronFlask_Empty
+
+	Name: BOOK_GLO_GeneralLoreBook_AFableOfModrons
+	Root Template: 9fce2e7c-b3dc-449f-b86c-2c0ea6b5a0d2
+
+	Name: BOOK_GEN_Faction_DruidFiction1
+	Root Template: d59e5809-cd36-4395-bb6d-7cc257cce1b7
+
+	Name: BOOK_GEN_Faction_DruidFiction2
+	Root Template: 291cd3c7-a79f-476a-9575-b23068945e5d
+
+	Name: BOOK_GEN_Faction_DruidFiction3
+	Root Template: 6e464482-8c00-4db7-a085-85cc2f1d533f
+
+	Name: BOOK_GEN_Faction_DruidFiction4
+	Root Template: e7a49167-0beb-48f5-bafa-ac9343db985d
+
+	Name: BOOK_GEN_Faction_EmeraldEnclaveLogBook
+	Root Template: b2aa9bc4-582f-46d5-8ea7-6525d6ffb2f3
+
+	Name: BOOK_GEN_Factions_LeadershipOfZhentarim
+	Root Template: 30676ccf-d2d7-4fad-ab89-ba1ec954702b
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership1
+	Root Template: 75a72575-3da6-4cfc-85c0-781ae28c3e08
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership2
+	Root Template: d2dff59c-e049-40c1-9552-3fc659012215
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership3
+	Root Template: 23038237-eb35-4ed1-bb18-737a58f0ee3b
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership4
+	Root Template: 7c39c2a5-f259-44a3-8434-3c6c86e94b98
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership5
+	Root Template: 67a39a72-f199-4b66-8abb-45ce9afbd9bf
+
+	Name: BOOK_GLO_GeneralLoreBook_AnArchdukesLeadership6
+	Root Template: 2a25ec42-7716-4f06-a51a-bd6fb8b1d07d
+
+	Name: BOOK_GLO_GeneralLoreBook_BalduranFoundsACity
+	Root Template: 9af236a6-37dd-4a26-82a2-8a5b77878bc2
+
+	Name: BOOK_GLO_GeneralLoreBook_BaldursGateHistory01
+	Root Template: 2002904e-c737-4e67-a351-9d19af6a6036
+
+	Name: BOOK_GLO_GeneralLoreBook_BaldursGateHistory02
+	Root Template: f7481770-28dc-487b-9e67-80930b0a89ba
+
+	Name: BOOK_GLO_GeneralLoreBook_TheDucalCouncil
+	Root Template: 52cf114d-386c-4e64-b740-36ff5175bd0e
+
+	Name: BOOK_GLO_GeneralLoreBook_TheFlamingFist
+	Root Template: 58c6fc63-364c-4b91-bce9-aec92963a635
+
+	Name: BOOK_GLO_GeneralLoreBook_WhenTheCircusCameToTown
+	Root Template: 8899af94-76bc-4e61-8098-a80f109d0c13
+
+	Name: BOOK_GLO_GeneralLoreBook_You'veGotFriendsInTheGuild
+	Root Template: 7eb19a48-212a-471f-bcdd-413cbb5bd51a
+
+	Name: BOOK_GLO_GeneralLoreBook_UndercityLegends
+	Root Template: 4595eed7-ac54-43e4-b28f-2d574717c2cf
+
+	Name: BOOK_GLO_GeneralLoreBook_TheWatchAndTheSteelWatch
+	Root Template: 52aecfcc-11cd-4570-bb8a-406cb38ce95d
+
+	Name: BOOK_GLO_GeneralLoreBook_LowerCityAndUpperCity
+	Root Template: f4e46d0f-8181-4ba2-8839-7f329afc03aa
+
+	Name: BOOK_GLO_GeneralLoreBook_KingpinDossiers
+	Root Template: 29e8de9b-eefd-42f1-93b5-fab8dc03808e
+
+	Name: BOOK_GLO_GeneralLoreBook_OldBaldursMouthLettersPage
+	Root Template: 3da1c1fa-b1be-4bda-af36-bad13972f0fc
+
+	Name: BOOK_GLO_GeneralLoreBook_PatriarsAHomegrownAristocracy
+	Root Template: ed84f70f-926a-4ada-8408-14a1263ff818
+
+	Name: BOOK_GLO_GeneralLoreBook_ReadingTheFog
+	Root Template: bd7f6710-7282-4a2f-9eaf-b67f94854089
+
+	Name: BOOK_GEN_Gods_BhaalSongbook
+	Root Template: 94d45ae6-89c1-4917-b0aa-93c1f37c1b8d
+
+	Name: BOOK_GEN_Gods_LoviatarScreed
+	Root Template: 5820bb32-ca05-4e10-94b9-ae8a0fd50882
+
+	Name: BOOK_GEN_Gods_SeaBitchShanty
+	Root Template: fe8175fb-7ed0-4598-95fe-ab7d51114d3c
+
+	Name: BOOK_GEN_Gods_SharChildrenStories
+	Root Template: 98965f67-761f-4fe7-af59-ece5c81ed350
+
+	Name: BOOK_GLO_GeneralLoreBook_CompassionAndEndurance
+	Root Template: d7195aec-bb8a-47e8-bd27-bd1055c7cfee
+
+	Name: BOOK_GLO_GeneralLoreBook_CorellonLarethian
+	Root Template: c5b068cc-0097-4471-b754-72fb13e6b0dc
+
+	Name: BOOK_GLO_GeneralLoreBook_CrimesOfTheMoonmaiden
+	Root Template: 711e2c6b-3e14-4b57-949d-2cd6923722fa
+
+	Name: BOOK_GLO_GeneralLoreBook_EilistraeeLadySilverhair
+	Root Template: c9eae8de-757d-40f4-babf-2b72a1760fa2
+
+	Name: BOOK_GLO_GeneralLoreBook_GondAndTheGondians
+	Root Template: 27da821b-fc4b-4f5b-b74a-5497169362a8
+
+	Name: BOOK_GLO_GeneralLoreBook_SeluneHealingLore
+	Root Template: 9ef83eb7-8f46-42ea-a93c-5045efa73539
+
+	Name: BOOK_GLO_GeneralLoreBook_HarvestOfMemory
+	Root Template: 6006ea4c-9cfe-41b6-b851-116fe2a4ce15
+
+	Name: BOOK_GLO_GeneralLoreBook_HelmDogmaLore
+	Root Template: f407421a-e778-44d6-a9fa-5cb5f82577e5
+
+	Name: BOOK_GLO_GeneralLoreBook_JudgeOfTheDamned
+	Root Template: 366b875d-f871-4986-b896-d7f62c07cef9
+
+	Name: BOOK_GLO_GeneralLoreBook_KelemvorBlessings
+	Root Template: 8edebcd6-7a1e-467b-a755-67fc7d560b4e
+
+	Name: BOOK_GLO_GeneralLoreBook_LaduguerTheExile
+	Root Template: 06f06e23-7269-46ea-abb0-aa62873cc0f2
+
+	Name: BOOK_GLO_GeneralLoreBook_LegendsOfTheSeaBitch
+	Root Template: 156aac03-db7f-4ae5-8a38-bc8fa887092c
+
+	Name: BOOK_GLO_GeneralLoreBook_MoradinTheSoulForger
+	Root Template: 69d54011-5584-4674-a4e8-743e3e8677d8
+
+	Name: BOOK_GLO_GeneralLoreBook_MotherOfHalflings
+	Root Template: de14a483-e879-484c-843f-e89148de3ccd
+
+	Name: BOOK_GLO_GeneralLoreBook_MysteriousMoonshae
+	Root Template: 1b908ea9-3a2b-4ffa-9e59-dbb25c194125
+
+	Name: BOOK_GLO_GeneralLoreBook_QueenOfRavens
+	Root Template: f52c87ca-1d03-4a6c-aadd-94e3861a2720
+
+	Name: BOOK_GLO_GeneralLoreBook_ShatteringMyChains
+	Root Template: 63480f93-e070-4516-a4c4-ad93efb0fcbe
+
+	Name: BOOK_GLO_GeneralLoreBook_TalesOfTheOrcFather
+	Root Template: bbdada46-d102-4ffd-a446-1836e93f0c53
+
+	Name: BOOK_GLO_GeneralLoreBook_TheGnomefather
+	Root Template: 0adc71a0-50c3-48c8-aca7-1d49f373372d
+
+	Name: BOOK_GLO_GeneralLoreBook_TheLadyOfLuck
+	Root Template: a95ef1f4-5bb5-4aa3-812c-9ff2ef2335b0
+
+	Name: BOOK_GLO_GeneralLoreBook_TyrHandLore
+	Root Template: decc5281-6b1b-4288-b906-c34b988ef067
+
+	Name: BOOK_GEN_History_FallofNetherilPlay
+	Root Template: 46dbc233-2984-4171-8db8-8b31fe4ba830
+
+	Name: BOOK_GEN_History_MythicalBeastsPrimer001
+	Root Template: b4e8d686-d7b2-43a2-a335-d4ea9bb56bf5
+
+	Name: BOOK_GEN_History_NhallothRuinsNetheril
+	Root Template: 6c318558-90d6-4bc0-99a7-30c2b18f89bd
+
+	Name: BOOK_GLO_GeneralLoreBook_CorsairsOfLuskan
+	Root Template: c0559435-ef09-4611-b713-38e584b5b0e3
+
+	Name: BOOK_GLO_GeneralLoreBook_GondianResearchReport
+	Root Template: 76c2ee2c-c3c2-4d5e-840f-6bba27063d24
+
+	Name: BOOK_GEN_Planes_Annihilation
+	Root Template: c30ae9ac-f8eb-4a9d-82e2-05d4f4494249
+
+	Name: BOOK_GEN_Planes_AvernusSurvivalGuide
+	Root Template: 86919ed4-4af4-465d-9e86-acf838751248
+
+	Name: BOOK_GEN_Planes_FiendishAlchemy
+	Root Template: e582ecc5-091f-4463-b527-fc267a825ddc
+
+	Name: BOOK_GEN_Planes_FiendishBestiary
+	Root Template: a48d2cd6-5bb0-4198-9255-393acdc3b6ea
+
+	Name: BOOK_GEN_Planes_TheHellsUnleashed
+	Root Template: 8e4c633a-6247-47a3-ab90-916a3157f7f1
+
+	Name: BOOK_GLO_GeneralLoreBook_ADreamOfGears
+	Root Template: 59fbe9fa-be4e-4498-9e3d-d61e4620d59b
+
+	Name: BOOK_GLO_GeneralLoreBook_WallOfTheFaithless
+	Root Template: 517532d1-e1c4-4c89-ae0e-2b191c3e3b5b
+
+	Name: BOOK_GLO_GeneralLoreBook_ChildrenOfStone
+	Root Template: beea4555-9b9a-45f0-a567-abc88eed91a9
+
+	Name: BOOK_GEN_Races_DuergarOriginChant
+	Root Template: 18c9d03b-1085-4905-980d-c14667be40fc
+
+	Name: BOOK_GLO_GeneralLoreBook_MatingPracticesOfDragonborn
+	Root Template: bcc2e9dc-54f2-4a0e-96eb-e949b5443445
+
+	Name: BOOK_GLO_GeneralLoreBook_ScaledScionsOfAbeir
+	Root Template: 608bcdda-a4fb-402c-90ef-e63165fa5183
+
+	Name: BOOK_GLO_GeneralLoreBook_TheLibelOfHalfOrcBarbarism
+	Root Template: 36717ffb-9fb1-4877-ba23-144036e4fe08
+
+	Name: BOOK_GLO_GeneralLoreBook_TheHalfOrcCannibalsAmongYou
+	Root Template: 419084c9-6002-480a-a025-ae1c4580b8fe
+
+	Name: BOOK_GEN_World_MatronSpeechDrowTenets
+	Root Template: 5f88fed8-61f8-4ad9-b334-b7d9c3f3f6cb
+
+	Name: BOOK_GEN_Races_GoblinPoetry
+	Root Template: 91be2cda-7804-4757-888d-28ac916fdef2
+
+	Name: BOOK_GEN_Races_IllithidMagicLore
+	Root Template: 0925daae-188f-49f8-a153-0696d8064172
+
+	Name: BOOK_GEN_Races_ScandalousCambionPlay
+	Root Template: eb7cc5b2-40d2-4602-b7f9-21037bbd5c56
+
+	Name: BOOK_GLO_GeneralLoreBook_GuideToGoblinoids
+	Root Template: 3c801602-9bb1-44aa-8254-e318c1683aae
+
+	Name: BOOK_GLO_GeneralLoreBook_KoboldsArePeopleToo
+	Root Template: c94a36ae-083b-4571-98c2-91a145ad0d9c
+
+	Name: BOOK_GLO_GeneralLoreBook_VampirismCurseOrDisease
+	Root Template: 2e26eefd-8bf1-4348-862d-2bf5f06a117c
+
+	Name: BOOK_GEN_World_CandlekeepEels
+	Root Template: 177d6e70-38d8-435b-aa2a-00893c0004eb
+
+	Name: BOOK_LOW_SorcerousSundries_BookByElminster1
+	Root Template: e49f629e-3978-4644-ae73-668dac7fd095
+
+	Name: BOOK_LOW_SorcerousSundries_BookByElminster2
+	Root Template: f274192d-0b88-48be-a4c6-748940631f0a
+
+	Name: BOOK_LOW_SorcerousSundries_BookByElminster3
+	Root Template: 956b4768-5af5-4279-87cd-58d78bb38a82
+
+	Name: BOOK_LOW_SorcerousSundries_EnchantmentsManual
+	Root Template: 20c7e8b0-e395-424a-a3b6-18e255331e8d
+
+	Name: BOOK_LOW_SorcerousSundries_MagicAnomalies1
+	Root Template: 4d4055f7-880a-408f-b18b-15a7ca169248
+
+	Name: BOOK_LOW_SorcerousSundries_MagicAnomalies2
+	Root Template: bf35b17f-73bd-4217-a55e-a03d2c41f293
+
+	Name: BOOK_LOW_SorcerousSundries_MagicAnomalies3
+	Root Template: f3739134-b707-4c32-ba8b-bdb52a23f911
+
+	Name: BOOK_LOW_SorcerousSundries_MagicHistory1
+	Root Template: 68f342f3-8690-494f-8bd8-7086a262ed58
+
+	Name: BOOK_LOW_SorcerousSundries_MagicHistory2
+	Root Template: b13028f9-0295-40d2-81b0-2b6b5175c25c
+
+	Name: BOOK_LOW_SorcerousSundries_MagicHistory3
+	Root Template: 09840ba4-5ae1-4017-b687-96ca96119b5a
+
+	Name: BOOK_LOW_SorcerousSundries_MagicHistory4
+	Root Template: 1876be35-e632-49ad-bb6d-f39e8c1300c8
+
+	Name: BOOK_LOW_SorcerousSundries_NotableWizards1
+	Root Template: a71a261b-14d1-4398-877c-631a28b2f940
+
+	Name: BOOK_LOW_SorcerousSundries_NotableWizards2
+	Root Template: d328c273-cdd6-46e2-aca5-3eb724de0813
+
+	Name: BOOK_LOW_SorcerousSundries_NotableWizards3
+	Root Template: f8964795-d19f-40f4-afd4-6c504ef662d1
+
+	Name: BOOK_LOW_SorcerousSundries_PitfallsOfLichdom
+	Root Template: 42d8ed89-79da-45bd-883c-2fce7c6bb2c5
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic1Abjuration|
+	Root Template: c0899d70-0211-426b-9a24-b6ad5f092427
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic2Conjuration
+	Root Template: 5f4a5175-c616-4507-aed5-39e7db3ddfbb
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic3Divination
+	Root Template: 6aee67ef-8e0d-4ae7-9fba-c16d78d6ba6c
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic4Enchantment
+	Root Template: 87a65ae6-219e-4c06-8df1-415244011139
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic5Evocation
+	Root Template: 6747d389-898d-425e-8de2-18835b66b343
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic6Illusion
+	Root Template: 015a8a3f-e66c-4907-9f03-82299ab772b2
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic7Necromancy
+	Root Template: 2a189fdf-1776-45c4-b3dc-0a44a446b463
+
+	Name: BOOK_LOW_SorcerousSundries_SchoolsOfMagic8Transmutation
+	Root Template: 33dec011-a696-4291-a9fa-7180e83a655b
+
+	Name: BOOK_LOW_SorcerousSundries_TheApprenticesCompanion1
+	Root Template: 136ab755-bc62-4676-95df-8a1673a99e74
+
+	Name: BOOK_LOW_SorcerousSundries_TheApprenticesCompanion2
+	Root Template: 770d07e4-29ac-45ca-b25e-f737def24bb3
+
+	Name: BOOK_LOW_SorcerousSundries_TheApprenticesCompanion3
+	Root Template: f6e14327-59fc-4da8-ae60-8f180d5932bd
+
+	Name: BOOK_LOW_SorcerousSundries_TheApprenticesCompanion4
+	Root Template: 11e7e6fc-9094-476b-b0e6-fa5d33f44a62
+
+	Name: BOOK_LOW_SorcerousSundries_TheApprenticesCompanion5
+	Root Template: e4a2c320-dc3b-4292-a90f-4b2bed626b81
+
+	Name: BOOK_LOW_SorcerousSundries_WeaveLore
+	Root Template: e411eec9-57f5-49be-8ce1-4d72ca8a71eb
+
+	Name: BOOK_GLO_SorcerousSundries_KarsusStory
+	Root Template: ea61964d-fd13-40c9-8b75-9b00e0ee5812
+
+	Name: BOOK_GEN_World_GuideToAvernus
+	Root Template: 54161c07-5a1e-44d3-b09c-24182401d8d7
+
+	Name: BOOK_GEN_World_InfernalContractsAndBargains
+	Root Template: 47b53a2b-0530-4ccf-b440-8fc876d86adf
+
+	Name: BOOK_GEN_World_TalesOfTheHells
+	Root Template: 5a963ead-1758-46f8-8b9f-61297ef61be4
+
+	Name: BOOK_GLO_GeneralLoreBook_TheQuartaSune
+	Root Template: ea11e887-4d4c-431b-83e8-39cd9c477755
+
+	Name: BOOK_GLO_GeneralLoreBook_GatesPubCrawlGuide
+	Root Template: c035fdfe-60bd-4b6b-920b-0732d0c20332
+
+	Name: BOOK_LOW_SteelWatchFoundry_TalisTactics
+	Root Template: 9c795c3f-43c8-48b1-96e1-dbe4f93f63e8
+
+	Name: BOOK_LOW_Generallorebook_BaldursBones
+	Root Template: 5e6cb458-5b64-455c-ae42-17ac3235a20a
+
+	Name: BOOK_LOW_Generallorebook_Talis
+	Root Template: d489f0ec-c6df-4358-9a82-54929df8383f
+
+	Name: BOOK_Alchemy_AlchemySimplePoison
+	Root Template: cec88382-24b3-41e9-9a9c-bd1c7039d907
+
+	Name: BOOK_Alchemy_Barkskin
+	Root Template: 4ac870b9-b40d-416e-8774-0c9f15a416f2
+
+	Name: BOOK_Alchemy_Coatings
+	Root Template: 1aa1e3fa-3671-4491-8153-a697b0397bc1
+
+	Name: BOOK_Alchemy_ElixirArcaneCultivation
+	Root Template: 158155a6-c633-4917-94cd-ef4cd9487716
+
+	Name: BOOK_Alchemy_ExtractTypes
+	Root Template: 67d0aa41-9847-4305-8b30-e0cf4b9fa8ee
+
+	Name: BOOK_Alchemy_ExtractsRuleOfThree
+	Root Template: 9d22af1b-c18d-40c7-b1d0-be388e0dfe43
+
+	Name: BOOK_Alchemy_HealingPotion
+	Root Template: a1f70b6d-b07f-48d3-aa43-8e80089e97c8
+
+	Name: BOOK_Alchemy_HealingPotionGreater
+	Root Template: 906a7085-246e-4c35-8a9c-6ade3703a62f
+
+	Name: BOOK_Alchemy_LightFlask
+	Root Template: b7b4f043-cb61-4e02-86e1-33845af4bc46
+
+	Name: BOOK_Alchemy_PotionAnimalSpeaking
+	Root Template: db5ca6a8-89cb-44d8-91d3-b22afbda8a6c
+
+	Name: BOOK_Alchemy_PotionsVsElixirs
+	Root Template: c850af9c-af96-467c-8b23-0bcce0273301
+
+	Name: BOOK_Alchemy_SerpentVenom
+	Root Template: 32d92bb6-23f4-43bf-a979-8cf895479853
+
+	Name: BOOK_Alchemy_ToxinBasic
+	Root Template: fb9c7104-d47d-4584-86af-df500013097c
+
+	Name: BOOK_GLO_Alchemy_ElixirDarkvision
+	Root Template: 42d363b3-9f66-45bd-a238-2ee48711b18c
+
+	Name: BOOK_GLO_Alchemy_LesserOilSharpness
+	Root Template: b356d53e-d713-44a1-a5cf-a0262f998856
+
+	Name: BOOK_GLO_Alchemy_DrowPoison
+	Root Template: c7308ec2-66ea-4daa-a426-8da27eaa09a4
+
+	Name: BOOK_GLO_Alchemy_CrawlerMucus
+	Root Template: f966c7c5-7da5-4e0e-86fe-aab72f9a04d3
+
+	Name: BOOK_GLO_Alchemy_PotionMindReading
+	Root Template: 65b633a8-042b-4616-a3f2-beb39bd27b4c
+
+	Name: BOOK_GLO_Alchemy_ElixirNecroticResistance
+	Root Template: 5d6b2fcd-a0dc-41ff-b15a-b0e3a76cc92a
+
+	Name: BOOK_GLO_Alchemy_WizardsbaneOil
+	Root Template: 30d66533-b41f-47cd-a317-c901bcb092b5
+
+	Name: BOOK_GLO_Alchemy_WyvernToxin
+	Root Template: 0a5cafde-07bd-4c45-8f1e-1febbf450ff7
+
+	Name: BOOK_GLO_Alchemy_SuperiorPotionHealing
+	Root Template: 1ca9964c-9f9e-4c42-be33-e0c7a9a5746a
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary1
+	Root Template: af35343a-7b7b-4cee-83d2-aa8991ca6a0d
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary2
+	Root Template: bd6af55e-b41d-44ac-a517-94fe539e3018
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary3
+	Root Template: 17ce726d-f226-46e9-9511-bcb3edbdb234
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary4
+	Root Template: ac8a7e52-aeeb-4cfb-a42a-a84fda32bcdb
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary5
+	Root Template: d4a21262-db63-4036-9860-0946613b7a41
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary6
+	Root Template: 6be01aa9-cc80-4ec7-946c-8eceed5c347e
+
+	Name: BOOK_GLO_SharessCaress_SmutLibrary7
+	Root Template: b781ff05-1ba4-4344-be0d-a19108c1f9e6
+
+	Name: BOOK_GLO_GeneralLoreBook_DragonbornButler
+	Root Template: 39d22054-44bd-4ff8-a58c-5f39a9ea94d3
+
+
+Gustav\Public\GustavDev\Stats\Generated\Data	Total Objects: 197
+	Name: SHA_FallingRubble
+	Root Template: 972ad5f3-4b26-4af9-b136-66f328c3c107
+
+	Name: SHA_LastJusticiar_RatTunnel_Destructible
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: SHA_Shadowquake_Item
+	Root Template: cb76d5b0-3eae-4fa5-af75-9bedd1215368
+
+	Name: SHA_Shadowquake_Item_Boss
+
+	Name: SHA_SilentLibrary_Librarian
+
+	Name: SCL_Distillery_PurpleWormGlands
+	Root Template: 995350b8-1f00-407f-bece-a8452945da66
+
+	Name: QUEST_SHA_TrialGemSocket
+	Root Template: 39082ded-2213-421c-992b-d86f35bccf75
+
+	Name: QUEST_LOW_DiabolistTrapSocket
+	Root Template: 7dc0d241-f391-4714-a996-1400bc9b0200
+
+	Name: QUEST_LOW_DiabolistTrapSocketDisarmed
+	Root Template: ff95f7c4-8366-418d-aee4-dbbab06273ec
+
+	Name: QUEST_SHA_TrialGemSocket_WithGem
+	Root Template: ead9a841-dd1f-4b85-8353-104faea5a5cc
+
+	Name: QUEST_SHA_TrialGem
+	Root Template: fd3fd8a9-a5fc-4726-9b6e-77f5ecf54cea
+
+	Name: HAV_Ointment_Of_Selune
+	Root Template: d8fbdb05-70e2-4ee6-9cca-9f487c30a42d
+
+	Name: UNI_HAV_Thiefling_SendingShell
+	Root Template: 60d14cc7-d47f-4e8d-a888-50619b80bf28
+
+	Name: UNI_HAV_Thiefling_DecanterOfEndlessWater
+	Root Template: ac49f3e0-d5d5-448c-b3cf-dd1ad9a96013
+
+	Name: UNI_HAV_Thiefling_ArrowOfSlaying
+	Root Template: 062c6dd0-113d-4ca0-935c-bd937091a9eb
+
+	Name: UNI_HAV_Thiefling_CursedSpoon
+	Root Template: e14df0f7-0361-42ea-a0af-a4d4033f85e2
+
+	Name: UNI_HAV_Thiefling_FishingRod
+	Root Template: a366a1b3-2338-434a-9815-97243bb1821e
+
+	Name: QUEST_TWN_AasimarSurvivor_TrapObject
+
+	Name: SHA_SummonGolemBell
+	Root Template: 274b6c3c-cf13-46b9-ba51-7b9e01f05676
+
+	Name: QUEST_MOO_DrowPriestess_FallingBlock_Heavy
+
+	Name: SHA_ObjectOfDarkness
+
+	Name: COL_Ketheric_DeathBloom
+	Root Template: 47d0ac01-b412-44f6-9fcf-fe6888764c1d
+
+	Name: UNI_CRE_RawSunCrystal
+	Root Template: a6bc05c1-5cca-4b54-b83f-0ed546b5e326
+
+	Name: UNI_CRE_RooftopLanceControlPanel
+	Root Template: b80175d7-8faf-4bc0-a7c8-c122186d6f27
+
+	Name: UNI_CRE_DawnmasterCrest
+	Root Template: 3b05b86b-4282-4a92-ace7-e323c1fc1d1e
+
+	Name: UNI_CRE_MisCutCrystal
+	Root Template: 55f57f88-bed2-43bd-9f2d-4fd839b7b531
+
+	Name: TWN_MasonsGuild_Grating
+
+	Name: TWN_FishermansHut_Barricade
+
+	Name: SCL_TreeCage
+
+	Name: MOO_PrisonStoneWall
+	Root Template: 61eba7d5-193e-4a71-9e80-bf0374c12605
+
+	Name: COL_BrainReader
+	Root Template: 688cca2a-1571-406d-8981-61a9009dfb38
+
+	Name: CRE_MonasteryBrewery_Destr_Support_Wood
+
+	Name: COL_NightsongSoulCage
+
+	Name: COL_BrainJar_Memory
+	Root Template: 25386dbf-d8e5-470e-8b5a-1f05fdd93a67
+
+	Name: COL_CleansingRoom_Tentacle
+
+	Name: SHA_BalthazarSkeletonPile_Small
+
+	Name: SHA_BalthazarSkeletonPile_Big
+
+	Name: COL_BalthazarRitualCage
+
+	Name: COL_BalthazarRitualCandle
+
+	Name: TWN_Nightdome
+
+	Name: OBJ_CrownController
+
+	Name: OBJ_CrownController_Ketheric
+	Root Template: 99d576b9-46b5-4da6-b9c4-197d17c668a4
+
+	Name: UNI_TWN_TollhouseStatue
+	Root Template: 1b3f678f-9040-413a-bba3-264b60d62a6c
+
+	Name: QUEST_MOO_BalthazarsSecrets_SecretAltar
+	Root Template: 64a8c123-327b-40c1-b8c7-c265ff1b6e4d
+
+	Name: QUEST_MOO_BalthazarsSecrets_SecretAltar_Used
+	Root Template: 814f2a2c-9be9-47b4-897a-aea2c313a1e1
+
+	Name: QUEST_CRE_PlaneCaster
+	Root Template: d08c61cb-6aad-4237-82e4-70a6ab738c79
+
+	Name: QUEST_MOO_HeavyChain
+
+	Name: UNI_WYR_PaintingPuzzle_SolutionPainting1
+	Root Template: c97a9198-0dff-4dca-b2f0-75e680446a4a
+
+	Name: UNI_WYR_PaintingPuzzle_SolutionPainting2
+	Root Template: 827df830-08c1-4a7a-8201-8cf7faa6736b
+
+	Name: UNI_WYR_PaintingPuzzle_SolutionPainting3
+	Root Template: 9e6fbe35-e0fd-4b3a-be5b-b75935e17fc0
+
+	Name: UNI_WYR_PaintingPuzzle_PaintingSlot
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: OBJ_BloodPotion_HalfOrc
+	Root Template: b4b4a84c-95a2-46f5-9cb3-c0c53af11bde
+
+	Name: OBJ_BloodPotion_Human
+	Root Template: 04edf181-9063-417f-a197-2d0c008b5943
+
+	Name: OBJ_BloodPotion_Halfing
+	Root Template: dbeafcaf-825d-4b49-b36e-11aaf11ec794
+
+	Name: OBJ_BloodPotion_Gnome
+	Root Template: 65e56bb5-909b-4f52-99e9-18fd1f39ef19
+
+	Name: OBJ_BloodPotion_Dwarf
+	Root Template: 7196e628-a512-4447-94b3-49b2a9d1c182
+
+	Name: OBJ_BloodPotion_Elf
+	Root Template: 9c96bc7d-5546-4f0b-8980-286325050e23
+
+	Name: OBJ_BloodPotion_Tiefling
+	Root Template: 9cd26812-b428-45be-9fa9-8ef55856c52b
+
+	Name: OBJ_BloodPotion_HalfElf
+	Root Template: 293ffe17-abc1-4842-b338-cd9482e3bcbc
+
+	Name: OBJ_BloodPotion_Githyanki
+	Root Template: ff858bad-e2fa-499b-bb43-c36349a09e4b
+
+	Name: OBJ_BloodPotion_Dragonborn_Fire
+	Root Template: e258a58f-eda6-44f8-bba6-689b275d9d8f
+
+	Name: OBJ_BloodPotion_Dragonborn_Ice
+	Root Template: 5e556eca-2989-42c7-a018-95770ae779a2
+
+	Name: OBJ_BloodPotion_Dragonborn_Lightning
+	Root Template: b86d9910-d55e-4a16-a6b5-9f221071efa2
+
+	Name: OBJ_BloodPotion_Dragonborn_Acid
+	Root Template: f21d19ce-b550-4d08-8eaf-55129772c6f2
+
+	Name: OBJ_BloodPotion_Dragonborn_Poison
+	Root Template: f737ed58-b467-4d6b-b1d0-76df984ec092
+
+	Name: OBJ_BloodPotion_Astarion
+	Root Template: cc426fc4-a82e-4375-8a77-31f2344b71b4
+
+	Name: OBJ_Vase_OskarsBeloved
+
+	Name: QUEST_CRE_CaptainsBarrierDevice
+	Root Template: c8d7d9c8-2542-4f5a-b77f-c9e3b43356aa
+
+	Name: QUEST_CRE_CaptainsBarrierKey
+	Root Template: c021c3e7-a363-42b3-8a28-56a994198530
+
+	Name: WYR_ExplosiveToy
+	Root Template: e077ef28-5de9-439d-bbaf-59536585c938
+
+	Name: QUEST_LOW_JannathInteractableEasel
+	Root Template: 7410c28f-6e12-4122-9c7b-b14139f8b498
+
+	Name: QUEST_LOW_JannathPortrait
+	Root Template: 8a407bd7-effe-4306-b2a0-02624ad45074
+
+	Name: QUEST_LOW_OskarInteractableEasel
+	Root Template: 7410c28f-6e12-4122-9c7b-b14139f8b498
+
+	Name: QUEST_LOW_OskarPortrait
+	Root Template: 704653bc-b65c-4178-a7c1-d55e7fe880ce
+
+	Name: QUEST_LOW_KerriPortrait
+	Root Template: ffb6d084-0900-4f58-ae39-f0360f7488d1
+
+	Name: LOW_MysteryHouse_DnDFakeObject
+
+	Name: UNI_LOW_BaldursMouth_ArticleBlock
+	Root Template: 3aa5fdba-f1a5-40ce-aadb-7a22d273a649
+
+	Name: UNI_LOW_BaldursMouth_BlockMaker
+	Root Template: 897914a5-b482-4fce-9cda-1ab5a4fbc88d
+
+	Name: UNI_LOW_BaldursMouth_MasterBlock
+	Root Template: 989c36c4-490a-46ea-9791-14c3da8707cb
+
+	Name: UNI_LOW_BaldursMouth_FinishedBlock
+	Root Template: bd2b33f4-c7ea-4c39-a151-8b9bb2a7ea1e
+
+	Name: UNI_LOW_BaldursMouth_PrintingPress
+	Root Template: 01037d0a-fbfb-41c7-b2d2-0947f2827d80
+
+	Name: OBJ_ElixirOfImmortality
+
+	Name: QUEST_WYR_FatherCarrionJar
+	Root Template: fb080082-2b56-49dd-9031-bf02ce3260f8
+
+	Name: UNI_LOW_JaheirasHouse_UsableHarperSlot
+	Root Template: 23412538-b504-4484-9801-fc3a185f1168
+
+	Name: QUEST_HAV_InfernalGrenade
+	Root Template: b9eeaebb-9b00-4552-940f-5d829a66e8cb
+
+	Name: UNI_LOW_KarabasansGift
+	Root Template: ac9e04d9-c43c-45f2-9922-a17675ef98b5
+
+	Name: UNI_LOW_KarabasansGift_Grenade
+
+	Name: HAV_ShadowPortal
+
+	Name: UNI_LOW_MephitLilquid
+	Root Template: d47006e9-8a51-453d-b200-9e0d42e9bbab
+
+	Name: OBJ_SteelWatchFoundry_BrainJar
+
+	Name: QUEST_LOW_SteelWatchFoundry_NeuralMachine
+
+	Name: QUEST_LOW_SteelWatchFoundry_BrineBarrel
+
+	Name: QUEST_LOW_SteelWatchFoundry_KillSwitch_Usable
+	Root Template: d41a9f59-bf00-46c6-81eb-b38d9a588fdc
+
+	Name: QUEST_LOW_ForsakenSkull
+	Root Template: 1d0137cc-2735-4ba1-8e33-67537848c0fe
+
+	Name: QUEST_LOW_ForsakenSkeleton
+	Root Template: 2e271e7b-36a7-46ca-90ec-290d1abcc8f1
+
+	Name: QUEST_LOW_CompletedSkeleton
+	Root Template: e4c17191-72da-42e5-bb48-c1eac2e536b9
+
+	Name: QUEST_IRN_IronThrone_HeatDetector
+	Root Template: 1b2fc147-7d51-468f-9c0b-f8c1f0c27b7a
+
+	Name: WYR_EntranceTorch
+
+	Name: UNI_LOW_TabernacleBrazier
+
+	Name: QUEST_END_IllithidOptions_OrpheusMagicShackles
+	Root Template: c3a879cf-3f55-4580-af66-d97d1c029cac
+
+	Name: END_Bookcase
+
+	Name: QUEST_LOW_JaheirasHouse_ElementalOrbs
+
+	Name: _BaseItem
+
+	Name: UNI_LOW_BaldursMouth_DailyPaper
+	Root Template: 5ffe11b1-4949-47cd-ab49-80053db261f9
+
+	Name: QUEST_LOW_HagSurvivors_VoodooDoll
+
+	Name: QUEST_LOW_HoH_InfernalDiamond_Socket
+	Root Template: 1a62610c-567e-4f92-9a88-4aac11f6c401
+
+	Name: QUEST_LOW_Infernal_Diamond
+	Root Template: 9cfae0fb-ef7a-430c-a6aa-6efffae4a690
+
+	Name: LOW_HouseOfGrief_HelpBook
+
+	Name: WYR_Chess_King
+
+	Name: ALCH_Extract_RegenerationPreventionGrenade
+	Root Template: 3b31efae-7361-4ccc-a9e3-bf8b82e9f36d
+
+	Name: LOW_RegenerationPrevention_Grenade
+	Root Template: df5f8cbf-42c5-4c0d-a0ec-ce5046474d8e
+
+	Name: QUEST_LOW_DjinniTrap_Lamp
+
+	Name: LOW_OskarsBeloved_CursedSkull
+
+	Name: LOW_SorcerousSundries_RareTome
+
+	Name: LOW_HouseOfHope_BurningCheese
+
+	Name: LOW_Valeria_Chains
+
+	Name: WYR_SharessCaress_PotentDrink
+	Root Template: 14a43b9d-0913-4a24-8f19-a2db6e87bc36
+
+	Name: WYR_DragonFlyHelper
+
+	Name: LOW_BlushingMermaid_BloodBomb
+	Root Template: 21756f85-a506-4e80-bdec-50bdbcbacab4
+
+	Name: OBJ_THR_LOW_IronThrone_Mizora_SpiderSac
+
+	Name: WYR_Gortash_FocusedIncinerator
+
+	Name: WYR_Gortash_GrenadeInstantatior
+
+	Name: WYR_Gortash_ShieldCapacitor
+
+	Name: WYR_Gortash_Grenade
+	Root Template: 98f2cb6a-e268-4f99-aac3-62edabd8774c
+
+	Name: WYR_Gortash_Reflectoguard
+	Root Template: e5544395-3752-463c-80a8-e9b9b7ed1263
+
+	Name: WYR_Gortash_PhaseOptimizer
+	Root Template: f36d0687-46e4-4899-930e-8f635e50948e
+
+	Name: END_Crown
+
+	Name: QUEST_LOW_GuildhallRingLock
+	Root Template: 50558807-1eb1-45e3-aadd-23eb5fad3b8e
+
+	Name: IRN_Airlock_Lever
+
+	Name: LOW_BlushingMermaid_HagRegenShroom
+
+	Name: QUEST_WYR_GemlessRing
+
+	Name: QUEST_WYR_RinglessGemstone
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: END_HighHallInterior_FallingStatue
+
+	Name: LOW_HouseOfHope_BoudoirKeybox
+	Root Template: 25fd19c7-26d9-4e85-ac3e-dc8987af7be9
+
+	Name: LOW_HouseOfHope_BoudoirKey
+	Root Template: 5c64e2f7-ad13-465c-9fb9-e994fc8d0af4
+
+	Name: END_MindArena_Platform
+
+	Name: LOW_Prison_DestructibleWall
+
+	Name: DLC_DD_Coffee
+	Root Template: 2fb236a2-0714-4a66-9e4d-a031b680d6e2
+
+	Name: DLC_DD_Paella
+	Root Template: 910f4e5c-cba9-43f1-a28a-664c52b53a3c
+
+	Name: DLC_DD_Fries
+	Root Template: e454329b-b8ce-4318-b2b6-c54638b8d857
+
+	Name: DLC_DD_Stew
+	Root Template: d2f718aa-3b3e-474c-85d2-7bf05a9b2edb
+
+	Name: QUEST_LOW_OskaEaselCombined
+	Root Template: b823c3bd-aa90-489c-8779-6c85581ead9e
+
+	Name: DLC_DD_Portrait_Beast
+	Root Template: 1469200a-4419-4c9a-916f-6362378234bb
+
+	Name: DLC_DD_Portrait_Fane
+	Root Template: 2d8a25af-7140-473a-9d14-35858c29e23a
+
+	Name: DLC_DD_Portrait_Ifan
+	Root Template: 8b3e6af4-58be-4851-864f-e78df7f661a5
+
+	Name: DLC_DD_Portrait_Lohse
+	Root Template: 06af536d-8faf-49e5-99f9-606be7d6993c
+
+	Name: DLC_DD_Portrait_Red_Prince
+	Root Template: 56a21dc9-247e-4f97-a436-0647aa20c084
+
+	Name: DLC_DD_Portrait_Sebille
+	Root Template: 645b185b-e069-40ee-8a26-5daf2fdc935c
+
+	Name: BGO_Spoiled_Cabbage
+	Root Template: c8c45a00-9ad5-4f93-809c-3fd36a28d7ec
+
+	Name: MOO_BalthazarLab_Circle
+	Root Template: 2dab7df1-7914-4748-b329-b4fe8b60fcc9
+
+	Name: LOW_CountingHouse_AlarmTrigger
+	Root Template: 31ee026d-5d51-4efb-97ba-7992b642efbc
+
+	Name: CRE_BloodOfLathander_PulseTraps
+
+	Name: OBJ_Bomb_Orthon_override
+
+	Name: UNI_TWN_Scroll_FleshToGold
+
+	Name: UNI_LOW_SteelWatchFoundry_WatcherHarpoonCrossbowDiagram
+	Root Template: c0320880-b942-49a2-9f30-ca5893c5c1ce
+
+	Name: UNI_LOW_SteelWatchFoundry_WatcherArm
+	Root Template: 57db18bf-89dc-4eb4-950a-2598f5a06595
+
+	Name: UNI_LOW_SteelWatchtFoundry_WatcherTargetingModule
+	Root Template: 521dc931-55e6-4927-9230-7678c33161e2
+
+	Name: UNI_LOW_SteelWatchFoundry_Workbench
+	Root Template: 7d613f5e-f800-4cf6-b596-9d5b6563754f
+
+	Name: UNI_LOW_HouseOfGrief_MemoryHerb
+	Root Template: 16c583b8-4729-4603-aeee-d224bf645653
+
+	Name: QUEST_LOW_OskarsBeloved_WrongCursedPortraits
+
+	Name: WYR_Gortash_ControlPanel
+
+	Name: LOW_OskarsBeloved_CounterfeitPortrait_NoValue
+
+	Name: LOW_OskarsBeloved_CounterfeitPortrait
+
+	Name: TWN_Distillery_DistilleryMachine
+	Root Template: 44ef607a-0da5-4ab3-a1ef-055ca509b4c8
+
+	Name: SHA_BrokenLever
+	Root Template: 8026e98c-58e7-4fc7-96ec-b188f1b89251
+
+	Name: SHA_BrokenLeverBase
+
+	Name: SHA_FixedLever
+	Root Template: a650d5b8-4c83-4f6d-87bc-8ef74fc68624
+
+	Name: END_MindArena_OrbHelper
+	Root Template: 03e3cdee-1a21-49f4-93a0-5db1939ff04c
+
+	Name: QUEST_SHA_TrialAltar
+	Root Template: 04636cc3-bacd-4b1c-93d2-11ffd5945a47
+
+	Name: QUEST_SHA_TrialAltar_Duo
+	Root Template: 26e7874f-d805-493f-860e-fdf89ec49b1e
+
+	Name: TWN_MasonsGuild_ReinforcedGildedChest
+
+	Name: UNI_LOW_CurriculumOfStrategyScroll
+	Root Template: 21e67b0e-913d-411a-9046-6c54e8d0bf53
+
+	Name: UNI_LOW_BestialCommunionScroll
+	Root Template: b627f83f-8533-4440-95a0-ad2f319fe4ed
+
+	Name: UNI_LOW_DethroneScroll
+	Root Template: b2e1168a-021d-4a81-a041-6d2e1421a1fb
+
+	Name: UNI_WYR_Thiefling_BaldursGateStone
+	Root Template: dc3d793e-c605-4016-9753-27d1c2da4b2c
+
+	Name: UNI_WYR_Thiefling_HolyHandSoap
+	Root Template: 42d56907-aa68-4f77-a024-3789c323214d
+
+	Name: UNI_SHA_BookAltar
+	Root Template: 4700caf7-e7cf-4509-a949-c156b0a6066e
+
+	Name: UNI_SHA_SharBook_1
+	Root Template: a28cc67d-105e-465f-9fd0-f07e9448deef
+
+	Name: UNI_SHA_SharBook_2
+	Root Template: b2f9489a-c539-4eb5-b77d-d365797d1a42
+
+	Name: UNI_SHA_SharBook_3
+	Root Template: f4d82a7a-e1ef-4336-864c-02c85b22a501
+
+	Name: UNI_SHA_SharBook_4
+	Root Template: d35a196f-f759-4908-8392-8139c57f1c97
+
+	Name: UNI_SHA_SharBook_5
+	Root Template: 8b2965fd-d463-4828-b972-668887bc8a17
+
+	Name: UNI_SHA_SharBook_6
+	Root Template: 073d723d-0743-49b2-96dc-1cec58bf00c8
+
+	Name: UNI_WYR_FigaroSister_NaaberReward_Main
+	Root Template: 550a91e7-ce58-4403-a659-69ad7af44ffc
+
+	Name: UNI_WYR_FigaroSister_NaaberReward_Alternative
+	Root Template: bd0baec9-7f5d-4c16-9c84-65857d97a5d0
+
+	Name: Hag_MysteriousGift
+	Root Template: 27d74bd9-b852-43fd-98ac-999f33e05aa9
+
+	Name: UNI_WYR_Circus_FacePaint
+	Root Template: 7f17d8e4-5edb-4a77-88c0-55558a2db5f7
+
+	Name: OBJ_Skeleton_Sheep
+	Root Template: 662c82b0-b1f8-42cc-9523-e7c02cf275b9
+
+	Name: UNI_CRE_LathanderBloodGem
+	Root Template: 523d0cea-7f79-4f5c-ad4b-3c09633609e6
+
+	Name: WYR_Circus_Pitcher
+	Root Template: 9ee5433b-ce71-4de4-871d-04f918c318ae
+
+	Name: LOW_DestructibleHelper
+
+	Name: QUEST_GLO_Voss_GithRadar
+	Root Template: 2a11a29e-ee3e-4ad7-9d06-beb79efea4e5
+
+	Name: LOW_RamazithsTower_Lorroakan_NightsongReward
+
+	Name: GLO_DevilishOx_Fruit_Apple
+
+	Name: LOW_KurwinCoffin_KoboldGang_Hole
+
+	Name: LOW_OskarsBeloved_Masterpiece
+
+	Name: LOW_OskarsBeloved_PlayerPortrait
+
+
+Gustav\Public\Honour\Stats\Generated\Data	Total Objects: 2
+	Name: END_Crown
+
+	Name: OBJ_PLT_SpiderWeb
+
+
+Shared\Public\Shared\Stats\Generated\Data	Total Objects: 926
+	Name: _BaseItem
+
+	Name: _Indestructible
+
+	Name: OBJ_GenericImmutableObject
+
+	Name: OBJ_GenericImmutableObjectWeightless
+
+	Name: OBJ_GenericImmutableObjectMedium
+
+	Name: OBJ_GenericImmutableObjectDoubleMedium
+
+	Name: OBJ_GenericImmutableObjectHeavy
+
+	Name: OBJ_GenericImmutableAttackableObject
+
+	Name: OBJ_GenericImmutableAttackableObject_Heavy
+
+	Name: OBJ_Indestructible_Tiny
+
+	Name: OBJ_Indestructible_Light
+
+	Name: OBJ_Indestructible_Medium
+
+	Name: OBJ_Indestructible_Heavy
+
+	Name: OBJ_Indestructible_Portal_Action
+
+	Name: OBJ_Indestructible_Portal_Movement
+
+	Name: OBJ_Moonbeam
+
+	Name: _Destructible
+
+	Name: OBJ_Generic_Tiny
+
+	Name: OBJ_Generic_Light
+
+	Name: OBJ_Generic_Medium
+
+	Name: OBJ_Generic_Heavy
+
+	Name: OBJ_GoblinDrum
+
+	Name: OBJ_Stalactite_Stone
+
+	Name: OBJ_Debris_Stone
+
+	Name: _Building
+
+	Name: OBJ_Barricade_Wood
+
+	Name: OBJ_Barricade_Wood_Small
+
+	Name: OBJ_StoneBarricade
+
+	Name: OBJ_GuardianStatue
+
+	Name: OBJ_Railcart
+
+	Name: BLD_WallVines
+
+	Name: BLD_BridgeVines
+
+	Name: OBJ_CaveIn
+
+	Name: BLD_Ballista
+
+	Name: _Furniture
+
+	Name: OBJ_Bed
+
+	Name: OBJ_Bedroll
+	Root Template: a1645f21-4934-4225-882f-b1e002874782
+
+	Name: OBJ_Bench
+
+	Name: OBJ_Bench_FallenTrunk
+
+	Name: OBJ_Chair
+
+	Name: OBJ_Door
+
+	Name: OBJ_Door_Heavy
+
+	Name: OBJ_DoorWeak
+
+	Name: OBJ_DoorFragile
+
+	Name: OBJ_DoorIndestructible
+
+	Name: OBJ_MetalDoor
+
+	Name: OBJ_MetalDoor_Weak
+
+	Name: OBJ_Table
+
+	Name: OBJ_Grating
+
+	Name: OBJ_Ladder
+
+	Name: OBJ_Ladder_Fishnet
+
+	Name: OBJ_Ladder_Rope
+
+	Name: OBJ_Ladder_Web
+
+	Name: OBJ_Ladder_Strong
+
+	Name: OBJ_Ladder_Indestructible
+
+	Name: OBJ_Stool
+
+	Name: OBJ_Sofa
+
+	Name: OBJ_BeerBarrel
+	Root Template: 656a750f-3c2e-4fab-af12-aa0d8e913e56
+
+	Name: OBJ_BeerBarrelPoisoned
+	Root Template: 5cba999f-57ba-4ba0-89df-266b1b914b6a
+
+	Name: _Container
+
+	Name: OBJ_Chest
+	Root Template: 3baeb26e-7d36-4d5c-95fd-9352f2e4bbc4
+
+	Name: OBJ_Chest_Heavy
+	Root Template: 0b90bf9d-66fd-4741-be1f-39181efca97a
+
+	Name: OBJ_Wardrobe
+
+	Name: OBJ_Wheelbarrow
+
+	Name: _Decoration
+
+	Name: OBJ_BrinePool
+
+	Name: OBJ_BrainJar
+
+	Name: OBJ_DressingPanel
+
+	Name: OBJ_Laboratory_Installation
+
+	Name: OBJ_Mirror
+
+	Name: OBJ_Signpost
+
+	Name: OBJ_StoneUrn
+
+	Name: OBJ_WaterPump
+	Root Template: 04713dce-8944-4b6c-9dc1-55e731f18810
+
+	Name: OBJ_WorldGlobe
+
+	Name: OBJ_ Sarcophagus_Lid
+
+	Name: _LightSource
+
+	Name: OBJ_Campfire
+
+	Name: OBJ_Campfire_Indestructible
+
+	Name: OBJ_Candelabrum
+
+	Name: OBJ_Candelabrum_Standing
+
+	Name: OBJ_Candle
+	Root Template: 34df8770-06c5-4752-a7b6-25d4f64d64dc
+
+	Name: OBJ_Chandelier
+
+	Name: OBJ_Candle_Gold
+	Root Template: 3e502732-e3d8-4b93-aea9-05f89a4e4073
+
+	Name: OBJ_Candle_Gold_Purple
+	Root Template: ac805261-e2e4-49fd-b20e-5d89e335ad5e
+
+	Name: OBJ_Candlestick
+
+	Name: OBJ_CoalBasket
+
+	Name: OBJ_Lantern
+
+	Name: OBJ_Torch
+	Root Template: 9429fe44-1eb2-4589-861e-6257a2a41553
+
+	Name: OBJ_SmeltingForge
+
+	Name: OBJ_Bag
+	Root Template: 3e6aac21-333b-4812-a554-376c2d157ba9
+
+	Name: OBJ_Bag_AlchemyPouch
+	Root Template: b7543ff4-5010-4c01-9bcd-4da1047aebfc
+
+	Name: OBJ_Backpack
+
+	Name: OBJ_Backpack_CampSupplies
+	Root Template: efcb70b7-868b-4214-968a-e23f6ad586bc
+
+	Name: OBJ_Barrel
+	Root Template: 1849ce97-45ac-43ea-9518-9f80aaa0c005
+
+	Name: OBJ_Barrel_Weak
+
+	Name: OBJ_Barrel_Huge
+
+	Name: OBJ_Basket
+
+	Name: OBJ_Bookrow
+
+	Name: OBJ_BonePile
+
+	Name: OBJ_Chest_Heavy_Small
+	Root Template: e08b2a75-424d-4827-a9c8-adf00a314f2b
+
+	Name: OBJ_Chest_Wicker
+	Root Template: b8bfef23-3f4e-4a82-86dc-2b7b6abbddb8
+
+	Name: OBJ_Chest_Wicker_Small
+	Root Template: 27876bb2-4de2-4f56-9090-f1cf319e79a4
+
+	Name: OBJ_Chest_Wood
+	Root Template: 5f089bb9-1816-43b8-8e44-f2d58804ea23
+
+	Name: OBJ_Chest_Wood_Small
+	Root Template: 3339e045-a078-407b-9fb8-2af0d297e62a
+
+	Name: OBJ_Chest_JewelBox
+	Root Template: b026a976-7a5f-49e2-8b71-4aa102803251
+
+	Name: OBJ_Chest_LetterBox
+	Root Template: 093386f0-5a37-4b13-83c9-28ce965158b2
+
+	Name: OBJ_Cocoon_Spider
+
+	Name: OBJ_Coffin
+
+	Name: OBJ_Crate
+	Root Template: 23578669-058f-4318-8e51-87523fc1307f
+
+	Name: OBJ_Crate_Big
+
+	Name: OBJ_Crate_Stack
+
+	Name: OBJ_ImmutableContainer
+
+	Name: OBJ_NatureContainer
+
+	Name: OBJ_PotionShelf
+
+	Name: OBJ_Sack
+
+	Name: OBJ_Sack_Pile
+
+	Name: OBJ_Skeleton
+
+	Name: OBJ_Vase
+
+	Name: OBJ_VolatileBladder
+	Root Template: 24e01b77-0a74-410d-869f-919918f20278
+
+	Name: OBJ_VolatileBladder_B
+	Root Template: 29a36662-ccd9-4599-b2a1-16fb2cb31366
+
+	Name: OBJ_Chest_Wood_Mimic
+
+	Name: _CraftingStations
+
+	Name: OBJ_GenericCraftingStation
+
+	Name: _Loot
+
+	Name: OBJ_GenericLootItem
+
+	Name: OBJ_WIP_JunkItem
+
+	Name: OBJ_Earring_Selunite
+	Root Template: 9588728e-4d4e-4ffe-8bea-7bf9a6c0b8d2
+
+	Name: OBJ_Rope
+	Root Template: 63400c5f-cc10-4009-8d8f-b01dbb47060a
+
+	Name: OBJ_Rope_Pier
+	Root Template: df2f61bb-be7c-48d0-a9fd-1bfe8d5be73a
+
+	Name: OBJ_GemGeneric
+
+	Name: OBJ_Agate
+	Root Template: 75808952-29b8-4840-81e1-fcdd93155ddd
+
+	Name: OBJ_Malachite
+	Root Template: 560e773d-6825-4cbd-83c1-9d8e4f53a704
+
+	Name: OBJ_Onyx
+	Root Template: 6cbbe9f6-c346-4d6c-b1f1-4cbe6aaf99ef
+
+	Name: OBJ_Bloodstone
+	Root Template: a92ee8db-142f-4a2a-af64-78e3aec36832
+
+	Name: OBJ_Jade
+	Root Template: 94fb73e8-668a-499f-a88f-54d24c6947a7
+
+	Name: OBJ_Pearl
+	Root Template: 31d1a9c1-bac0-4738-87ef-23f67b492051
+
+	Name: OBJ_Amethyst
+	Root Template: 20626173-dd4d-497e-94f9-b2000a86def9
+
+	Name: OBJ_Topaz
+	Root Template: 55524c47-c62f-45ac-8505-426cb04707c9
+
+	Name: OBJ_Peridot
+	Root Template: dc9e7cfb-3702-48c7-aa50-b6ce74250944
+
+	Name: OBJ_Sapphire
+	Root Template: 0371fa33-7dae-4980-8468-6d8e99824af6
+
+	Name: OBJ_Ruby
+	Root Template: b085e96d-e199-467f-b6a8-5d9d44e3cb21
+
+	Name: OBJ_Jacinth
+	Root Template: 7b1ce21b-809f-4965-b52f-53fe10de6b30
+
+	Name: OBJ_Diamond
+	Root Template: 440f4817-5d30-4867-a982-5b8094ace403
+
+	Name: OBJ_DiamondDark
+	Root Template: 82d4f21d-11c8-47dd-a69f-dcfb3103ff76
+
+	Name: OBJ_Idol_Wood
+
+	Name: BASE_ALCH_Ingredient
+
+	Name: _Alchemy_Type1
+
+	Name: _Alchemy_Type6
+
+	Name: _Alchemy_Type5
+
+	Name: _Alchemy_Type4
+
+	Name: _Alchemy_Type3
+
+	Name: _Alchemy_Type2
+
+	Name: _Alchemy_Mineral
+
+	Name: OBJ_Crystal_ChasmCreeper
+	Root Template: b964697f-1f1d-48d5-8772-d5edfdd0ed39
+
+	Name: OBJ_Crystal_SylvanStone
+	Root Template: 1524e46d-179d-4785-99ce-f515e1c52e32
+
+	Name: OBJ_Crystal_Laculite
+	Root Template: 7483130a-0b77-499e-be31-487811203af1
+
+	Name: OBJ_Crystal_LolthsCandle
+	Root Template: 6f023cc2-467c-4931-90af-ba0c3f751eee
+
+	Name: OBJ_Crystal_Viridian
+	Root Template: 8037a20b-a2bf-41c9-b509-bb6b455c778c
+
+	Name: OBJ_Crystal_PurpleFluorite_Mineable
+	Root Template: e5196c3f-ddc9-42df-9273-1206de1b4a60
+
+	Name: OBJ_Crystal_PurpleFluorite_Mineable_Family
+
+	Name: OBJ_Crystal_PurpleFluorite_Shard
+	Root Template: fef1900a-402c-455f-8c63-87bdaedac6d7
+
+	Name: OBJ_Flowerpot
+
+	Name: OBJ_Needle
+	Root Template: 5f02a904-d5f0-4e5e-86fd-0cc690e7681c
+
+	Name: OBJ_KitchenwareGeneric
+
+	Name: OBJ_KitchenwareGeneric_Small
+
+	Name: OBJ_KitchenwareGeneric_Medium
+
+	Name: OBJ_Kitchenware_Cutlery_Ladle
+	Root Template: 07f03f85-7eba-4f4e-ab8f-e51979a45ce7
+
+	Name: OBJ_Kitchenware_Cutlery_Ladle_Wood
+	Root Template: d9b9ce80-5ed0-44f1-8494-6f835f9b2859
+
+	Name: OBJ_Kitchenware_Cutlery_Fork_Iron
+	Root Template: 4b7c07ef-1f95-478d-859f-32f1ad98687b
+
+	Name: OBJ_Kitchenware_Cutlery_Fork_Poor
+	Root Template: 8c17a2e5-e742-4fac-a0d6-10289be28c72
+
+	Name: OBJ_Kitchenware_Cutlery_Spoon_Poor
+	Root Template: e83fd649-56ae-4204-93f5-55f3b112417c
+
+	Name: OBJ_Kitchenware_Cutlery_Knife_Poor
+	Root Template: 7d9a414b-2b5a-4672-87c5-65dd8cebe598
+
+	Name: OBJ_Cauldron
+	Root Template: 676138d7-60ba-432b-8483-9665d1920007
+
+	Name: OBJ_Cauldron_B
+	Root Template: de2bb388-5863-4504-95aa-dd694f11f1a6
+
+	Name: OBJ_Cauldron_C
+	Root Template: 2f9eb358-4cf3-49b0-97ab-2d6cabb9a2a5
+
+	Name: OBJ_Cauldron_Lid
+	Root Template: d8356714-c76c-4fb3-a556-da69b6ed43bd
+
+	Name: OBJ_Cauldron_Lid_B
+	Root Template: 08cd45a5-9a73-41ad-90a1-d24447b09a93
+
+	Name: OBJ_Cauldron_Lid_C
+	Root Template: eb31fae0-262e-4c27-9c39-93604cdac7cb
+
+	Name: OBJ_Bowl
+	Root Template: 18303ee3-884d-41ed-8bf9-3a1742f27a75
+
+	Name: OBJ_MilkCan
+	Root Template: 3258852b-21eb-4242-80f5-ae9a6792ee4b
+
+	Name: OBJ_MilkCan_Ancient
+	Root Template: b278764c-d7ab-4ccf-a75e-e235a6a56d87
+
+	Name: OBJ_PaintingCanvas
+	Root Template: e028bac5-f393-4d6a-9873-670241d721ac
+
+	Name: OBJ_Painting_Landscape_A
+	Root Template: 5d925f9b-f87e-4733-9410-01b27544b021
+
+	Name: OBJ_Painting_Landscape_B
+	Root Template: 95d01198-8b6d-41c0-bfab-ca02663263f3
+
+	Name: OBJ_Painting_Landscape_C
+	Root Template: 9c1bf73c-a5ac-4b57-83fe-01c24cd39945
+
+	Name: OBJ_Painting_Landscape_D
+	Root Template: 102e1da1-a0e0-445b-9bc7-b5efaecc06f4
+
+	Name: OBJ_Painting_Landscape_E
+	Root Template: ec019ea0-e8bb-49e4-95b3-7a7324596188
+
+	Name: OBJ_Painting_Landscape_F
+	Root Template: 6170715b-1654-46bc-9ac6-93dca8550e1f
+
+	Name: OBJ_Painting_Landscape_G
+	Root Template: ce2f870e-e735-4355-ae87-acf5971d2fef
+
+	Name: OBJ_Painting_Landscape_H
+	Root Template: c14556e6-db25-4d4f-b0ed-2b1041d03148
+
+	Name: OBJ_Painting_Landscape_I
+	Root Template: c845b437-0ca4-4471-90c9-18bb53842aff
+
+	Name: OBJ_Painting_Landscape_J
+	Root Template: a59ad0fa-c4b8-40a9-b4f0-91b2b662071f
+
+	Name: OBJ_Painting_Landscape_K
+	Root Template: 41661b63-1ae9-4b27-a0c6-f92c6060e821
+
+	Name: OBJ_Painting_Landscape_L
+	Root Template: e80badd2-6723-49eb-8e2c-850055f04bcf
+
+	Name: OBJ_Painting_Portrait_Generic
+	Root Template: 82ad7f96-b84c-4ab0-98bb-b534c69726ba
+
+	Name: Painting_Portrait_Oval_A
+	Root Template: a90dbddd-c839-40ad-a873-309b22d73da2
+
+	Name: Painting_Portrait_Oval_B
+	Root Template: 23a80328-c876-4110-afef-a3eb47193b83
+
+	Name: Painting_Portrait_Oval_C
+	Root Template: 5861174c-82ab-4788-934e-11ef84889332
+
+	Name: Painting_Portrait_Oval_D
+	Root Template: 289d8c97-81d7-448f-aa1c-faab337db593
+
+	Name: Painting_Portrait_Rectangle_A
+
+	Name: Painting_Portrait_Rectangle_B
+	Root Template: a5407fee-be16-450e-a24a-59bfadbdc2cc
+
+	Name: Painting_Portrait_Rectangle_C
+	Root Template: cc764899-2397-47e7-8b5e-275f6a6cd752
+
+	Name: Painting_Portrait_Rectangle_D
+	Root Template: 736cd290-cec0-4fa7-99d6-f6c9e2e851ec
+
+	Name: Painting_Portrait_Rectangle_E
+	Root Template: e5fc77b2-f615-4ed1-9618-f7f9518824b7
+
+	Name: Painting_Portrait_Rectangle_F
+	Root Template: 7f7f86c0-41ca-4938-b4da-2719a3f69102
+
+	Name: Painting_Portrait_Rectangle_G
+	Root Template: d6d704d2-0a1f-48f9-bd27-43c99919a725
+
+	Name: Painting_Portrait_Rectangle_H
+	Root Template: 8603569a-417e-4dc2-978d-6e9cc48f4bb7
+
+	Name: Painting_Portrait_Rectangle_I
+	Root Template: 6d6999f4-9bea-48d4-ac39-1d17369193e9
+
+	Name: Painting_Portrait_Rectangle_J
+	Root Template: d8ab3c7b-0ef5-40cf-89c8-401d7363559e
+
+	Name: Painting_Portrait_Rectangle_K
+	Root Template: d4fc2b3c-7f92-4d3c-9792-3f9d097cedf7
+
+	Name: Painting_Portrait_Rectangle_L
+	Root Template: d64c62cd-3e5d-4f70-b05f-b347afb1c5ef
+
+	Name: Painting_Portrait_Rectangle_M
+	Root Template: 60b6a4da-4f5c-46ab-a4c9-1d87ed2c1eed
+
+	Name: Painting_Portrait_Rectangle_N
+	Root Template: 383dbc9b-8052-4ed9-8515-2447f03ef189
+
+	Name: Painting_Portrait_Rectangle_O
+	Root Template: f79ec624-0fa0-44bc-825a-4390e694ce4a
+
+	Name: Painting_Portrait_Rectangle_P
+	Root Template: 2fcfcebe-b75d-4c8e-a13d-64b628436b8c
+
+	Name: Painting_Portrait_Round_A
+	Root Template: de28168f-2d5a-452e-a5ff-537d92202b39
+
+	Name: Painting_Portrait_Round_B
+	Root Template: f303e5d7-b32b-4844-bcc3-053380462ba3
+
+	Name: Painting_Portrait_Round_C
+	Root Template: 2b728203-f01d-4d90-aea9-b8ad3625f2af
+
+	Name: Painting_Portrait_Round_D
+	Root Template: a27fdcc7-7222-40e0-8184-84b45ba0d600
+
+	Name: Painting_StillLife_A
+	Root Template: 4606cc95-f2f1-4c6a-9571-68a981060514
+
+	Name: Painting_StillLife_B
+	Root Template: d1e388c0-9f12-4937-941f-37ad1d666473
+
+	Name: Painting_StillLife_C
+	Root Template: ab6a6d45-d422-41ad-ae11-41ec308f4849
+
+	Name: OBJ_Skull
+	Root Template: 231afb29-b79c-4efd-af23-2e433dea313d
+
+	Name: OBJ_Bone
+	Root Template: 876c66a6-018c-48fe-8406-d90561d3db23
+
+	Name: Foundry_Pipe_A
+	Root Template: b81a6b8d-ce59-4808-91af-ca05d4a04690
+
+	Name: Foundry_Pipe_B
+	Root Template: 3c903f41-f928-43ea-aa81-1297b734d3f7
+
+	Name: Foundry_Gear_A
+	Root Template: 588e0fa9-4c4a-45cb-8681-9f5bed55663b
+
+	Name: Foundry_Gear_B
+	Root Template: 33ace629-2b9a-4e62-bb63-90264feae4ae
+
+	Name: _Tool
+
+	Name: OBJ_Tool_Hammer
+	Root Template: c2a14b56-9dca-4ad1-bcea-71204365f6a9
+
+	Name: Tool_Crowbar
+	Root Template: 25c73ac0-8be2-4781-b5cf-f644ef94e40e
+
+	Name: Tool_Saw
+	Root Template: 146a566f-111b-4f52-a0ab-ede61346cadb
+
+	Name: OBJ_AutomatonPart
+	Root Template: 9c943199-0b97-45b4-8915-a8aa9399125b
+
+	Name: OBJ_AutomatonPart_B
+	Root Template: a7fd3f38-c9dc-4866-a686-30f056c125b5
+
+	Name: OBJ_AutomatonPart_C
+	Root Template: e6913649-f9b7-4102-ad40-c3576a44410f
+
+	Name: OBJ_Bedlinen
+	Root Template: 41e87646-aec7-4411-9e2b-14a17d3ffe31
+
+	Name: OBJ_Handkerchief
+
+	Name: OBJ_Bucket
+	Root Template: 158682d3-4b6a-4952-aa88-af74a256f880
+
+	Name: OBJ_Cup
+	Root Template: 66ee4e64-a517-4570-8c37-dd7b42cab6ee
+
+	Name: OBJ_Cup_Rich
+	Root Template: 66ee4e64-a517-4570-8c37-dd7b42cab6ee
+
+	Name: Cup_Wood
+	Root Template: 2add6f00-eb1c-4f86-bf7f-73e2c68ad5de
+
+	Name: Cup_Metal
+	Root Template: 2add6f00-eb1c-4f86-bf7f-73e2c68ad5de
+
+	Name: Cup_Metal_B
+	Root Template: ab081706-d6a4-4d6f-a148-8a774be32608
+
+	Name: Cup_Metal_C
+	Root Template: 6aea565d-0132-4ea2-8bdf-53398a50b975
+
+	Name: Cup_Metal_D
+	Root Template: bf8738af-7637-45f3-ad2d-123d17def4f7
+
+	Name: Cup_Metal_E
+	Root Template: 31d47753-7713-461f-a65b-da4339939cf2
+
+	Name: Cup_Metal_F
+	Root Template: 5d1731b3-1fd3-48db-bf48-eb5e57b4c1c9
+
+	Name: Cup_Mug_Metal
+	Root Template: 9ab9c085-4d24-4b78-85ac-e16b19107ba7
+
+	Name: Cup_Glass_A
+	Root Template: ba3d12de-3dbe-4417-8009-d4b0fe3e7f7f
+
+	Name: Cup_Glass_B
+	Root Template: 17e92565-b2aa-4e53-b3ff-a4691a0fa69f
+
+	Name: Cup_Silver
+	Root Template: 308cd520-49df-4164-8b22-66e61d76d135
+
+	Name: Cup_Silver_B
+	Root Template: 84764003-f9e7-48d6-a07b-6cf095d6c8de
+
+	Name: Cup_Silver_C
+	Root Template: a3b41509-297e-4cd9-9af2-adb42ff81919
+
+	Name: Cup_Silver_D
+	Root Template: b201b996-3723-43f9-af62-ec5c2bc1901d
+
+	Name: Cup_Silver_E
+	Root Template: 05b61de5-bc19-485a-8c2b-6923284e40aa
+
+	Name: Cup_Silver_F
+	Root Template: a0308f7e-e57e-4e21-9dc1-c51bf7680997
+
+	Name: Cup_Silver_G
+	Root Template: c37d61c4-b1b4-4068-9475-3e659a4d8443
+
+	Name: Cup_Silver_H
+	Root Template: 7dce8ff0-d6e7-42ec-b462-b33a2624552a
+
+	Name: OBJ_KitchenInstrument_Horn_A_Bone
+	Root Template: b96500d2-3cef-4293-a02b-57ffc41d3a39
+
+	Name: OBJ_Kitchenware_Pan
+	Root Template: 50d62849-db3d-43e3-ad39-601922cf7aec
+
+	Name: OBJ_Kitchenware_Pan_B
+	Root Template: 2804f278-9e4b-49c8-8fc3-3ebc64cf78a5
+
+	Name: OBJ_Kitchenware_Pot
+	Root Template: 3f2fc28f-a00e-460a-a5ed-23887173c9b6
+
+	Name: OBJ_Kitchenware_Pot_B
+	Root Template: d40952f0-3e83-4161-8af8-646d11cd6f27
+
+	Name: OBJ_Kitchenware_Pot_C
+	Root Template: f3a92079-ffe4-4c27-8ea8-d9fdbf5631fa
+
+	Name: OBJ_Kitchenware_Pot_Drum
+	Root Template: cfa3fe45-b54d-4c52-aa5d-d79bc80b398e
+
+	Name: OBJ_Kitchenware_Pot_Lid
+	Root Template: 19ac9e34-6b6e-4433-9c6f-26cc2c12e7c9
+
+	Name: OBJ_Chalice_Glass
+	Root Template: 17e92565-b2aa-4e53-b3ff-a4691a0fa69f
+
+	Name: OBJ_Bottle
+	Root Template: af808d7c-c8d6-4924-94a9-35bffd450803
+
+	Name: OBJ_Bottle_Destructible
+
+	Name: OBJ_Valuable_AloeOil
+	Root Template: ce68be09-f359-45de-9fb6-adbfce59935a
+
+	Name: OBJ_Bottle_Potion
+	Root Template: 27df1535-9f58-4e24-b51b-ceef2cd1d8d8
+
+	Name: OBJ_Broom
+	Root Template: cbb98d74-68e9-4d0f-a4ff-6fa92cfcea13
+
+	Name: OBJ_Canteen
+	Root Template: 913341fe-1edc-4782-992f-606a3c3a493c
+
+	Name: OBJ_Demijohn
+	Root Template: 56813fb8-5862-4de7-9a11-5cc5b4160753
+
+	Name: OBJ_FishingRod_A
+	Root Template: 36dcf965-68c7-44a2-84ef-30df8323dc6e
+
+	Name: OBJ_FishingRod_B
+	Root Template: 4edc7fa9-2365-45b1-baa2-7095e4431874
+
+	Name: OBJ_FishingRod_C
+	Root Template: 7bf70e16-b4a8-47cb-a076-f777b1ebdbd2
+
+	Name: OBJ_Hourglass
+	Root Template: c2408cda-c9e6-42b4-8d41-47072acd0571
+
+	Name: OBJ_RuneTablet_Wolf_A
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: OBJ_MagnifyingGlass
+	Root Template: a63fa775-bd30-4753-8c63-395aa5e9d03c
+
+	Name: OBJ_HandMirror
+	Root Template: c8664f59-dcae-4717-833d-8c964c10d16f
+
+	Name: OBJ_Metalbar_Bronze
+	Root Template: 5b386575-5836-40cd-8548-e5c27fd105a1
+
+	Name: OBJ_Metalbar_Silver
+	Root Template: e0803337-e2b1-4528-8d4f-b5814e9a52ec
+
+	Name: OBJ_Metalbar_Gold
+	Root Template: 44f47718-9769-4c0e-af75-7789d2f2913d
+
+	Name: OBJ_Idol_Selune
+	Root Template: a8491759-fcb1-41bb-8290-035de4bd747f
+
+	Name: OBJ_Idol_Shar
+	Root Template: f48ab49f-943b-4702-aabe-e6c17867ec86
+
+	Name: OBJ_Rag_Stacked_A
+	Root Template: 5d6162a4-f592-ae73-67cc-8b392e09ebe0
+
+	Name: OBJ_Rag_Stacked_B
+	Root Template: a03db668-41ff-cde3-8d36-d30514b1b8d3
+
+	Name: OBJ_Rag_Stacked_C
+	Root Template: 66719d7c-7731-a7ac-bad3-a80f4416ca4f
+
+	Name: OBJ_Rag_Stacked_D
+	Root Template: 56f327e4-b8c8-6fea-80da-0c1bd65ec18c
+
+	Name: OBJ_Rag_Stacked_E
+	Root Template: 97d13e04-5298-0dd5-d1fe-2f263a670112
+
+	Name: OBJ_Rag_Stacked_F
+	Root Template: 5489c368-f979-3c21-370f-3dbff4b85056
+
+	Name: _Book
+
+	Name: OBJ_Book
+	Root Template: bf6d9682-47cd-460c-972c-7a5d22514fdc
+
+	Name: OBJ_Book_Indestructible
+
+	Name: OBJ_StoneTablet
+
+	Name: OBJ_Book_Valuable
+	Root Template: bf6d9682-47cd-460c-972c-7a5d22514fdc
+
+	Name: OBJ_Scroll
+
+	Name: OBJ_Scroll_Indestructible
+
+	Name: OBJ_Book_Races_DrowSeldarineSchism
+	Root Template: f0888a67-6099-40aa-93b4-812d6118cace
+
+	Name: OBJ_Book_Paladin
+	Root Template: 2f7ba86d-86f9-475b-8af8-13e50eb59a34
+
+	Name: _LuxuryItem
+
+	Name: OBJ_Valuables_MemoryCrystal
+	Root Template: 157b3cd4-c446-4523-a0a8-8bdb8d40a76e
+
+	Name: OBJ_Valuables_InfernalPlate
+	Root Template: 6242490e-42c9-49f0-bc3b-4e7ec11c0fe7
+
+	Name: OBJ_Goblet_Rich_Bronze
+	Root Template: ddaf1d0c-85b5-42d8-b15c-09bf624f3249
+
+	Name: OBJ_Chalice_Bronze
+	Root Template: 5ba9303c-0675-4c99-b07d-e8eb53a3f8ad
+
+	Name: OBJ_Chalice_Bronze_B
+	Root Template: a44381ec-6e35-4904-bd6c-cc2886ba5cde
+
+	Name: OBJ_Goblet_Rich_Silver
+	Root Template: d6db5601-17c1-4f64-9b59-ec82a53fb5a3
+
+	Name: OBJ_Chalice_Silver
+	Root Template: 0d9ea214-1790-4cfa-aff6-8d024a3d5e2d
+
+	Name: OBJ_Chalice_Silver_B
+	Root Template: 6d5f32c7-2694-4a8d-ab0e-aebeafe5a73a
+
+	Name: OBJ_Goblet_Rich_Gold
+	Root Template: 9403da0c-e8e6-4262-bda2-072beaf39641
+
+	Name: OBJ_Chalice_Gold
+	Root Template: 4fe7a57f-fb63-4192-9483-c47c8e845738
+
+	Name: OBJ_Chalice_Gold_B
+	Root Template: 97c1a4d2-d797-4d2c-8a59-e17991082027
+
+	Name: OBJ_Incense
+	Root Template: 05e58ebb-563c-4a32-bc0d-881ed6fe18fb
+
+	Name: OBJ_Incense_B
+	Root Template: 311c052e-4a54-41c9-b838-bd378623942b
+
+	Name: OBJ_Incense_C
+	Root Template: e47f3ec6-b39d-4c73-9dd2-6cf3d776bf47
+
+	Name: OBJ_Incense_D
+	Root Template: 49e608dc-c861-444d-be86-d7dc571f0792
+
+	Name: OBJ_Incense_Bundle
+	Root Template: 1bc6f492-e3d0-49a3-b50c-31595947cbc9
+
+	Name: OBJ_Incense_Pile
+	Root Template: baaa785b-86db-46ec-8cd7-e6e93bd34d72
+
+	Name: OBJ_Incense_Pile_B
+	Root Template: ea72d3da-9eed-4791-8875-c93e24316b07
+
+	Name: OBJ_IncenseBowl
+	Root Template: b93f1064-ccd6-4d5a-8c6f-b38d300a97dd
+
+	Name: OBJ_IncenseBowl_B
+	Root Template: cc3232af-0131-4800-9caa-3bdba94628a0
+
+	Name: OBJ_Incense_Stick
+	Root Template: 40a7ab74-0da4-4aad-8d17-9d4c683caecd
+
+	Name: OBJ_Incense_Stick_BCDE
+	Root Template: dd990ff9-fb98-4314-b776-a14f30409d44
+
+	Name: OBJ_Plate_Metal
+	Root Template: ccb0c26b-8502-450a-96ff-cfa22bba8150
+
+	Name: OBJ_Plate_Metal_B
+	Root Template: 77b5f8b1-e870-472d-84f9-429c8e1a4f34
+
+	Name: OBJ_Plate_Ceramic
+	Root Template: 2d722150-9d33-48c0-9cc2-1dd25c10b533
+
+	Name: OBJ_Plate_Ceramic_B
+	Root Template: ecaaeaf4-8a3d-4a9e-8628-786fb272245f
+
+	Name: DiningPlate_Silver_A
+	Root Template: dcfb0c0f-37ef-40a5-a159-b202058c10df
+
+	Name: DiningPlate_Silver_B
+	Root Template: 7fd37e34-c4c1-4a9e-839c-cc0eb1a1c173
+
+	Name: DiningPlate_Silver_C
+	Root Template: f12b835a-8b46-4850-9764-f5b9286862c8
+
+	Name: DiningPlate_Silver_D
+	Root Template: 1cee0cb5-5a6a-4ed5-9cc3-636083121ac0
+
+	Name: DiningPlate_Silver_E
+	Root Template: a1b87ffe-d482-4196-9299-41c78f5fbc1b
+
+	Name: DiningPlate_Silver_F
+	Root Template: 37e863e6-4e31-4d5a-82c6-38ff874de447
+
+	Name: DiningPlate_Silver_G
+	Root Template: 91ea5049-b91f-4de8-a9a4-7be02e801b3f
+
+	Name: DiningPlate_Silver_H
+	Root Template: e99a7542-7058-45ff-97b8-0d85af6d675f
+
+	Name: DiningPlate_Silver_I
+	Root Template: 5584bb2b-2321-45d2-864d-f79ee37b4fcd
+
+	Name: DiningPlate_Silver_J
+	Root Template: c210cf1a-233a-4513-a2f5-de74f59a598d
+
+	Name: DiningPlate_Silver_Elevated_A
+	Root Template: c87a576a-01e2-4030-a511-86566bc834df
+
+	Name: DiningPlate_Silver_Elevated_B
+	Root Template: 2d8a68b3-690d-4416-a3f1-2532e1c755a8
+
+	Name: DiningPlate_Silver_Elevated_C
+	Root Template: 8c6027a6-7304-478e-9bd9-e4fe5d698d0f
+
+	Name: OBJ_KitchenwareRich_Plate_A
+	Root Template: 2e7a33f1-e1d3-4698-88f1-841e21d6ea2c
+
+	Name: OBJ_KitchenwareRich_Plate_B
+	Root Template: c89c5461-12c6-441e-8643-7501fc61f8cf
+
+	Name: OBJ_KitchenwareRich_Ceramic_Bowl_A
+	Root Template: 1a466559-9518-4215-90e4-1f99264e028a
+
+	Name: OBJ_KitchenwareRich_Ceramic_Bowl_B
+	Root Template: adadcf9e-0a62-4abc-a9ee-c6a2b00a3394
+
+	Name: OBJ_KitchenwareRich_Cutlery_Fork_A
+	Root Template: e7fe4425-78c4-4270-a745-a2a96ec740cb
+
+	Name: OBJ_KitchenwareRich_Cutlery_Fork_Silver
+	Root Template: c9d1582a-a8ae-4904-a39e-53f7adc54493
+
+	Name: OBJ_KitchenwareRich_Cutlery_Knife_A
+	Root Template: 41f63854-1c50-454a-88c8-08dc696f7bc5
+
+	Name: OBJ_KitchenwareRich_Cutlery_Knife_Silver
+	Root Template: 9b017999-20a3-4073-a900-2cba83438540
+
+	Name: OBJ_KitchenwareRich_Cutlery_Spoon_A
+	Root Template: 52028998-2e36-4c6f-801b-8fe202c5d0e8
+
+	Name: OBJ_KitchenwareRich_Cutlery_Spoon_Silver
+	Root Template: 386a5c4a-8f59-4e82-bcad-554ca38634c4
+
+	Name: OBJ_Laboratory_Glass
+	Root Template: 4528c43d-f986-42ea-8189-6efedae49ba8
+
+	Name: OBJ_MusicBox
+	Root Template: fe651984-16d0-428a-bf15-7bee24a31f71
+
+	Name: OBJ_Painting
+	Root Template: 3826d249-55fb-4e3d-9c6f-b2383bc2c330
+
+	Name: OBJ_KitchenInstrument_Mortar_A_Stone
+	Root Template: 95ed990a-f363-4eb1-908d-d48c353a3d62
+
+	Name: OBJ_KitchenInstrument_Spatula
+	Root Template: b92c1b71-ecc3-45cc-b22d-f7a1ebc9e781
+
+	Name: OBJ_KitchenInstrument_Strainer
+	Root Template: 7af5ac38-ae9a-4181-a451-8fd5d4248de1
+
+	Name: OBJ_KitchenInstrument_CuttingBoard
+	Root Template: ee3cfe20-977a-48d4-88cc-ac9501580cd6
+
+	Name: OBJ_Shell_A
+	Root Template: cc086b70-3ed9-489d-a53b-f5e88496fe06
+
+	Name: OBJ_Shell_B
+	Root Template: fd0497e6-4f0a-40cb-87b4-0a58a53bbfdc
+
+	Name: OBJ_Shell_C
+	Root Template: 7276e6f8-0928-4352-b186-162c03097a21
+
+	Name: OBJ_Shell_Starfish_A
+	Root Template: 3cc28d1f-4279-45df-946c-0b09d934a7c1
+
+	Name: OBJ_Shell_Venus_A
+	Root Template: 1ce2aa0b-30b0-4f60-827a-56a1448e2969
+
+	Name: OBJ_InkPot
+	Root Template: 98f13cd0-0069-466f-bb6e-5b8964b46e66
+
+	Name: OBJ_InkPot_Open
+	Root Template: 16610661-e160-4030-b06f-dc12c4284ba0
+
+	Name: OBJ_Feather
+	Root Template: 4e0647d7-baec-46c2-bca2-86596ecbf1ed
+
+	Name: OBJ_Wheat
+
+	Name: _Toys
+
+	Name: Toy_TeddyBear_Clean
+	Root Template: 1ac45157-d063-4314-8832-c50062a885dd
+
+	Name: Toy_TeddyBear_Worn
+	Root Template: 62bc283a-9919-4f7c-b468-5303e0f97175
+
+	Name: Toy_WoodenBlock_A
+	Root Template: b0f10499-4e01-462f-894f-5b0fe9043b25
+
+	Name: Toy_WoodenBlock_B
+	Root Template: 56738b6b-07de-472a-8b9f-d26262a96741
+
+	Name: Toy_WoodenBlock_C
+	Root Template: 2e88f468-b34c-439e-b488-5d10715885c3
+
+	Name: Toy_WoodenBlock_D
+	Root Template: d40903a5-1b2d-4422-8868-d64e6f709988
+
+	Name: Toy_SmallBall
+	Root Template: 530fd43f-4587-47ec-868d-e9120d6610f8
+
+	Name: _MagicScroll
+
+	Name: OBJ_Scroll_AcidArrow
+	Root Template: 0fa4bdab-9ef1-4575-b063-b3e9d359d593
+
+	Name: OBJ_Scroll_Aid
+	Root Template: 3e85f140-2284-430b-b11f-2126cd85b567
+
+	Name: OBJ_Scroll_AnimalFriendship
+	Root Template: 3d992632-dc98-43b1-85e5-b59ba5a6aa9a
+
+	Name: OBJ_Scroll_AnimateDead
+	Root Template: 8b9b4657-93f3-4382-b6e0-a587902abcba
+
+	Name: OBJ_Scroll_BestowCurse
+	Root Template: 48fbab09-ede1-4093-9223-38c9e172c061
+
+	Name: OBJ_Scroll_Blindness
+	Root Template: 2c6caac0-1684-4324-abba-0b849a9add74
+
+	Name: OBJ_Scroll_Blur
+	Root Template: a8b34fd5-d643-49ad-98d3-d5841492b338
+
+	Name: OBJ_Scroll_BurningHands
+	Root Template: bc00df72-3c98-4bf2-9650-28e08f79b57c
+
+	Name: OBJ_Scroll_CharmPerson
+	Root Template: 2315f935-a188-4665-9ae0-986c7a9b0021
+
+	Name: OBJ_Scroll_ChillTouch
+	Root Template: 79faf049-d503-46eb-a018-69e1975777d7
+
+	Name: OBJ_Scroll_ChromaticOrb
+	Root Template: d338fcb9-aaf5-48b1-8333-2dd4d9f70e1b
+
+	Name: OBJ_Scroll_CloudOfDaggers
+	Root Template: 33421d4f-1cac-4196-a85e-0b07bcb3ecf2
+
+	Name: OBJ_Scroll_ColorSpray
+	Root Template: c7c92bc3-e856-4403-b509-9b0491f455cd
+
+	Name: OBJ_Scroll_CrownOfMadness
+	Root Template: 701a7df0-728e-494a-ab2f-146aed4e8c7f
+
+	Name: OBJ_Scroll_Darkness
+	Root Template: caa812b9-9362-4c38-aef0-e3f6eb288dba
+
+	Name: OBJ_Scroll_Darkvision
+	Root Template: 0d737a55-c337-4e8f-b31f-a17273099013
+
+	Name: OBJ_Scroll_DetectThoughts
+	Root Template: 126cc673-1151-4113-b1bf-98457233441b
+
+	Name: OBJ_Scroll_DisguiseSelf
+	Root Template: b3376ca4-393c-4191-aa67-a02c94d6a236
+
+	Name: OBJ_Scroll_ExpeditiousRetreat
+	Root Template: eedf0539-6a47-480e-8b23-a133b222241f
+
+	Name: OBJ_Scroll_FalseLife
+	Root Template: 7d76665a-3b9e-4495-a3c6-a05340704194
+
+	Name: OBJ_Scroll_FeatherFall
+	Root Template: 82cbfcd2-cf80-4acd-9f1f-51835693b0e6
+
+	Name: OBJ_Scroll_Fear
+	Root Template: 4cdb2434-0ffa-4fb1-9c42-d6451978f35b
+
+	Name: OBJ_Scroll_FeignDeath
+	Root Template: 6e13fbf8-3db5-4420-8691-653d5ecb753e
+
+	Name: OBJ_Scroll_FireBolt
+	Root Template: fdfe5d75-0e8b-47f8-b128-d57081cb8981
+
+	Name: OBJ_Scroll_Fireball
+	Root Template: 79d2bb95-53fc-4e41-a004-5e1b83db8de7
+
+	Name: OBJ_Scroll_FlameBlade
+	Root Template: a6d216e9-c9e9-4310-b155-0e4f50682377
+
+	Name: OBJ_Scroll_FlamingSphere
+	Root Template: 0922de82-149f-4cac-aa98-e26222fd7714
+
+	Name: OBJ_Scroll_FogCloud
+	Root Template: dcb51bec-90bd-4d0a-942d-72034782bdf5
+
+	Name: OBJ_Scroll_Fly
+	Root Template: 1df15994-c860-4930-beed-3135b74025fa
+
+	Name: OBJ_Scroll_GaseousForm
+	Root Template: 4c026e53-4000-4818-913c-a5662ee7c061
+
+	Name: OBJ_Scroll_GlyphOfWarding
+	Root Template: 056f10e1-01e7-4622-907f-faad8d48bbe6
+
+	Name: OBJ_Scroll_Goodberry
+	Root Template: dff353d0-c1d4-43af-8664-bf08a9ffae07
+
+	Name: OBJ_Scroll_Grease
+	Root Template: 094c9b7f-0b7d-4813-92ea-7267afb62b07
+
+	Name: OBJ_Scroll_GustOfWind
+	Root Template: 6bedf433-994f-4624-bb2a-cdf6f46d539a
+
+	Name: OBJ_Scroll_Haste
+	Root Template: 96d4aba5-bd76-4bae-a726-37a6c96776ab
+
+	Name: OBJ_Scroll_HideousLaughter
+	Root Template: 8bc1a0d8-af28-45b2-b1ca-1f15e3c47b1b
+
+	Name: OBJ_Scroll_HoldPerson
+	Root Template: 5e077657-8b5e-4e69-ae2e-95eab691fa41
+
+	Name: OBJ_Scroll_HypnoticPattern
+	Root Template: bdf15fb0-d9df-4509-ad70-42b5fad11971
+
+	Name: OBJ_Scroll_Invisibility
+	Root Template: 6ed22182-90a6-418a-8aa7-909b9e77aa47
+
+	Name: OBJ_Scroll_Knock
+	Root Template: 4c1a886a-7db5-4e00-bbc6-d4243534f057
+
+	Name: OBJ_Scroll_Longstrider
+	Root Template: 82370a33-5243-4fad-9880-b0a8c2b5a225
+
+	Name: OBJ_Scroll_Jump
+	Root Template: e1f15103-bb95-476f-8b09-091f51b2f645
+
+	Name: OBJ_Scroll_MageArmor
+	Root Template: 2ccab07d-0ccb-45e6-8f43-8ffb6a62da11
+
+	Name: OBJ_Scroll_MagicMissile
+	Root Template: 945cd4f0-991b-4663-b72e-790d49fee27e
+
+	Name: OBJ_Scroll_MirrorImage
+	Root Template: 019d8804-56ee-44eb-959a-db5377cda8ae
+
+	Name: OBJ_Scroll_MistyStep
+	Root Template: 9a2a3fcc-d948-4463-b88b-a9d61b77b015
+
+	Name: OBJ_Scroll_PhantasmalForce
+	Root Template: 2eb2147d-5bcb-4b0e-ac73-b2a4d1deeb77
+
+	Name: OBJ_Scroll_ProtectionFromEvilAndGood
+	Root Template: 03771ebc-83ca-45d2-8bd5-d382b6d6d824
+
+	Name: OBJ_Scroll_ProtectionFromEnergy
+	Root Template: 9f8502bf-727f-40c7-93a3-5fab6ba2e2f5
+
+	Name: OBJ_Scroll_RayOfEnfeeblement
+	Root Template: cd1da9c5-c9ea-4d2a-93ce-e201c97eded9
+
+	Name: OBJ_Scroll_RayOfFrost
+	Root Template: f6cbfbb3-7eab-4f78-afde-073756c4e26d
+
+	Name: OBJ_Scroll_RayOfSickness
+	Root Template: 22ef638a-206f-4874-8f68-e2a378df1158
+
+	Name: OBJ_Scroll_RemoveCurse
+	Root Template: dea31400-25e5-4e69-bb76-14430fe46673
+
+	Name: OBJ_Scroll_Revivify
+	Root Template: c1c3e4fb-d68c-4e10-afdc-d4550238d50e
+
+	Name: OBJ_Scroll_Revivify_TrueResurrection
+	Root Template: 01d1b2b2-9e6b-4ad2-8d63-59f9caf1d389
+
+	Name: OBJ_Scroll_ScorchingRay
+	Root Template: 577a83c9-0bb7-4670-b0e9-d9a4738f6a0a
+
+	Name: OBJ_Scroll_Shatter
+	Root Template: 2ad118cb-b11f-45ca-a206-7575bbbaccc6
+
+	Name: OBJ_Scroll_ShockingGrasp
+	Root Template: a9ced623-a25d-4d2b-bca5-644b7230c869
+
+	Name: OBJ_Scroll_Sleep
+	Root Template: 2ce88bf0-fe06-46bd-b71e-18bc6dc8eb9d
+
+	Name: OBJ_Scroll_SleetStorm
+	Root Template: be05f7d0-ffa0-46e3-a0d6-66e3333159f1
+
+	Name: OBJ_Scroll_SpeakWithDead
+	Root Template: 36d01b98-1702-4d00-81a9-1b8469dd67a5
+
+	Name: OBJ_Scroll_StinkingCloud
+	Root Template: 0f0a7a12-1c77-423a-b16e-4a9a5480c05e
+
+	Name: OBJ_Scroll_SummonQuasit
+	Root Template: f912ea9b-0e2f-45b4-b12d-fa6ec89dc758
+
+	Name: OBJ_Scroll_Thunderwave
+	Root Template: 94caa680-50b8-46b1-b775-19150d783b2f
+
+	Name: OBJ_Scroll_Web
+	Root Template: 2eedb4ac-47fa-4039-9684-8b4bb0923a26
+
+	Name: OBJ_Scroll_WitchBolt
+	Root Template: e69f52a4-3d86-4f08-a9b4-c70ba4cc3070
+
+	Name: OBJ_Scroll_VampiricTouch
+	Root Template: 6fd2d3d4-801c-4591-9c05-db8a68e51808
+
+	Name: _Gold
+
+	Name: OBJ_GoldCoin
+	Root Template: 1c3c9c74-34a1-4685-989e-410dc080be6f
+
+	Name: OBJ_GoldPile
+	Root Template: 1c3c9c74-34a1-4685-989e-410dc080be6f
+
+	Name: _Consumable
+
+	Name: _Drink
+
+	Name: OBJ_GenericDrinkItem
+
+	Name: _DRINK_Alcoholic
+
+	Name: _CONS_Alcohol_Cheap
+
+	Name: CONS_DRINK_Wine_Bottle
+	Root Template: 2a176188-5a1c-4e70-9be9-ca55502d00b2
+
+	Name: CONS_DRINK_Valuable_Wine_Bottle
+	Root Template: 2a176188-5a1c-4e70-9be9-ca55502d00b2
+
+	Name: CONS_GEN_Alcohol_Bottle_Cheap_A
+	Root Template: 41b870c5-1c4b-4bcb-ae29-49b7b0ad6af5
+
+	Name: CONS_GEN_Alcohol_Bottle_Cheap_B
+	Root Template: 829f190b-e54b-4dfa-96c5-a554ac79518e
+
+	Name: CONS_GEN_Alcohol_Bottle_Cheap_C
+	Root Template: 325eb33f-47a7-41e2-8e92-5e52346c3fc6
+
+	Name: CONS_GEN_Alcohol_Bottle_Cheap_D
+	Root Template: b6e4ab1f-6a0e-47fa-bc02-30a0b142bca6
+
+	Name: CONS_DRINK_Rum
+	Root Template: f4ced9b8-6da3-4cd7-a3e0-a1a0d5058ec4
+
+	Name: CONS_DRINK_Rum_B
+	Root Template: 733d5d97-97ed-4918-bc2a-e6dd75cde58c
+
+	Name: CONS_DRINK_Beer
+	Root Template: f08cff83-241c-4b93-9e9a-5e06b292c689
+
+	Name: CONS_DRINK_Wine
+	Root Template: 3525b96e-81ef-4411-960a-b1b305e139c6
+
+	Name: CONS_DRINK_Wine_Bottle_Wicker
+	Root Template: 3525b96e-81ef-4411-960a-b1b305e139c6
+
+	Name: CONS_Drink_Wine_D
+	Root Template: 1be0fe60-4aa2-4941-a48b-130b334bddb5
+
+	Name: CONS_Drink_Wine_E_Wicker
+	Root Template: f703b4a2-900a-4e37-9571-3e18d2f4dede
+
+	Name: CONS_Drink_Wine_G
+	Root Template: ba6424eb-5f8e-44f8-ae60-96c5b615e67f
+
+	Name: CONS_Drink_Wine_Pitcher_A
+	Root Template: 27f5f392-7d66-4929-a50d-a33f00fbf4b7
+
+	Name: CONS_Drink_Wine_Pitcher_B
+	Root Template: ec35918f-1856-45ec-a92e-cbd5a6c80411
+
+	Name: _CONS_Alcohol_Normal
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_A
+	Root Template: 97422db7-ab9e-42ab-8026-ac86a8e30e56
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_B
+	Root Template: 1c674a73-7855-4d8c-951d-4c289993edfa
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_C
+	Root Template: 47f13638-1154-4a61-8dbd-1ea7ee887cbb
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_D
+	Root Template: 2553da92-6bc7-4dc7-bbf9-7f1ac6d82b28
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_E
+	Root Template: 738298a6-c8e7-4154-a571-03b287ce1b1e
+
+	Name: CONS_GEN_Alcohol_Bottle_Normal_F
+	Root Template: f83e26c4-5a16-4282-9d84-1cdf71def753
+
+	Name: CONS_Drink_Wine_B
+	Root Template: 870caf9b-f767-4264-9d0a-2c3a88dc0565
+
+	Name: CONS_Drink_Wine_B_Wicker
+	Root Template: c9cf7e80-679e-4c30-98ac-4bd43db95294
+
+	Name: CONS_Drink_Wine_D_Wicker
+	Root Template: 35bd53bc-cfdb-4c13-99e6-493f07216e9d
+
+	Name: CONS_Drink_Wine_F
+	Root Template: e4360d5a-a922-4411-bf45-1cc4e45f3969
+
+	Name: CONS_Drink_Wine_H
+	Root Template: e4595365-03f3-46ac-b989-f01bacf6cf3b
+
+	Name: CONS_Drink_Wine_I
+	Root Template: b9b6fb26-0c0f-4ad2-8949-f29caaae25b6
+
+	Name: CONS_Drink_Wine_Pitcher_C
+	Root Template: 9d61938a-0ea8-42f6-81ab-f35860ac815a
+
+	Name: CONS_Drink_Wine_Pitcher_D
+	Root Template: 9cda864e-dbac-44e3-9fe2-0562815e1004
+
+	Name: _CONS_Alcohol_Rich
+
+	Name: CONS_GEN_Alcohol_Bottle_Rich_A
+	Root Template: 2a0e186c-8589-45b9-8bdd-994503d3d1cb
+
+	Name: CONS_DRINK_Wine_Rare_MarsemberIce
+	Root Template: 5e4f92fb-b64a-4a8e-a1d5-a9165526fe14
+
+	Name: CONS_DRINK_Wine_Rare_BaalorAle
+	Root Template: 9f5b8cd1-ef04-4f33-ba82-27eaa6b4a123
+
+	Name: CONS_DRINK_Wine_Rare_MermaidWhiskey
+	Root Template: 54a9152c-3cd3-4d20-bd0e-6a143fa37869
+
+	Name: CONS_Drink_Valuable_Arabellan_Dry
+	Root Template: ae82c350-9224-4978-ac27-c31b13b5a7ad
+
+	Name: CONS_Drink_Wine_Bottle_A
+	Root Template: 2a176188-5a1c-4e70-9be9-ca55502d00b2
+
+	Name: CONS_Drink_Wine_C
+	Root Template: 97509a4d-13a9-4ffa-b699-20fa07d7295f
+
+	Name: CONS_Drink_Wine_C_Wicker
+	Root Template: 1de26672-10cb-4659-9b0a-18b9a5bddc8c
+
+	Name: CONS_Drink_Wine_E
+	Root Template: 75ec6992-b6a7-4435-b373-8b298fe68e28
+
+	Name: CONS_Drink_Wine_F_Wicker
+	Root Template: 159b7414-2eff-4ae3-92f6-89e99cd87f50
+
+	Name: _DRINK_NonAlcoholic
+
+	Name: CONS_DRINK_Water
+	Root Template: 640302a8-d841-44d6-996d-2addda644306
+
+	Name: CONS_DRINK_Water_Bottle
+	Root Template: 640302a8-d841-44d6-996d-2addda644306
+
+	Name: CONS_DRINK_Water_Bottle_Wicker
+	Root Template: 00253e1b-375c-4ef4-8808-974cab615ff7
+
+	Name: CONS_DRINK_Coffee
+	Root Template: 6b059833-31ec-481b-88b5-9c71c82340ec
+
+	Name: CONS_DRINK_Tea
+	Root Template: 2632cd60-bf42-49d4-88db-09308d030383
+
+	Name: CONS_DRINK_Milk
+	Root Template: 83133248-3c85-4b6d-adf3-2c6985146875
+
+	Name: CONS_DRINK_Oil
+	Root Template: cbbfb594-d3ba-4519-8c15-5c35df5892e0
+
+	Name: _Food
+
+	Name: CONS_GenericFoodItem
+
+	Name: OBJ_RawFoodIngredient
+
+	Name: CONS_RottenFoodItem
+
+	Name: CONS_FOOD_Bread_Bagel
+	Root Template: d2d0d39b-9269-46d1-855d-dc25e18b1a6e
+
+	Name: CONS_FOOD_Bread_Baguette
+	Root Template: 7481a74a-d167-4205-b6a6-4e79ec2e17d9
+
+	Name: CONS_FOOD_Bread_Bun
+	Root Template: e604f4cc-4c17-4f40-9864-c7de41d9c211
+
+	Name: CONS_FOOD_Pastry_Roll
+	Root Template: cb3b0f7e-1dc0-48de-badc-06625eb9dbd4
+
+	Name: CONS_FOOD_Bread_Loaf
+	Root Template: e9e7db6c-d210-4dc4-ab0e-8458a506d0cc
+
+	Name: CONS_FOOD_Cheese
+	Root Template: 8cca8f05-63b2-4bff-8494-9609bf29af66
+
+	Name: CONS_FOOD_Cheese_Piece
+	Root Template: 06474f97-0dd0-45e6-8db8-5f75009bf336
+
+	Name: CONS_FOOD_Cheese_Goat_Piece
+	Root Template: cb0039bf-dd5e-41f2-8241-a52fa45e5ef6
+
+	Name: CONS_FOOD_Dinner
+	Root Template: 98fef0a1-726e-410b-867f-808915741d2f
+
+	Name: CONS_FOOD_Turkey
+	Root Template: cdbd82e1-c092-487a-8e5d-d1f0a48c002b
+
+	Name: CONS_FOOD_Egg
+	Root Template: 86849852-69de-482e-b7f6-ddc7f607c517
+
+	Name: CONS_FOOD_Egg_WildBird
+	Root Template: be712366-a008-4099-b95e-393ffa808610
+
+	Name: CONS_FOOD_Egg_Rotten
+	Root Template: be312dcb-8ff5-4f6e-bcad-516c6fb7c249
+
+	Name: CONS_FOOD_Fish
+	Root Template: 45a43504-e639-4c85-a901-da1de6cf4ee9
+
+	Name: CONS_FOOD_Fish_Big
+	Root Template: d23adb3a-7722-4877-89fe-eceda296b25f
+
+	Name: CONS_FOOD_Fish_Big_Headface
+	Root Template: 0db2c814-7825-4b14-979a-b3b8bfee0dd4
+
+	Name: CONS_FOOD_Fish_Big_Headless
+	Root Template: 312f18f7-fe4b-49c8-bc81-c4042b99f897
+
+	Name: CONS_FOOD_Fish_Small_A
+	Root Template: 0afb1949-b404-40fc-a84c-6acb9de7bc13
+
+	Name: CONS_FOOD_Fish_Small_B
+	Root Template: bf139970-1fd8-4cc0-bb27-d03e90bd4c44
+
+	Name: CONS_FOOD_Fish_Small_C
+	Root Template: 2d484c26-e14d-4d91-a7a1-e437d6c99346
+
+	Name: CONS_FOOD_Fish_Small_D
+	Root Template: 7c115cf9-2a08-413e-9875-e5aa7f5926e2
+
+	Name: CONS_FOOD_Fish_Small_E
+	Root Template: 981187cd-28d2-486f-87c1-515a42699dcd
+
+	Name: CONS_FOOD_Fries
+	Root Template: bc2543fc-da0f-423a-9607-27f410c14c27
+
+	Name: CONS_FOOD_MashedPotato
+	Root Template: ee4025e5-11f2-401a-8198-885120af0b6b
+
+	Name: CONS_FOOD_MashedPotato_Spill
+	Root Template: 0c2326a3-e01a-40f4-ab46-090fa4e812c6
+
+	Name: OBJ_FOOD_Chicken
+	Root Template: 96d05ed7-d2ed-45c2-aea5-1d5f940aa29b
+
+	Name: OBJ_FOOD_Chicken_B
+	Root Template: e040d5fe-cfd7-43f0-9edc-63fd05142650
+
+	Name: OBJ_FOOD_Ham
+	Root Template: 01852753-22b9-4724-986b-8c9786b04010
+
+	Name: OBJ_FOOD_Meat
+	Root Template: caf51333-338f-41f1-8cf9-3474dad331d4
+
+	Name: OBJ_FOOD_Meat_Grilled
+	Root Template: c5af4dab-0cd4-4f84-8c2a-1e1987016099
+
+	Name: OBJ_FOOD_Meat_Grilled_B
+	Root Template: df26272e-84ce-46b6-9ec7-ed4d300c3ac0
+
+	Name: OBJ_FOOD_Meat_Grilled_C
+	Root Template: 1accb89d-27b7-486b-87a9-05a04239e239
+
+	Name: OBJ_FOOD_PorkHead
+	Root Template: 7fc4314d-ac26-42e1-adfe-72a2c199fe78
+
+	Name: OBJ_FOOD_PorkHead_B
+	Root Template: fcfff2e8-d914-4731-a694-73f770e2f900
+
+	Name: OBJ_FOOD_PorkPiece
+	Root Template: 9981e7b4-13ff-42ff-8078-023396fc2221
+
+	Name: OBJ_FOOD_PorkPiece_B
+	Root Template: 34c17e49-cdbe-4939-9e01-92453a203fbf
+
+	Name: OBJ_FOOD_PorkPiece_C
+	Root Template: 52640540-c541-413d-8606-d0c83d670fe2
+
+	Name: OBJ_FOOD_PorkPiece_D
+	Root Template: 52640540-c541-413d-8606-d0c83d670fe2
+
+	Name: CONS_FOOD_Sausage
+	Root Template: 3c35d25a-0d61-4071-b35b-9359f52c2d46
+
+	Name: CONS_FOOD_Sausage_B
+	Root Template: 4272edf7-8343-4ab0-be42-cb21fba13d30
+
+	Name: CONS_FOOD_Sausage_C
+	Root Template: ac1879a6-ad3e-4b7a-bcb4-f6477fc36882
+
+	Name: CONS_FOOD_Sausage_D
+	Root Template: 3c35d25a-0d61-4071-b35b-9359f52c2d46
+
+	Name: CONS_FOOD_Sausage_Piled
+	Root Template: 005ee9c5-23d0-41e6-b4d7-cff4570bc5b5
+
+	Name: CONS_FOOD_Sausage_Piled_B
+	Root Template: e044aa11-73ed-46b2-a202-e73e187c5c98
+
+	Name: CONS_FOOD_Pizza
+	Root Template: 1267816d-2074-41e6-be8f-bfdf20b5f04f
+
+	Name: CONS_FOOD_Porridge_Fruits
+	Root Template: ac2561bf-1cb9-4f14-b4c0-0bf740fe9d46
+
+	Name: CONS_FOOD_Porridge_Potatoes
+	Root Template: d3635b1b-4898-4eaa-8042-1aadfd7b56a7
+
+	Name: CONS_FOOD_Poutine
+	Root Template: a845453d-5078-479d-9ec4-d7953e6da8c9
+
+	Name: CONS_FOOD_Pie_Salmon
+	Root Template: 8a039e47-d991-4808-a3ea-148f0c55f976
+
+	Name: CONS_FOOD_Soup_Mushroom
+	Root Template: f7a37058-43ef-4575-aa07-5e1e42eee8fd
+
+	Name: CONS_FOOD_Soup_Onion
+	Root Template: d5443960-1383-4a32-a07b-d0031c9872a3
+
+	Name: CONS_FOOD_Soup_Peas
+	Root Template: aaece7bf-7210-4ae0-8162-d0f6484b2aa8
+
+	Name: CONS_FOOD_Soup_Pumpkin
+	Root Template: 5d20cf53-e360-440f-b2b1-9eddf40eb1ce
+
+	Name: CONS_FOOD_Soup_Shrimp
+	Root Template: 4e43d7ec-8bc2-44b5-8c75-3dc6e6ee0bf0
+
+	Name: CONS_FOOD_Soup_Vegetable
+	Root Template: a2a38210-b3ad-402e-9b63-3a4c272cebc7
+
+	Name: CONS_FOOD_Soup_Tomato
+	Root Template: 912d53f2-8308-4e03-aa8f-4c9af6dd815f
+
+	Name: CONS_FOOD_Stew
+	Root Template: 70e0c819-5c33-4708-8250-3d5c9bfbfed0
+
+	Name: CONS_GEN_FOOD_Tart_Treacle
+	Root Template: 80e17dfc-f29e-4149-9c91-7b617efb0c77
+
+	Name: CONS_GEN_FOOD_Tart_Treacle_Spoiled
+	Root Template: c5c39373-6a83-4a74-818a-da1642b9dfd0
+
+	Name: CONS_FOOD_Pastry_Tart
+	Root Template: f32dd8e1-cf81-4995-9868-0fe5c23428a7
+
+	Name: CONS_FOOD_Vegetable_Zucchini
+	Root Template: 74110a00-80ac-43c1-b727-c19f8c0c2e78
+
+	Name: CONS_FOOD_Fruit_Apple
+	Root Template: e8bbe73a-e1dc-4d2e-910f-318db7aee382
+
+	Name: CONS_FOOD_Fruit_Apple_Eaten
+	Root Template: 2ca3cb11-2271-461a-9096-c425c0bd3b12
+
+	Name: CONS_Berry
+	Root Template: b0943b65-5766-414a-903d-28de8790370a
+
+	Name: CONS_Honey
+	Root Template: 471dfbc7-a7f1-4fa3-8ce4-2c15c2815bcd
+
+	Name: CONS_FOOD_Vegetable_Potato
+	Root Template: d881ea26-7210-437f-a449-74e23f8a1301
+
+	Name: CONS_FOOD_Vegetable_Potato_Boiled
+	Root Template: adefd765-cc35-4289-9468-4a1fef893f52
+
+	Name: CONS_FOOD_Fruit_Melon
+	Root Template: 463425df-d49f-4173-8146-0c66106cfe9d
+
+	Name: CONS_FOOD_Fruit_Melon_Half
+	Root Template: 442dabe3-2c52-47ce-b669-33766564b3cc
+
+	Name: CONS_FOOD_Fruit_Melon_Piece
+	Root Template: 263a6645-fd3f-490d-8dec-744baca37cd2
+
+	Name: CONS_FOOD_Fruit_Grapes_Green
+	Root Template: 9d9665eb-89d4-4cdd-aa04-235a8ac51205
+
+	Name: CONS_FOOD_Fruit_Grapes_Purple
+	Root Template: cd170c54-9c3e-48b7-9a86-94dfd1ad09c9
+
+	Name: CONS_FOOD_Vegetable_Garlic
+	Root Template: 743428c1-f916-4188-9162-20d38bfc166b
+
+	Name: CONS_FOOD_Fruit_Orange
+	Root Template: 0206650c-76b0-4ca3-9060-8efb5b739ede
+
+	Name: CONS_FOOD_Fruit_Lemon
+	Root Template: 6cd7804b-31c3-4eac-b9fd-c8692d609a08
+
+	Name: CONS_FOOD_Fruit_Kiwi
+	Root Template: 5e352346-e89f-4af8-a668-72f718274f62
+
+	Name: CONS_FOOD_Fruit_Pear
+	Root Template: 1a0fe0fc-08e4-4e9c-aba8-5312ddd4e0ae
+
+	Name: CONS_FOOD_Vegetable_Lettuce
+	Root Template: f8d8d0fa-a933-47eb-a409-901f6eeb5a57
+
+	Name: CONS_FOOD_Vegetable_Pepper
+	Root Template: 56cb4280-8c36-4b16-9852-834e45942ae0
+
+	Name: CONS_FOOD_Vegetable_Pumpkin
+	Root Template: 4a243e31-87aa-4490-b42f-a0403caf0230
+
+	Name: CONS_FOOD_Vegetable_Tomato
+	Root Template: 27e3719a-884a-4739-a3f4-0850623c623b
+
+	Name: CONS_FOOD_Vegetable_Carrot
+	Root Template: a0aea0ba-0859-4352-a069-69a16e1e4401
+
+	Name: CONS_FOOD_GoatMeat
+	Root Template: 4b97e595-993d-403a-971c-19723bf0a6d0
+
+	Name: CONS_FOOD_YellowOnion
+	Root Template: 746153c2-5aa1-440d-819d-b93dc31b7e10
+
+	Name: CONS_FOOD_GlowcapMushroom
+	Root Template: 1463c8da-2f73-4768-b5e3-3b9048901d93
+
+	Name: CONS_FOOD_BluecapMushroom
+	Root Template: 87e53fac-efc7-4d4a-b28d-675afa7bd564
+
+	Name: CONS_FOOD_PaleMint
+	Root Template: f35fb09a-696a-41f6-ac04-f9447332d56e
+
+	Name: CONS_FOOD_FungusSalad
+	Root Template: f1362bfb-6fe3-46f3-b164-135a034572cb
+
+	Name: CONS_FOOD_PezhKuresh
+	Root Template: 31c64c2b-fafb-4d53-8f46-303571508775
+
+	Name: CONS_FOOD_RoastedPig
+	Root Template: a6848154-bc81-44fa-a344-8dbd020b16ae
+
+	Name: CONS_FOOD_Ration
+	Root Template: 363a11bf-9209-4614-9947-e49de5d0bf58
+
+	Name: CONS_FOOD_Paella
+	Root Template: f551fd03-7e8f-4395-bc9e-0a27689058df
+
+	Name: CONS_FOOD_Seafood
+	Root Template: 926f9e2e-2852-4362-a051-ea6eddac29a4
+
+	Name: CONS_FOOD_Soup
+	Root Template: 87c1c0ef-3e73-4ab8-ac1e-7817d5dbb50d
+
+	Name: CONS_FOOD_Fish_Rotten_A
+	Root Template: 0f34372c-520a-475d-a3c0-7c385fd549b7
+
+	Name: CONS_FOOD_Fish_Rotten_B
+	Root Template: 03a94ad3-a856-44a0-a897-8912078a9115
+
+	Name: CONS_FOOD_Fish_Rotten_C
+	Root Template: 53664ef4-bfda-4775-a8da-780ae07343e4
+
+	Name: CONS_FOOD_Fish_Rotten_D
+	Root Template: be9b2f84-2439-453e-a0e2-1c2a15943500
+
+	Name: CONS_FOOD_Fruit_Banana_A_Rotten
+	Root Template: 89875ae3-2ce8-4a6b-88fe-da2426f1b6ed
+
+	Name: CONS_FOOD_Fruit_Lemon_A_Rotten
+	Root Template: dc980269-d8bd-4a25-b521-d3ac7bb4812f
+
+	Name: CONS_FOOD_Vegetable_Carrot_A_Rotten
+	Root Template: 89439def-e8bc-43c3-bec1-331492d01d74
+
+	Name: CONS_FOOD_Vegetable_Tomato_A_Rotten
+	Root Template: 32a3bb2c-ce98-41ec-9476-06867d354ca3
+
+	Name: CONS_Fungi_Mushroom_Agaric_A_Rotten
+	Root Template: 42a68ee1-6d71-455e-99b2-278a53be5504
+
+	Name: CONS_Fungi_Mushroom_Agaric_B_Rotten
+	Root Template: 466d35b7-3c1a-4bd7-be91-262dd297b320
+
+	Name: CONS_GEN_Food_Cheese_Blue_Piece_A_Rotten
+	Root Template: 6fc0f6fd-a5b5-40d2-8f76-b864b7f71093
+
+	Name: CONS_GEN_Food_Cheese_Blue_Piece_B_Rotten
+	Root Template: d3d36702-9293-4605-a0ce-7e3b1b38394d
+
+	Name: CONS_GEN_Food_Cheese_Blue_Wheel_A_Rotten
+	Root Template: d90396df-b799-44f3-bbf0-13c5c90c3260
+
+	Name: CONS_GEN_Food_Cheese_Cheddar_Piece_A_Rotten
+	Root Template: 63cc183f-e726-48d6-a91d-da26dacb6ee0
+
+	Name: CONS_GEN_Food_Cheese_Cheddar_Piece_B_Rotten
+	Root Template: 46ca277b-6488-48aa-8f16-2c9fdca4e236
+
+	Name: CONS_GEN_Food_Cheese_Cheddar_Wheel_A_Rotten
+	Root Template: 89d194fd-3f0c-487b-8b60-e5ab1a2bd522
+
+	Name: CONS_GEN_Food_Cheese_Goat_Piece_A_Rotten
+	Root Template: f964cf56-066d-460d-a6a7-2b9acb78be7f
+
+	Name: CONS_GEN_Food_Cheese_Goat_Piece_B_Rotten
+	Root Template: 9b4b0903-b324-43c6-9d92-6107f78f6ebc
+
+	Name: CONS_GEN_Food_Cheese_Goat_Wheel_A_Rotten
+	Root Template: 8a85cc9b-f865-4582-bb39-1272378f552f
+
+	Name: Food_Basket_Apples
+	Root Template: 3f5f2c5a-d689-4e98-9164-67ca6249fcd3
+
+	Name: Food_Basket_Onions
+	Root Template: a44aa2e7-cc29-4862-b8dc-edea592437a4
+
+	Name: Food_Basket_Lettuce
+	Root Template: 2a59d49c-7f43-46f8-9194-49acdfd295ff
+
+	Name: Food_Basket_GrapesGreen
+	Root Template: 368efe34-a487-4fa3-839d-5d513e3909a9
+
+	Name: Food_Basket_Tomatoes
+	Root Template: d0d5b9fd-be64-4dd0-b75c-871b5e7f79a3
+
+	Name: Food_Basket_Melons
+	Root Template: c12e11cd-7274-4558-81f4-665024352c7e
+
+	Name: Food_Basket_Oranges
+	Root Template: 1e0b3f8b-a45e-45fe-a18e-e40ebe4fec64
+
+	Name: Food_Basket_Pears
+	Root Template: e1a83b36-4d93-4237-9185-ec369b612848
+
+	Name: Food_Basket_GrapesBlack
+	Root Template: 4ec4afd4-d4c2-40ce-ad04-b7e768f7f51f
+
+	Name: Food_Crate_Apples
+	Root Template: 8abda057-cec6-425c-a707-c28a44b6f259
+
+	Name: Food_Crate_Pears
+	Root Template: f7c66e68-eb69-4e06-88f5-acb8dd5ac422
+
+	Name: Food_Crate_GrapesGreen
+	Root Template: 433872a5-ff8c-4c52-9009-ff9cf63ceb6f
+
+	Name: Food_Crate_GrapesBlack
+	Root Template: bcdcad1e-dd25-4f33-904f-6115dad246a4
+
+	Name: Food_Crate_Oranges
+	Root Template: 78967300-1195-42fc-beb3-783711b721f4
+
+	Name: Food_Crate_Lettuce
+	Root Template: e9fbd693-3f3a-49a2-bd0c-ff2e8ae8b1f7
+
+	Name: Food_Crate_Melons
+	Root Template: 2a88dba8-111a-4f48-85c5-1e5d260241a6
+
+	Name: Food_Crate_Pumpkins
+	Root Template: 705b880f-e017-4eb3-96aa-0f6d41d38178
+
+	Name: Food_Crate_Onions
+	Root Template: cf0fd7a5-699b-4ac3-9e61-aef0ae669d19
+
+	Name: Food_Crate_Tomatoes
+	Root Template: 5f4fa115-aa29-406c-a700-c244d8076260
+
+	Name: Food_Bubble_Squeak
+	Root Template: 2d657045-d6d4-4f03-9e5e-0bdf63cc48bf
+
+	Name: Food_Haggis
+	Root Template: c97edbc4-66ce-442d-8f61-d406f6c176bf
+
+	Name: Food_Potato_Scones
+	Root Template: f59f02dd-245b-473d-a401-80de43e207a4
+
+	Name: Food_Black_Pudding
+	Root Template: 36fc6c55-478c-464f-86a2-910573fd8d4b
+
+	Name: Food_Grilled_Cormorant
+	Root Template: edfd76e0-17b9-4f52-a5f9-5a4e441ddca1
+
+	Name: Food_Roast_Beef
+	Root Template: 001376e1-2f21-4306-b510-0be29fa4941d
+
+	Name: Food_Horseradish_Bundle
+	Root Template: 0e23a410-d7e6-454f-9061-abe3c60c6f5f
+
+	Name: Food_Horseradish_Single
+	Root Template: 5bd00d87-c85e-4796-9de2-877b41a945b2
+
+	Name: Food_Neogi_Rolls
+	Root Template: 31d10a5c-078a-48c9-a48e-17cedae39c35
+
+	Name: Food_Neogi_Claws
+	Root Template: dca82ed8-5b3d-40dd-b3c1-9521b30f04b8
+
+	Name: Food_Beholder_Eyes
+	Root Template: d0e9c5c0-4757-45d9-9311-0f178139c181
+
+	Name: Food_Cookie
+	Root Template: a5242a01-c4c6-4767-a996-eb4779484539
+
+	Name: Food_Walnut
+	Root Template: 894e64ad-3d0c-4ef7-8cb0-8a130bc37561
+
+	Name: Food_Sweet_Potato
+	Root Template: 595b4ec3-79ff-48f4-a1b8-c5410067df4c
+
+	Name: CONS_Drug_Ether
+	Root Template: 49458a4c-c5e3-42a4-88e4-c03e14343575
+
+	Name: CONS_Drug_Dreammist
+	Root Template: 71e89ceb-08d3-40f4-9f59-a768342a7357
+
+	Name: CONS_Drug_Silkroot
+	Root Template: 667d2f69-1ba4-427a-96f6-890fc034a3ec
+
+	Name: CONS_Drug_Terazul
+	Root Template: 3f922527-94d9-4ecb-b160-116ad05db83c
+
+	Name: _SummonedFood
+
+	Name: CONS_FOOD_Fruit_Goodberry
+	Root Template: de6b186e-839e-41d0-87af-a1a9d9327785
+
+	Name: Food_Bubble_Squeak_HeroesFeast
+
+	Name: CONS_FOOD_Cheese_Goat_Piece_HeroesFeast
+
+	Name: CONS_DRINK_Water_Bottle_Wicker_HeroesFeast
+
+	Name: CONS_FOOD_Fruit_Melon_Piece_HeroesFeast
+
+	Name: CONS_FOOD_Turkey_HeroesFeast
+
+	Name: CONS_FOOD_Fruit_Grapes_Green_HeroesFeast
+
+	Name: CONS_FOOD_Fruit_Grapes_Purple_HeroesFeast
+
+	Name: CONS_FOOD_Dinner_HeroesFeast
+
+	Name: CONS_FOOD_Poutine_HeroesFeast
+
+	Name: CONS_FOOD_PezhKuresh_HeroesFeast
+
+	Name: CONS_FOOD_Pizza_HeroesFeast
+
+	Name: CONS_FOOD_Paella_HeroesFeast
+
+	Name: CONS_FOOD_Porridge_Fruits_HeroesFeast
+
+	Name: CONS_FOOD_Pastry_Tart_HeroesFeast
+
+	Name: CONS_DRINK_Wine_Bottle_Wicker_HeroesFeast
+
+	Name: CONS_DRINK_Coffee_HeroesFeast
+
+	Name: CONS_FOOD_Pastry_Roll_HeroesFeast
+
+	Name: _Alchemy_Herbs
+
+	Name: CONS_Herbs_Autumncrocus
+	Root Template: 06f3a0c4-af50-4a79-8c1a-1ace6d1282f2
+
+	Name: CONS_Herbs_Balsam
+	Root Template: fb318355-d2d9-48c5-8ef1-d0e574cef0d5
+
+	Name: CONS_Herbs_Belladonna
+	Root Template: 897f5ff9-d889-4b78-a1d7-afa88ccaadb3
+
+	Name: CONS_Herbs_Daggeroot
+	Root Template: 12126dc3-50ce-48cd-836f-c4d769a85134
+
+	Name: CONS_Herbs_Mergrass
+	Root Template: 0a494c98-84c0-4055-8208-0e363bd53ed3
+
+	Name: CONS_Herbs_Mugwort
+	Root Template: a0776643-f25b-4aef-a025-bff959d8dd0f
+
+	Name: CONS_Herbs_Weavemoss
+	Root Template: 0a64fa93-9123-4810-a656-2c8b27c87563
+
+	Name: CONS_Herbs_Wispweed
+	Root Template: 4faa8cef-27ee-4085-aa90-78fcf8e2e72d
+
+	Name: _Alchemy_Mushrooms
+
+	Name: CONS_Mushrooms_Bonecap
+	Root Template: e9f6d6d3-bd95-414d-903a-b697bb222ae7
+
+	Name: CONS_Mushrooms_BullywugTrumpet
+	Root Template: 4c7df0ef-2262-472f-af6e-9289a78cf371
+
+	Name: CONS_Mushrooms_DragonEggMushroom
+	Root Template: 19c9becf-ab0e-4e2f-9253-12456ff9b465
+
+	Name: CONS_Mushrooms_RoguesMorsel
+	Root Template: a09f8033-f5d8-44de-97ad-09499d967989
+
+	Name: CONS_Mushrooms_Nightlight_Piece
+	Root Template: 7a164775-4a77-47a4-a8b2-5bd5bdc311cf
+
+	Name: CONS_Mushrooms_SilvanTruffle
+	Root Template: 1e6070d3-74e5-4c42-933a-2f151e6b5a0f
+
+	Name: CONS_Mushrooms_SwarmingToadstool
+	Root Template: 0180607d-dbf8-48e6-98d9-89e67aa9f13a
+
+	Name: CONS_SporeSac_Haste
+	Root Template: b51dc995-a1c9-42bd-bb0c-3c420d1a8f41
+
+	Name: CONS_SporeSac_Pacify
+	Root Template: 536ed114-9bac-43f1-90a8-a12345d65747
+
+	Name: CONS_Mushrooms_SporeTimmask
+	Root Template: 8e2dd06c-c62f-4235-b0f8-f353c6b1ec9d
+
+	Name: CONS_Mushrooms_TongueOfMadness
+	Root Template: 714a8375-9eb4-438d-a191-f5b4b1e86cc3
+
+	Name: _BodyParts
+
+	Name: OBJ_BodyPart_Generic_Head
+	Root Template: 80469bc6-d30e-4f96-b483-58245ef92b6f
+
+	Name: OBJ_BodyPart_Generic_Heart
+	Root Template: ce6d496d-f5f3-4e21-8ca6-1255824078de
+
+	Name: OBJ_BodyPart_Generic_Torso
+	Root Template: 5ca0e876-d52d-40ab-899c-365d88ec0cec
+
+	Name: OBJ_BodyPart_Generic_Leg
+	Root Template: 4ef78eb0-62b4-4aef-8f6c-f5351f07cf1d
+
+	Name: OBJ_MF_StrangeLoot_A
+	Root Template: 1fd5d25c-806e-44ea-9f52-20df63a44e98
+
+	Name: OBJ_MF_StrangeLoot_B
+	Root Template: 10b6acda-aa4e-46b1-aa9a-e45ab914a28d
+
+	Name: OBJ_MF_StrangeLoot_C
+	Root Template: e7b8d439-94af-424f-859d-7a07df0160a4
+
+	Name: OBJ_BodyPart_Generic_Eye
+	Root Template: 8eeeb260-9a9f-48aa-b1bf-f86a2f7f8399
+
+	Name: OBJ_BodyPart_Generic_Claw
+	Root Template: 38808280-6ae5-4d99-b3c5-6381633df693
+
+	Name: OBJ_BodyPart_Generic_Fang
+	Root Template: 80169178-734d-48f0-9022-d3392a009c92
+
+	Name: OBJ_Myconid_Flesh
+	Root Template: a6cafd7d-5e3b-4683-85c0-a981a91ca781
+
+	Name: LOOT_Underdark_HookHorrorClaw
+	Root Template: 38808280-6ae5-4d99-b3c5-6381633df693
+
+	Name: _Ingredient
+
+	Name: INGR_SeashellConch
+	Root Template: cc086b70-3ed9-489d-a53b-f5e88496fe06
+
+	Name: _PlantIngredient
+
+	Name: _Potion
+
+	Name: OBJ_GenericPotionItem
+
+	Name: OBJ_Potion_Healing
+	Root Template: d47006e9-8a51-453d-b200-9e0d42e9bbab
+
+	Name: OBJ_Potion_Healing_Greater
+	Root Template: e3b95c96-dc26-40fe-bfc0-baa05e1abd20
+
+	Name: OBJ_Potion_Healing_Superior
+	Root Template: df4f3495-abaf-4732-b82f-55bcccd561db
+
+	Name: OBJ_Potion_Healing_Supreme
+	Root Template: 7d78f227-e8d4-486d-8121-25cf0bee751d
+
+	Name: OBJ_Potion_Poison_A
+	Root Template: f1ca893c-f665-4a63-9a5a-6eb2ba338534
+
+	Name: OBJ_Potion_Sleep
+	Root Template: 7090a500-c392-4566-a79f-0c9453323bc8
+
+	Name: OBJ_Antitoxin
+	Root Template: f0c7d8bb-85e9-4937-96bb-49ba69d28631
+
+	Name: OBJ_Potion_Bottle_Breath
+	Root Template: 98ed535a-269e-42a9-a488-e57976729319
+
+	Name: OBJ_Potion_Of_Fire_Breath
+	Root Template: 55fc1672-14fc-4386-82c2-ec3ca0fd3f6a
+
+	Name: OBJ_Potion_Of_Animal_Speaking
+	Root Template: 447ee8a9-9319-4758-9dc7-2d8ba94e45b5
+
+	Name: OBJ_Potion_Elixir_Of_Health
+	Root Template: f75e153a-e357-49f9-9f51-0bfeffb8e00f
+
+	Name: OBJ_Potion_Of_Hill_Giant_Strength
+	Root Template: c69fb092-2f4f-4688-82b6-7d92405626b1
+
+	Name: OBJ_Potion_Of_Cloud_Giant_Strength
+	Root Template: e6490cc8-7f81-4aac-95e8-a58ce5e88a31
+
+	Name: OBJ_Potion_Of_Shrinking
+	Root Template: 9e4f294c-5567-47eb-a1e6-cd04199bc596
+
+	Name: OBJ_Potion_Of_Heroism
+	Root Template: bb27cc17-5af9-4d53-818b-3e620f3f59f2
+
+	Name: OBJ_Potion_Of_Speed
+	Root Template: ad9f3f24-d755-48b6-aa7b-c34da068209f
+
+	Name: OBJ_Potion_Of_Vitality
+	Root Template: 0df06118-c4c3-4521-a6f5-f94ead4abb6c
+
+	Name: OBJ_Potion_Of_Invulnerability
+	Root Template: 7eb0b7b6-97fa-4ff5-a7bb-570ca11a3c64
+
+	Name: OBJ_Oil_Of_Slipperiness
+	Root Template: a61f62e4-fbf2-44aa-95c6-f0f0884e9023
+
+	Name: OBJ_Oil_Of_Sharpness
+	Root Template: 84eedc44-3b1b-49c4-9417-9e5a99ea6e56
+
+	Name: OBJ_Oil_Of_The_Basilisk
+	Root Template: 212ca846-4766-4370-8847-454e59751598
+
+	Name: OBJ_Potion_Of_Invisibility
+	Root Template: 809d5026-4896-4b3a-986e-95da58da77e2
+
+	Name: _Potion_Of_Resistance
+
+	Name: OBJ_Potion_Of_Acid_Resistance
+	Root Template: 491921dd-5c64-45da-a150-7ff7030705f7
+
+	Name: OBJ_Potion_Of_Poison_Resistance
+	Root Template: ae28b14c-0881-45fe-8237-9fcb1c951d3d
+
+	Name: OBJ_Potion_Of_Fire_Resistance
+	Root Template: 2608c096-a0f5-4172-ad04-c1b170e10d95
+
+	Name: OBJ_Potion_Of_Cold_Resistance
+	Root Template: ce8a15ef-be30-4af1-9ecb-ebfcf8b637a9
+
+	Name: OBJ_Potion_Of_Lightning_Resistance
+	Root Template: 05257244-ab59-4eab-9745-d1fea7b8cd10
+
+	Name: OBJ_Potion_Of_Thunder_Resistance
+	Root Template: 1ada79f3-5993-4be2-908e-d397c395905a
+
+	Name: OBJ_Potion_Of_Force_Resistance
+	Root Template: 71efff8a-d8fe-4aeb-8ea6-22d076021fca
+
+	Name: OBJ_Potion_Of_Psychic_Resistance
+	Root Template: 164ac6f3-8f93-4d74-9f72-e7c49723dedb
+
+	Name: OBJ_Potion_Of_Necrotic_Resistance
+	Root Template: f3c0aefb-a399-42c6-8d85-7fdceb6d18f5
+
+	Name: OBJ_Potion_Of_Radiant_Resistance
+	Root Template: 58142e85-57d4-4bdf-b7f1-04f5804bcce6
+
+	Name: _Poison
+
+	Name: OBJ_BasicPoison
+	Root Template: 28645376-e6e8-436a-8e9a-c62877fae07d
+
+	Name: Solution_Toxin_Basic
+	Root Template: 8b5f7965-6cd1-42c1-8449-c6562a270ad9
+
+	Name: OBJ_PoisonOther
+	Root Template: 28645376-e6e8-436a-8e9a-c62877fae07d
+
+	Name: OBJ_SerpentVenom
+	Root Template: b0385b93-f525-4740-8126-471a76fa31a2
+
+	Name: OBJ_WyvernPoison
+	Root Template: eca393b0-3f8e-4862-814b-9e236a0d4129
+
+	Name: OBJ_PurpleWormPoison
+	Root Template: 56e531e9-78e4-430b-bc98-611c1b1ccd08
+
+	Name: OBJ_AssassinsBlood
+	Root Template: ee5d2d95-7451-4c4e-b58e-6c211e7fc96b
+
+	Name: OBJ_CrawlerMucus
+	Root Template: 5865caed-4a5d-45b7-b365-1113334a8e7b
+
+	Name: OBJ_DrowPoison
+	Root Template: f528a334-bdb3-4cf1-b74c-0e08942daeb1
+
+	Name: OBJ_EssenceOfEther
+	Root Template: 6dae19c6-685d-4a06-9ecf-10df814932dc
+
+	Name: OBJ_Malice
+	Root Template: d990fefe-e0f3-46ba-915e-35aebc6c6599
+
+	Name: UNI_Poison_Brewer
+	Root Template: 6db9ed3d-2d72-43ad-a2b8-02365728f29f
+
+	Name: _Grenade
+
+	Name: OBJ_AcidBottle
+	Root Template: 3850ec1a-d951-45b7-9363-dc82e20bd28a
+
+	Name: OBJ_Bag_BlackPowder
+	Root Template: 08c75e58-6e70-469a-a22e-44c184995e6c
+
+	Name: OBJ_BallBearings
+	Root Template: 77292f7d-ff64-4a04-9a6f-c37b0cb10a62
+
+	Name: OBJ_Bomb
+	Root Template: 278271f9-3fbc-4cf7-a5dc-b36527f521b2
+
+	Name: OBJ_Caltrops
+	Root Template: 45eb32fb-47c3-445a-858a-57179bfa15df
+
+	Name: OBJ_FireBottle
+	Root Template: 0b1aa718-fe45-4e4c-8811-ced51c581075
+
+	Name: OBJ_GreaseBottle
+	Root Template: e2968a2e-bc83-4d50-99ef-39ce78d2d630
+
+	Name: OBJ_OilBottle
+	Root Template: 91947f48-4368-4794-8429-2f57172dc53d
+
+	Name: OBJ_HolyWaterFlask
+	Root Template: b878380f-7248-4b06-83f8-2d26055497c8
+
+	Name: OBJ_MindflayerBulb_Caustic
+	Root Template: 1fd5d25c-806e-44ea-9f52-20df63a44e98
+
+	Name: OBJ_MindflayerBulb_Spiked
+	Root Template: 249ff64e-818b-4dc8-919b-7f297f64a2a3
+
+	Name: OBJ_MindflayerBulb_Vacuum
+	Root Template: 10b6acda-aa4e-46b1-aa9a-e45ab914a28d
+
+	Name: OBJ_Net
+	Root Template: 1be83721-5f37-418b-bca5-7dc45c144fa5
+
+	Name: GRN_Spore_Haste
+	Root Template: b09296f1-2bc3-422e-8735-c13e83ac8801
+
+	Name: OBJ_Fireworks_Rocket_A
+	Root Template: db1675d9-5147-4201-b243-a9ee9540cbb8
+
+	Name: OBJ_Fireworks_Rocket_B
+	Root Template: 8cc1c07f-398c-42fb-9cdf-76ef052bdaa6
+
+	Name: OBJ_Fireworks_Rocket_C
+	Root Template: 2f900203-cbe9-4b6c-8d63-1a9a873a13ff
+
+	Name: _Arrow
+
+	Name: OBJ_ArrowOfFire
+	Root Template: 9a142fae-bcea-4e88-a407-16d3b27468b9
+
+	Name: OBJ_ArrowOfDetonation
+	Root Template: a0985797-4ec7-475c-8e11-0361e387f39a
+
+	Name: OBJ_ArrowOfSmokepowder
+	Root Template: 0788a2bb-c732-4ebb-abf9-2ef150f509be
+
+	Name: OBJ_ArrowOfIce
+	Root Template: 2e297d80-823b-4200-926e-6ca23f488090
+
+	Name: OBJ_ArrowOfAcid
+	Root Template: 0bfb72d2-0e8e-4d16-aeae-3159b0d4b195
+
+	Name: OBJ_ArrowOfLightning
+	Root Template: 1b0f095b-cb22-4bf9-aecf-4e5a26504ec8
+
+	Name: OBJ_ArrowOfDarkness
+	Root Template: 844c19ce-9e8f-4119-8856-8fa2029461b1
+
+	Name: OBJ_ArrowOfPiercing
+	Root Template: eee2f284-1a42-462a-8b38-50bd2e3885c5
+
+	Name: OBJ_BarbedArrow
+	Root Template: 682364ab-2849-4625-be84-5ca1900834ff
+
+	Name: OBJ_ArrowOfRicochet
+	Root Template: b11b3f7f-d8ec-41db-93b9-24474aea31e3
+
+	Name: OBJ_ArrowOfAntimagic
+	Root Template: c9871e4a-633e-4b81-9115-8ffd0f69ee6a
+
+	Name: OBJ_ArrowOfDispelling
+	Root Template: ac23602b-ceee-4ef3-a6b8-601e40a5aa6f
+
+	Name: OBJ_ArrowOfTeleportation
+	Root Template: 4cf7bbbb-1d1b-4bec-b82a-cdc3cce33f7a
+
+	Name: OBJ_ArrowOfWraithsEmbrace
+	Root Template: a61c8248-1595-450f-bcc9-2ed1d9853739
+
+	Name: OBJ_ArrowOfAberrationSlaying
+	Root Template: 1545f451-3fc5-4c1b-970e-572f9ace630c
+
+	Name: OBJ_ArrowOfBeastSlaying
+	Root Template: 86e46f4a-6789-47ef-ab85-449ca36b1b20
+
+	Name: OBJ_ArrowOfCelestialSlaying
+	Root Template: f516862d-5a05-426a-a8a1-1486b35b68f8
+
+	Name: OBJ_ArrowOfConstructSlaying
+	Root Template: 86a4dd98-80b1-4778-b498-e3a49b1dec37
+
+	Name: OBJ_ArrowOfDragonSlaying
+	Root Template: 437835b4-0d13-47b7-8aca-5da4f948783b
+
+	Name: OBJ_ArrowOfElementalSlaying
+	Root Template: 0d81014f-cc7f-4c79-9477-b8cda9738c72
+
+	Name: OBJ_ArrowOfFiendSlaying
+	Root Template: 04ba10a0-ca33-47e6-9810-0b7234700c4a
+
+	Name: OBJ_ArrowOfGiantSlaying
+	Root Template: a86bf6b2-2e75-4464-ad65-2bafa89e73aa
+
+	Name: OBJ_ArrowOfFeySlaying
+	Root Template: 21a2ef96-97ac-4372-95d7-676174610abc
+
+	Name: OBJ_ArrowOfHumanoidSlaying
+	Root Template: 3c2c6a61-e348-4222-9ba3-58a4d49d558c
+
+	Name: OBJ_ArrowOfMonstrositySlaying
+	Root Template: d7645507-6c0c-48ff-aa1b-57092d139f22
+
+	Name: OBJ_ArrowOfOozeSlaying
+	Root Template: 5931f0c7-ddd7-4e3b-aeef-64b0e7eefb70
+
+	Name: OBJ_ArrowOfPlantSlaying
+	Root Template: ab4ed528-cf26-417d-a751-981f7c83066f
+
+	Name: OBJ_ArrowOfUndeadSlaying
+	Root Template: ae58df6b-0fc9-48ff-9d36-52bf9bc22204
+
+	Name: _Wand
+
+	Name: OBJ_Wand
+
+	Name: TOOL_Wand_Fireballs
+
+	Name: OBJ_Tool_Tong
+	Root Template: 50d8cbfb-c98f-4013-8c67-53b3767a9bd9
+
+	Name: OBJ_Tool_Shovel
+	Root Template: 73efd1f7-5616-4ca8-84e6-6128aa6efaea
+
+	Name: OBJ_Tool_Shovel_Small
+
+	Name: OBJ_Tool_IdentifyingGlass
+	Root Template: a63fa775-bd30-4753-8c63-395aa5e9d03c
+
+	Name: OBJ_Tool_Shears
+	Root Template: 95830031-4150-4a57-ade7-f80bcd9b45e2
+
+	Name: _Kit
+
+	Name: OBJ_Kit_Disguise
+	Root Template: 8ec2a70b-32cc-4223-9c4e-fb845deb262d
+
+	Name: OBJ_Kit_Forgery
+	Root Template: 5114c34c-d779-46d9-ae98-d15a0ff0ac31
+
+	Name: OBJ_Kit_Poisoner
+	Root Template: 29ac515d-7c7f-4583-bc55-c8e88bc26980
+
+	Name: OBJ_Kit_ThievesTools
+	Root Template: e32a200c-5b63-414d-ae57-00e7b38f125b
+
+	Name: OBJ_Kit_TrapDisarm
+	Root Template: 22c74b5e-bef2-41b1-b9ed-f4acc766d4ee
+
+	Name: _Music
+
+	Name: OBJ_Music_Bagpipes
+	Root Template: 07883b2c-aec5-47bb-955d-512d0db9bd6f
+
+	Name: OBJ_Music_Drum_Big
+	Root Template: 868fa1ab-8044-4a82-9c2b-bf4ffb241536
+
+	Name: OBJ_Music_Drum_Sticks
+	Root Template: 51fff967-9d94-43f0-bdd3-0536446a66cc
+
+	Name: OBJ_Music_Dulcimer
+	Root Template: 297bc1f8-6e3d-437b-aeb3-afa7bda2cae4
+
+	Name: OBJ_Music_GuitarLute_Broken
+	Root Template: 79b74639-066c-4099-87de-30d435a78f3e
+
+	Name: OBJ_Music_Horn
+	Root Template: cc0e5642-fed1-425a-a997-20b94b2ff696
+
+	Name: OBJ_Music_PanFlute
+	Root Template: 9403dddc-a7f3-49c9-8fcc-02eb87ba2568
+
+	Name: OBJ_Music_Shawm
+	Root Template: 8cbd9eb5-4af2-431b-9044-725507cd0448
+
+	Name: OBJ_Music_Viol
+	Root Template: 5ec5cdf2-cbe3-42bb-b55b-bc6043c76469
+
+	Name: OBJ_Music_Viol_Bow
+	Root Template: ea4b444e-add2-4cac-a330-fc24047427cd
+
+	Name: _Puzzle
+
+	Name: MF_RestingDevice
+	Root Template: 40fbca32-5df3-480a-b0f0-d81214a0c170
+
+	Name: PUZ_Key
+
+	Name: QUEST_PortableHole
+	Root Template: 209445cc-3b30-45d8-8109-9885f3614d0d
+
+	Name: QUEST_Rope_Destructable
+
+	Name: OBJ_BoulderThrowable
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: OBJ_Destr_Wall_Stone
+	Root Template: f0b8705f-bc6f-44a2-b6f7-521f4524e179
+
+	Name: OBJ_Destr_Wall_Wood
+	Root Template: d374f147-8d09-4972-9261-b729d955b7d2
+
+	Name: OBJ_Destr_Support_Wood
+	Root Template: 96b6edfc-e1c7-4349-b3ac-ef3ca63440c2
+
+	Name: OBJ_Destr_Support_Wood_Fragile
+
+	Name: OBJ_Destr_Support_Wood_Strong
+
+	Name: OBJ_Destr_Support_Stone
+	Root Template: 92d84f39-5532-4649-a4b0-f4498b12cb34
+
+	Name: OBJ_GargoyleTurret
+
+	Name: OBJ_Mine
+
+	Name: OBJ_Gaspit
+
+	Name: OBJ_SpiderEgg
+	Root Template: 23a64aa6-922b-40c6-9c4d-1c7486df0fc8
+
+	Name: OBJ_MinorIllusion
+	Root Template: 63a52705-056b-4736-91ee-66b839de2afe
+
+	Name: OBJ_Lever_Action
+
+	Name: OBJ_Tripwire
+	Root Template: b8990625-9d03-4227-801b-95820488316a
+
+	Name: OBJ_PressurePlate
+
+	Name: OBJ_Mushroom_ToxicWall_Barrelstalk
+	Root Template: 5f096886-819e-42ec-83e2-1614ddc2a98c
+
+	Name: _Thrown
+
+	Name: OBJ_Barrel_Filled
+
+	Name: OBJ_Barrel_Filled_Alcohol
+	Root Template: 79050068-7ce3-43f9-a9a3-1646f5eb39c3
+
+	Name: OBJ_Barrel_Filled_Oil
+	Root Template: 72e3f454-5a68-4bb2-acef-7b8d595b5015
+
+	Name: OBJ_Barrel_Filled_Smokepowder
+	Root Template: 9c875b66-4024-487f-b67c-0c175538eb5c
+
+	Name: OBJ_ThrowingRock
+	Root Template: 27f77a61-a259-4fe2-9d7d-d94d2f0a5bee
+
+	Name: OBJ_THR_Boulder
+	Root Template: c57161c0-bb24-42f2-9961-6795bab5e469
+
+	Name: OBJ_THR_BrokenShipsPart
+	Root Template: 914f4753-7cb1-4849-9005-8abc0335ada2
+
+	Name: OBJ_THR_TreeTrunk
+	Root Template: b243af3d-6243-453f-90da-dbd8dc540f63
+
+	Name: OBJ_THR_BrokenColumn
+	Root Template: d2188460-9932-4cc1-b9af-628ad707a617
+
+	Name: OBJ_THR_Stoup
+	Root Template: e191f9ef-119d-4275-803d-01fe25d8620f
+
+	Name: OBJ_THR_Anvil
+	Root Template: 2bb3ae90-316a-476c-8af3-507940aa7467
+
+	Name: OBJ_THR_CauldronBoilingWater
+	Root Template: 42e887b5-a14f-431e-bdf9-ae1abe7ea58b
+
+	Name: OBJ_THR_BagRottenFood
+	Root Template: 0487c10f-02cb-4f9b-821e-4077340f10d7
+
+	Name: OBJ_THR_GiantSpiderEggSack
+	Root Template: a2206554-7a9f-49c0-a274-84279cc9afa4
+
+	Name: OBJ_THR_SpiderEggSack
+	Root Template: 93f8c64b-2d55-4784-aca5-077f75a7ee4d
+
+	Name: OBJ_THR_GruesomeBucket
+	Root Template: 264e3526-f09f-4538-b3a7-eb33dd1299f8
+
+	Name: OBJ_BibberbangMushroom
+	Root Template: ba629b1b-a058-4386-808f-bf1b08b2c0ad
+
+	Name: OBJ_TorchstalkMushroom
+	Root Template: eb573ec5-0af1-43da-87de-7fc130b365d7
+
+	Name: OBJ_TimmaskMushroom
+	Root Template: c71ea964-2ea5-4a3b-aa72-e67f7bf42daf
+
+	Name: _Platform
+
+	Name: OBJ_PLT_SpiderWeb
+
+	Name: OBJ_Platform_Wood_Medium
+
+	Name: _Supply
+
+	Name: OBJ_GenericSupply
+
+	Name: OBJ_Camp_Pack
+	Root Template: 398e7328-ce90-4c02-94a2-93341fac499a
+
+	Name: OBJ_Camp_Pack_Greater
+	Root Template: a24a2ca2-a213-424c-833d-47c79934c0ce
+
+	Name: _Dyes
+
+	Name: _Dye_Rare
+
+	Name: _Dye_VeryRare
+
+	Name: OBJ_Dye_Azure
+	Root Template: eedbd9cc-5072-47fd-90a6-36a24c435620
+
+	Name: OBJ_Dye_BlackBlue
+	Root Template: 02bb51c0-00e5-408c-8e11-8de7b9580c04
+
+	Name: OBJ_Dye_BlackGreen
+	Root Template: 81512e6c-dbe4-451c-b5cc-7268656444c1
+
+	Name: OBJ_Dye_BlackPink
+	Root Template: db4761b2-cce8-4d6d-86ec-5cf0924a5f4c
+
+	Name: OBJ_Dye_BlackRed
+	Root Template: bb108620-186f-4a00-b7de-af9329d5497b
+
+	Name: OBJ_Dye_BlackTeal
+	Root Template: 94ef7170-1c1d-489a-9c18-55209d864e3a
+
+	Name: OBJ_Dye_Blue
+	Root Template: a94ac1cd-96c9-4775-8dcd-c2b581bfeb50
+
+	Name: OBJ_Dye_BlueGreen
+	Root Template: b702ddc5-f4fc-4976-adc4-18a8ddaab8d5
+
+	Name: OBJ_Dye_BluePurple
+	Root Template: 83cde47b-9e15-4ea5-98f4-4efd9ce93861
+
+	Name: OBJ_Dye_BlueYellow
+	Root Template: a4c2594e-33a6-49b2-ab6f-e992a3e0257e
+
+	Name: OBJ_Dye_BlueYellow_02
+	Root Template: 1dec170b-101f-457b-b22d-8d38c45168c7
+
+	Name: OBJ_Dye_Golden
+	Root Template: 09e48b43-f567-4acc-b98d-0c86c1396084
+
+	Name: OBJ_Dye_Green
+	Root Template: e6f417bd-9d84-416f-8c96-5a6917977b77
+
+	Name: OBJ_Dye_Green_02
+	Root Template: ea46200e-001b-45a1-b1d9-20920e747ba2
+
+	Name: OBJ_Dye_GreenSage
+	Root Template: ad60be55-7a95-4dcb-ae55-908a97f9955a
+
+	Name: OBJ_Dye_GreenSwamp
+	Root Template: a13f6fad-bca8-40c0-b5b1-592832c73050
+
+	Name: OBJ_Dye_GreenPink
+	Root Template: 78f41a7b-4742-419d-a0ac-b9a90a9e198e
+
+	Name: OBJ_Dye_IceCream
+	Root Template: 23899dcd-8f27-4144-b29d-ae61eaacd8c3
+
+	Name: OBJ_Dye_IceCream_02
+	Root Template: 0e339e21-df58-4e46-a263-e91d4ed19dc9
+
+	Name: OBJ_Dye_IceCream_03
+	Root Template: 2cd56a6a-35bb-417c-9eb6-d78bbe73d3cc
+
+	Name: OBJ_Dye_IceCream_04
+	Root Template: 43da55c8-55b7-41c6-9a44-3dd6843875f8
+
+	Name: OBJ_Dye_Maroon
+	Root Template: 10e79bfb-c448-4af4-a153-bf3d19f83c62
+
+	Name: OBJ_Dye_Ocean
+	Root Template: 54cd5913-5226-4143-9186-6c1a8499de1c
+
+	Name: OBJ_Dye_Orange
+	Root Template: 1bb2ba7b-1ac3-4c2e-bcd3-85886d294204
+
+	Name: OBJ_Dye_OrangeBlue
+	Root Template: 84f7b0a1-8840-47a1-a27a-1ac79e383520
+
+	Name: OBJ_Dye_Pink
+	Root Template: 48a27277-7c18-49fe-9124-899919e162bc
+
+	Name: OBJ_Dye_Purple
+	Root Template: 808cd643-ac73-415c-8ed8-0a81b8b71dd8
+
+	Name: OBJ_Dye_Purple_02
+	Root Template: fecebc29-385d-4bef-a18a-79705fb0ecf3
+
+	Name: OBJ_Dye_Purple_03
+	Root Template: 5adba582-b552-4850-9be9-c6e28f656675
+
+	Name: OBJ_Dye_Purple_04
+	Root Template: 7ac1bb07-e494-42d2-bb8d-6bf9e553a52a
+
+	Name: OBJ_Dye_PurpleRed
+	Root Template: 2292d37f-7cb2-4458-83c6-1f2e48ffa23e
+
+	Name: OBJ_Dye_Red
+	Root Template: 809f228e-8d2b-46b8-8a33-51181505bc61
+
+	Name: OBJ_Dye_RedBrown
+	Root Template: 6904ea3d-89b6-4db7-a0bc-d890423e9312
+
+	Name: OBJ_Dye_RedWhite
+	Root Template: f42e3c96-e622-4d3a-97da-ce5a939feb3c
+
+	Name: OBJ_Dye_RichRed
+	Root Template: 51cd678b-6a27-490d-b4d1-17cc89a32e40
+
+	Name: OBJ_Dye_RoyalBlue
+	Root Template: 17f6e66e-1c23-41d2-9370-3bd9a5a90b4a
+
+	Name: OBJ_Dye_Teal
+	Root Template: 6d90deb8-8df3-4a6f-b31f-f13cf2eb68f9
+
+	Name: OBJ_Dye_WhiteBlack
+	Root Template: ffdb4490-cbaf-4eac-97f8-893564d7ead9
+
+	Name: OBJ_Dye_WhiteBrown
+	Root Template: 3336e3a5-0be1-407d-9c37-01536bb2e6c5
+
+	Name: OBJ_Dye_WhiteRed
+	Root Template: 1d0d3883-6196-4ccd-8a49-8e4fb84f6c6b
+
+	Name: OBJ_Dye_Remover
+	Root Template: 19c7bbb1-29f5-4ec9-a72c-74a73318f8da
+
+	Name: OBJ_Soap
+	Root Template: d32a68ff-3b6a-4d83-b0c4-0a2c44b93ea9
+
+	Name: OBJ_Sponge
+	Root Template: 172603c6-0ee4-40f4-9f60-2727e44544d3
+
+	Name: OBJ_Sponge_Bucket
+	Root Template: 8e11fada-192f-4042-8c84-dc7b78f32541
+
+
+Shared\Public\SharedDev\Stats\Generated\Data	Total Objects: 261
+	Name: OBJ_Bomb_Orthon
+	Root Template: 29d32b36-390f-4fe8-b27b-931393d76c2a
+
+	Name: OBJ_InfernalPlate
+	Root Template: 6242490e-42c9-49f0-bc3b-4e7ec11c0fe7
+
+	Name: OBJ_InfernalPlate_B
+	Root Template: 4a1dec56-1b6d-4faa-8bfb-719a0efd3f9e
+
+	Name: OBJ_InfernalPlate_C
+	Root Template: 0f47473f-aa2e-46da-9529-f0f3868b77af
+
+	Name: OBJ_GithyankiEgg
+	Root Template: 44c954ba-6fda-46fd-9606-57419f4a82ba
+
+	Name: OBJ_Potion_Gaseous_Form
+	Root Template: 0138e3a4-4576-45a8-8592-85fa9adaee59
+
+	Name: OBJ_FreezingSphere
+	Root Template: e4478067-bd82-4586-a68f-e03a087a494c
+
+	Name: OBJ_TransmuterStone_Constitution
+	Root Template: 5e6c5da3-43cc-4502-8e29-99a51fe7f661
+
+	Name: OBJ_TransmuterStone_Darkness
+	Root Template: 4b3afc03-01f2-43b6-88f8-bd22af6533d8
+
+	Name: OBJ_TransmuterStone_MovementSpeed
+	Root Template: 9cb9fb55-772a-4df1-bf8b-5b6d81d67baa
+
+	Name: OBJ_TransmuterStone_Acid
+	Root Template: dfc6b155-c3e1-4610-b412-f6ffecb14ebd
+
+	Name: OBJ_TransmuterStone_Cold
+
+	Name: OBJ_TransmuterStone_Fire
+
+	Name: OBJ_TransmuterStone_Lightning
+
+	Name: OBJ_TransmuterStone_Thunder
+
+	Name: OBJ_ParalysisPotion
+	Root Template: a5d93495-c01c-4dd4-928c-3793f620121f
+
+	Name: OBJ_Scroll_DispelMagic
+	Root Template: bc5c0bcf-144f-46ed-bcde-e6bd1225efb9
+
+	Name: OBJ_Scroll_ArcaneEye
+	Root Template: 5314d1eb-5771-47b5-80a7-2ee093ef4618
+
+	Name: OBJ_Scroll_ArcaneLock
+	Root Template: 05da1a09-2d22-4299-b4a0-c4538a91f91c
+
+	Name: OBJ_Scroll_BlackTentacles
+	Root Template: e9fae419-8c7a-4d5d-950f-94675a2aff07
+
+	Name: OBJ_Scroll_Banishment
+	Root Template: 82719943-71e0-4eb2-bc4f-c8c0dd02c47c
+
+	Name: OBJ_Scroll_Blight
+	Root Template: e0ee9263-3740-44fe-80da-4315cb836aef
+
+	Name: OBJ_Scroll_Blink
+	Root Template: d3800e05-635f-47b3-80b1-1a7c4161cf89
+
+	Name: OBJ_Scroll_ChainLightning
+	Root Template: 13105f7d-55fa-4292-abfe-b9d80054b48e
+
+	Name: OBJ_Scroll_CircleOfDeath
+	Root Template: ad31110a-aa9a-4427-925a-9952bfbef45a
+
+	Name: OBJ_Scroll_Cloudkill
+	Root Template: 0e793d2d-1cd7-4b90-a71b-821423e50969
+
+	Name: OBJ_Scroll_ConeOfCold
+	Root Template: e81e7b31-8e7a-4fc1-977d-9a9a58fdd4a0
+
+	Name: OBJ_Scroll_Confusion
+	Root Template: 7634cc33-d16b-4640-ba7c-8c6a26653591
+
+	Name: OBJ_Scroll_ConjureElemental
+	Root Template: c0e92dfa-29cf-46e8-8b35-8bded679df64
+
+	Name: OBJ_Scroll_ConjureMinorElemental
+	Root Template: a30864e5-06f0-4d14-9ea4-cb6870c0ddfe
+
+	Name: OBJ_Scroll_Counterspell
+	Root Template: 17f828a4-5684-42dd-9f08-ff99ba43358a
+
+	Name: OBJ_Scroll_DimensionDoor
+	Root Template: 75452ba5-5758-417c-b661-8832eb64df66
+
+	Name: OBJ_Scroll_Disintegrate
+	Root Template: 3f737706-57ca-45e6-b0d1-45238da76329
+
+	Name: OBJ_Scroll_DominatePerson
+	Root Template: 3b447e07-3e73-4906-9f7e-63a87e2da909
+
+	Name: OBJ_Scroll_Enlarge
+	Root Template: 7c4c3ae1-26ac-4765-a5d5-586976e0e458
+
+	Name: OBJ_Scroll_Eyebite
+	Root Template: cecb1802-b2c0-4d65-aa08-aa15ca3619eb
+
+	Name: OBJ_Scrolls_FindFamiliar
+	Root Template: fb975b01-40d5-49a3-b60a-d2f13a1f8009
+
+	Name: OBJ_Scroll_FireShield_Chill
+	Root Template: 5d2e1c40-e85e-4027-aefe-b9731a2de2c9
+
+	Name: OBJ_Scroll_FireShield_Warm
+	Root Template: 6b87f7b4-441c-41cf-92c3-29e258747454
+
+	Name: OBJ_Scroll_FleshToStone
+	Root Template: a9135751-3a8a-4070-9f3a-11d24d123a3f
+
+	Name: OBJ_Scroll_FreezingSphere
+	Root Template: 74d0e4f0-de97-4097-a7e7-f5759a375c81
+
+	Name: OBJ_Scroll_GlobeOfInvulnerability
+	Root Template: 8d4c06d1-e504-49b0-a4fa-5179ab717f1e
+
+	Name: OBJ_Scroll_HoldMonster
+	Root Template: d621c19f-d5c8-433c-bc75-7f2eb87d2f0a
+
+	Name: OBJ_Scroll_IceKnife
+	Root Template: f26320fa-9a25-4f79-80fc-e356268cf474
+
+	Name: OBJ_Scroll_IceStorm
+	Root Template: e8c3ad4e-37f0-46c8-bf25-0ddc2dcb0139
+
+	Name: OBJ_Scroll_Invisibility_Greater
+	Root Template: 795e4282-27c3-4177-b532-9e6559a26531
+
+	Name: OBJ_Scroll_IrresistibleDance
+	Root Template: 3c8db4fb-c10b-415d-b9cd-c3254265b778
+
+	Name: OBJ_Scroll_LightningBolt
+	Root Template: 83600284-8f78-409f-a0e0-d262b2bdea64
+
+	Name: OBJ_Scroll_MagicWeapon
+	Root Template: ccf1bd99-e807-44e6-9a0a-7645ad533a8f
+
+	Name: OBJ_Scroll_PhantasmalKiller
+	Root Template: 3b802734-ad6e-45a4-988b-f7241636e5e9
+
+	Name: OBJ_Scroll_PlanarBinding
+	Root Template: 6ac3b9ab-fdb4-47e8-8a35-91747de2afc8
+
+	Name: OBJ_Scroll_Polymorph
+	Root Template: 389da9ab-bee7-447c-9bed-f1021ddc94d4
+
+	Name: OBJ_Scroll_ResilientSphere
+	Root Template: f5bf39c0-2df3-4cd4-842c-c1862e6f80aa
+
+	Name: OBJ_Scroll_SeeInvisibility
+	Root Template: 2e7fc397-cb84-4573-b6c7-1c7a8f2742d6
+
+	Name: OBJ_Scroll_Seeming
+	Root Template: d2573c9b-6de2-45bd-8032-b8a59432f4b5
+
+	Name: OBJ_Scroll_Slow
+	Root Template: 4c990ca3-01f6-4536-b8f3-c26cd9a0ca8b
+
+	Name: OBJ_Scroll_Stoneskin
+	Root Template: 7f39977f-bcab-4dda-933f-bd70cb333ecc
+
+	Name: OBJ_Scroll_Sunbeam
+	Root Template: 049d70c4-7ea3-4b6c-af6f-44dab7813a89
+
+	Name: OBJ_Scroll_Telekinesis
+	Root Template: 1d5ecaca-310b-4622-b302-81331c0a8e9e
+
+	Name: OBJ_Scroll_WallOfFire
+	Root Template: 0f3c7369-d0bd-4b97-960d-1407f4c8eebf
+
+	Name: OBJ_Scroll_WallOfIce
+	Root Template: e7dc56bc-b169-4a46-b8ee-cc6474dd7b15
+
+	Name: OBJ_Scroll_WallOfStone
+	Root Template: d13587f4-a1f4-4833-bd1e-da1c7951d680
+
+	Name: OBJ_BrinePotion
+	Root Template: 4daa7042-1af6-443c-aec2-4a541b7999a5
+
+	Name: OBJ_TadpolePowerJar
+	Root Template: 1ec327be-3b7f-4502-9586-860e057e09ae
+
+	Name: OBJ_TadpolePowerJar_Absolute
+	Root Template: d1f2b294-fdf8-43df-8d11-19743077cb68
+
+	Name: OBJ_Monk_Ice_Cube
+	Root Template: 408559c5-ac6c-4fab-b629-7fd6e52e108a
+
+	Name: OBJ_Wall_Of_Ice
+	Root Template: 422a3edf-b102-49fe-85cf-97e6e64a632a
+
+	Name: OBJ_Wall_Of_Stone
+	Root Template: d13587f4-a1f4-4833-bd1e-da1c7951d680
+
+	Name: OBJ_Wall_Of_Thorn
+
+	Name: BASE_ALCH_Ingredient
+	Root Template: 647f8ef2-784f-4a39-82bc-8a4425ecc075
+
+	Name: _Alchemy_Type1
+
+	Name: _Alchemy_Type2
+
+	Name: _Alchemy_Type3
+
+	Name: _Alchemy_Type4
+
+	Name: _Alchemy_Type5
+
+	Name: _Alchemy_Type6
+
+	Name: _Alchemy_Herbs
+
+	Name: CONS_Herbs_Autumncrocus
+	Root Template: 06f3a0c4-af50-4a79-8c1a-1ace6d1282f2
+
+	Name: CONS_Herbs_Balsam
+	Root Template: fb318355-d2d9-48c5-8ef1-d0e574cef0d5
+
+	Name: CONS_Herbs_Belladonna
+	Root Template: 897f5ff9-d889-4b78-a1d7-afa88ccaadb3
+
+	Name: CONS_Herbs_Daggeroot
+	Root Template: 12126dc3-50ce-48cd-836f-c4d769a85134
+
+	Name: CONS_Herbs_Mergrass
+	Root Template: 0a494c98-84c0-4055-8208-0e363bd53ed3
+
+	Name: CONS_Herbs_Mugwort
+	Root Template: a0776643-f25b-4aef-a025-bff959d8dd0f
+
+	Name: CONS_Herbs_Weavemoss
+	Root Template: 0a64fa93-9123-4810-a656-2c8b27c87563
+
+	Name: CONS_Herbs_Wispweed
+	Root Template: 4faa8cef-27ee-4085-aa90-78fcf8e2e72d
+
+	Name: _Alchemy_Mushrooms
+
+	Name: CONS_Mushrooms_Bonecap
+	Root Template: e9f6d6d3-bd95-414d-903a-b697bb222ae7
+
+	Name: CONS_Mushrooms_BullywugTrumpet
+	Root Template: 4c7df0ef-2262-472f-af6e-9289a78cf371
+
+	Name: CONS_Mushrooms_DragonEggMushroom
+	Root Template: 19c9becf-ab0e-4e2f-9253-12456ff9b465
+
+	Name: CONS_Mushrooms_RoguesMorsel
+	Root Template: a09f8033-f5d8-44de-97ad-09499d967989
+
+	Name: CONS_Mushrooms_Nightlight_Piece
+	Root Template: 7a164775-4a77-47a4-a8b2-5bd5bdc311cf
+
+	Name: CONS_Mushrooms_SilvanTruffle
+	Root Template: 1e6070d3-74e5-4c42-933a-2f151e6b5a0f
+
+	Name: CONS_Mushrooms_SwarmingToadstool
+	Root Template: 0180607d-dbf8-48e6-98d9-89e67aa9f13a
+
+	Name: CONS_SporeSac_Haste
+	Root Template: b51dc995-a1c9-42bd-bb0c-3c420d1a8f41
+
+	Name: CONS_SporeSac_Pacify
+	Root Template: 536ed114-9bac-43f1-90a8-a12345d65747
+
+	Name: CONS_Mushrooms_SporeTimmask
+	Root Template: 8e2dd06c-c62f-4235-b0f8-f353c6b1ec9d
+
+	Name: CONS_Mushrooms_TongueOfMadness
+	Root Template: 714a8375-9eb4-438d-a191-f5b4b1e86cc3
+
+	Name: LOOT_Underdark_HookHorrorClaw
+	Root Template: 38808280-6ae5-4d99-b3c5-6381633df693
+
+	Name: _Alchemy_Mineral
+
+	Name: OBJ_Crystal_ChasmCreeper
+	Root Template: b964697f-1f1d-48d5-8772-d5edfdd0ed39
+
+	Name: OBJ_Crystal_SylvanStone
+	Root Template: 1524e46d-179d-4785-99ce-f515e1c52e32
+
+	Name: OBJ_Crystal_Laculite
+	Root Template: 7483130a-0b77-499e-be31-487811203af1
+
+	Name: OBJ_Crystal_LolthsCandle
+	Root Template: 6f023cc2-467c-4931-90af-ba0c3f751eee
+
+	Name: OBJ_Crystal_Viridian
+	Root Template: 8037a20b-a2bf-41c9-b509-bb6b455c778c
+
+	Name: OBJ_Crystal_PurpleFluorite_Shard
+	Root Template: fef1900a-402c-455f-8c63-87bdaedac6d7
+
+	Name: RWC_DomeOfProtection
+
+	Name: SCL_Distillery_PurpleWormPoisonIngredient
+	Root Template: 61edb466-ed1c-4225-aed6-ebeae9c19247
+
+	Name: ALCH_Ingredient_Herb_BlackOleander
+	Root Template: bc79fef0-6e8d-4703-9ed6-caa9abda3212
+
+	Name: ALCH_Ingredient_Herb_NightOrchid
+	Root Template: 11f6de17-4682-419c-808f-8a328d2cce15
+
+	Name: ALCH_Ingredient_Loot_BehirScales
+	Root Template: 0970e30e-f26a-4050-9f48-13923163d7b9
+
+	Name: ALCH_Ingredient_Loot_BeholderEye
+	Root Template: 74e9637a-ed03-4072-897c-7539786340e3
+
+	Name: ALCH_Ingredient_Loot_CloudGiantFinger
+	Root Template: c9f4a4f1-7d4e-4958-bc7a-bd7d5dfbd161
+
+	Name: ALCH_Ingredient_Loot_CarrionCrawler
+	Root Template: 79959650-9482-422a-b25b-c5830118612d
+
+	Name: ALCH_Ingredient_Loot_DivineBoneShard
+	Root Template: 8f7f7240-0218-4aa9-b849-bc2f57e21b5e
+
+	Name: ALCH_Ingredient_Loot_FireAmber
+	Root Template: 001f36eb-a95b-455c-9fb7-ed6ae5f071b8
+
+	Name: ALCH_Ingredient_Loot_FrostSalamander
+	Root Template: 25940d8a-110b-4f0e-82df-af8c6b15fb34
+
+	Name: ALCH_Ingredient_Loot_GauthEye
+	Root Template: a9297f74-af38-4442-8702-8cbb9af6af72
+
+	Name: ALCH_Ingredient_Loot_HillGiantFinger
+	Root Template: f4ed5a49-9b95-4e99-b58e-a0a85bf1fc2d
+
+	Name: ALCH_Ingredient_Loot_KiRinHair
+	Root Template: d8ecc728-bfd9-401d-9dcd-ac87ea3b7e0e
+
+	Name: ALCH_Ingredient_Loot_Nothic
+	Root Template: d166bccb-5613-40e4-b611-c350b7e129c5
+
+	Name: ALCH_Ingredient_Loot_PegasusFeather
+	Root Template: afba7d49-658a-4f8b-89e0-8795292868a7
+
+	Name: ALCH_Ingredient_Loot_PlanetarFeather
+	Root Template: ee2faf6e-2af2-4eb9-aee4-94aedab7e81b
+
+	Name: ALCH_Ingredient_Loot_PurpleWorm
+	Root Template: 6f41c4eb-ce25-47f9-8702-ae81a3da7cb8
+
+	Name: ALCH_Ingredient_Loot_SnakeFang
+	Root Template: cc01a1b5-f43e-425d-9a7b-b929ed5faf53
+
+	Name: ALCH_Ingredient_Loot_UnicornHorn
+	Root Template: 62b7589c-3daf-4141-bbec-6c17b7f427d9
+
+	Name: ALCH_Ingredient_Loot_WyvernStinger
+	Root Template: a8231611-b876-4ef8-8166-12680f014349
+
+	Name: ALCH_Ingredient_Loot_XornScales
+	Root Template: 7a8e6286-82f8-47f8-a576-b91996542a39
+
+	Name: ALCH_Ingredient_Loot_YellowMuskCreeper
+	Root Template: 87d2b517-1777-4bee-96be-f79ba52edfcc
+
+	Name: ALCH_Ingredient_Mushroom_ShadowrootSac
+	Root Template: 44eaf801-ed52-4322-ae70-31258dd93c82
+
+	Name: ALCH_Ingredient_Part_EagleFeather
+	Root Template: 31a1344c-0e53-4738-a338-477a33405115
+
+	Name: ALCH_Ingredient_Part_GremishkaTail
+	Root Template: d78bb918-7cd2-4507-ab0d-e1b817f4bc4c
+
+	Name: ALCH_Ingredient_Part_HyenaEar
+	Root Template: b899c719-a20e-43d9-8512-30298717e52d
+
+	Name: ALCH_Ingredient_Part_IceMephitHeart
+	Root Template: 95119b16-2001-4f9e-9cd6-5e422e8b73c6
+
+	Name: ALCH_Ingredient_Part_ImpPatagium
+	Root Template: 0fc46120-a4fa-4787-8c70-5fdcd2308690
+
+	Name: ALCH_Ingredient_Part_IntellectDevourer
+	Root Template: 81e32e6d-35f5-4595-bcc8-b7192ef02868
+
+	Name: ALCH_Ingredient_Part_MagmaMephitHeart
+	Root Template: 876b106b-57f3-4d9f-9859-e3d840e922bd
+
+	Name: ALCH_Ingredient_Part_MudMephitWing
+	Root Template: 663fb1db-da77-41ab-baa9-312a78b198b8
+
+	Name: ALCH_Ingredient_Part_MyconidSpore_Haste
+	Root Template: 7860b790-b34f-4569-9da7-d8657e60551e
+
+	Name: ALCH_Ingredient_Part_MyconidSpore_Poison
+	Root Template: e9d39b0d-bcd6-4b5b-9d54-c68b3b650b54
+
+	Name: ALCH_Ingredient_Part_OchreJellySlime
+	Root Template: 540e8376-f6ac-4261-a920-f288abf176e1
+
+	Name: ALCH_Ingredient_Part_ScryingEye
+	Root Template: 63a8a0ba-82fe-4f5d-9224-1330dd15c042
+
+	Name: ALCH_Ingredient_Part_Shadowcursed
+	Root Template: b7cf1a87-b128-4282-ba38-eb884875d725
+
+	Name: ALCH_Ingredient_Part_SpiderGland
+	Root Template: 1db12e7c-e88b-4151-af11-4e2010ef319d
+
+	Name: ALCH_Ingredient_Part_WoodBark
+	Root Template: 2daaea29-7606-4f81-8d83-7285a2948bb1
+
+	Name: ALCH_Ingredient_Part_WorgFang
+	Root Template: 247e7543-f8e6-477e-af66-550996e9131f
+
+	Name: BASE_ALCH_Extract
+	Root Template: 00000000-0000-0000-0000-000000000000
+
+	Name: BASE_ALCH_Extract_Air
+	Root Template: 8b8010ad-6b25-4cda-8900-cf3e00805626
+
+	Name: BASE_ALCH_Extract_Earth
+	Root Template: 497effc5-d8d9-4c6c-afea-7accc889b1b4
+
+	Name: BASE_ALCH_Extract_Fey
+	Root Template: 261a1755-0688-492c-a272-21b0842c9a69
+
+	Name: BASE_ALCH_Extract_Fire
+	Root Template: a3ada9c2-8e98-4fd2-8953-a47b0dd9a9fa
+
+	Name: BASE_ALCH_Extract_Shadow
+	Root Template: 5a02b765-c414-43da-a88c-e1453b6c2e4b
+
+	Name: BASE_ALCH_Extract_Water
+	Root Template: 3c54906f-cc2c-49e5-a9a3-64204688f872
+
+	Name: ALCH_Extract_AcornTruffle
+	Root Template: 69e2d2d1-3617-4f8b-8c40-3eb0ad71f521
+
+	Name: ALCH_Extract_AutumnCrocus
+	Root Template: 9a35caa4-86f4-4542-b46d-9550e815618d
+
+	Name: ALCH_Extract_Balsam
+	Root Template: a31d379e-b7fa-4d2b-bf16-80347e9f4a23
+
+	Name: ALCH_Extract_BehirScales
+	Root Template: f3f194fc-7a13-4e01-89fd-cf1cafb17297
+
+	Name: ALCH_Extract_BeholderEye
+	Root Template: a9ef5d89-a2e0-49b4-b9ab-8a3b75e85a45
+
+	Name: ALCH_Extract_Belladonna
+	Root Template: ec632c57-bc8a-4f01-940b-b985adc58336
+
+	Name: ALCH_Extract_BlackOleander
+	Root Template: 60dcc511-946e-4bc0-9127-ac7fefab7df2
+
+	Name: ALCH_Extract_Bonecap
+	Root Template: a9023a22-3d82-414a-aefc-e29fc5ca9f67
+
+	Name: ALCH_Extract_BullywugTrumpet
+	Root Template: c838bd3d-9943-44dc-8903-35d30ae6e385
+
+	Name: ALCH_Extract_CarrionCrawler
+	Root Template: 6f7be25a-a0eb-4b98-81e6-56f35c25b2c1
+
+	Name: ALCH_Extract_ChasmCreeper
+	Root Template: 8fc068d8-7a56-42a6-8a48-91f0b9fbf303
+
+	Name: ALCH_Extract_CloudGiantFinger
+	Root Template: 9047c28f-7eee-4268-94e0-9144a4864175
+
+	Name: ALCH_Extract_ConstructPart
+	Root Template: ea8bc956-7834-4618-af70-0ea0c8f9ea37
+
+	Name: ALCH_Extract_CorpseRose
+	Root Template: a2f0c692-183f-42dd-8ee5-545f18820a7e
+
+	Name: ALCH_Extract_Daggeroot
+	Root Template: fc04bc03-be3e-4cdb-901a-f6d33a537967
+
+	Name: ALCH_Extract_DivineBoneShard
+	Root Template: b651dd4e-121f-4cb1-9bb0-975e07ab7df1
+
+	Name: ALCH_Extract_DragonEggMushroom
+	Root Template: ea7e0cc0-fe51-43b0-ba8b-4d955ec58941
+
+	Name: ALCH_Extract_EagleFeather
+	Root Template: 8d1080b3-e1d8-4c71-9dfb-459c4600fef5
+
+	Name: ALCH_Extract_FireAmber
+	Root Template: 290c1dbc-08e8-45dc-bfb0-f45dc5bb87e2
+
+	Name: ALCH_Extract_FrostSalamander
+	Root Template: b00e1d1b-4421-4711-8de3-6ef15d0117b5
+
+	Name: ALCH_Extract_GauthEye
+	Root Template: 5f98a738-6249-418f-b50a-e478477962a0
+
+	Name: ALCH_Extract_GremishkaTail
+	Root Template: 75f47914-f32c-4845-876d-e152ddfc3014
+
+	Name: ALCH_Extract_HillGiantFinger
+	Root Template: a1e2a4f8-7af0-4379-a2c2-f0ab5ee84b05
+
+	Name: ALCH_Extract_HookHorrorClaw
+	Root Template: c5e1a9c9-a691-494b-ae3d-d290198b3f6d
+
+	Name: ALCH_Extract_HyenaEar
+	Root Template: eb9ac491-ef6b-4163-9819-b91d11a7d6f2
+
+	Name: ALCH_Extract_IceMephitHeart
+	Root Template: e922193d-916c-4f70-9ec6-15e29e6f5314
+
+	Name: ALCH_Extract_ImpPatagium
+	Root Template: 3bb0fa56-00e5-4a22-b6d5-641d7fd811d3
+
+	Name: ALCH_Extract_IntellectDevourer
+	Root Template: 10db3d0b-b798-471f-81b6-58395adff3fa
+
+	Name: ALCH_Extract_KiRinHair
+	Root Template: 4ee2434e-ca76-4e96-926b-49f7a20004c3
+
+	Name: ALCH_Extract_Laculite
+	Root Template: bde5ba94-db83-4855-adcb-ba585416d37f
+
+	Name: ALCH_Extract_LolthsCandle
+	Root Template: b342d1bf-2c36-40e4-bd29-1d5b7fb25c5a
+
+	Name: ALCH_Extract_MagmaMephitHeart
+	Root Template: e30f5da5-3195-4105-84de-4054f48e2ec2
+
+	Name: ALCH_Extract_Mergrass
+	Root Template: d08620da-0fa0-413a-88e7-631f901c568e
+
+	Name: ALCH_Extract_MudMephitWing
+	Root Template: 081204a7-83e3-4d8d-8609-cb70008d8736
+
+	Name: ALCH_Extract_Mugwort
+	Root Template: b707f039-af1d-456d-a606-1604f1d776c1
+
+	Name: ALCH_Extract_MyconidSpore_Confusion
+	Root Template: 2ebad980-402d-4178-84dd-e41bb10155ce
+
+	Name: ALCH_Extract_MyconidSpore_Haste
+	Root Template: 824f8096-3bcd-4c2e-aff7-3aa07c396ae1
+
+	Name: ALCH_Extract_MyconidSpore_Poison
+	Root Template: 921111eb-7ae5-466f-b9ff-4ad66ffcc2d6
+
+	Name: ALCH_Extract_Nightlight
+	Root Template: 83b2f9b8-9f69-41c3-a2b8-d3b34fea9f33
+
+	Name: ALCH_Extract_NightOrchid
+	Root Template: 4416dcc3-c469-4e59-90db-ba9a3ac05846
+
+	Name: ALCH_Extract_NothicEye
+	Root Template: b2730900-61b4-4ffe-9fbe-c77f128d7f17
+
+	Name: ALCH_Extract_OchreJellySlime
+	Root Template: d0886ef5-a9a3-4e2a-af6c-753f757dce6a
+
+	Name: ALCH_Extract_PegasusFeather
+	Root Template: a85d14c0-7144-49bd-8664-b24ba4ef0fff
+
+	Name: ALCH_Extract_PlanetarFeather
+	Root Template: 36e1bfca-e983-458c-8eb7-597af32f7644
+
+	Name: ALCH_Extract_PurpleWorm
+	Root Template: 73b78376-2690-4f14-bc68-e1f52a9004b1
+
+	Name: ALCH_Extract_RoguesMorsel
+	Root Template: d85f7014-8063-4eaa-a904-f51cbf59cff6
+
+	Name: ALCH_Extract_ScryingEye
+	Root Template: 8994ae94-f6a4-479f-9dbd-75b6913a3a0e
+
+	Name: ALCH_Extract_Shadowcursed
+	Root Template: a602b074-9743-4ef8-b9ed-e8ba9aa68949
+
+	Name: ALCH_Extract_ShadowrootSac
+	Root Template: a6015724-3ee4-4398-b157-a33b1024a7d4
+
+	Name: ALCH_Extract_SpiderGland
+	Root Template: 1d4227ab-0f38-48fe-bee0-e15b0118fc55
+
+	Name: ALCH_Extract_SnakeFang
+	Root Template: 09bf68c6-db55-4405-b6dd-ba2d9a38e1ca
+
+	Name: ALCH_Extract_SwarmingToadstool
+	Root Template: 8f392687-af6e-491d-891f-0c3e6627a7c5
+
+	Name: ALCH_Extract_SylvanStone
+	Root Template: c335c7b7-7495-48ec-b1cb-b2218e1dc6f3
+
+	Name: ALCH_Extract_TongueOfMadness
+	Root Template: 50b5475a-7f63-45d5-8158-6cdc8c6de31c
+
+	Name: ALCH_Extract_UnicornHorn
+	Root Template: cecf2e17-8922-45b7-8841-f49415b9a688
+
+	Name: ALCH_Extract_ViridianCrystal
+	Root Template: 79eba88f-c3a8-481a-84e3-304354b6725c
+
+	Name: ALCH_Extract_Weavemoss
+	Root Template: 8d9e5180-6120-45a5-a464-7b9a461a4343
+
+	Name: ALCH_Extract_Wispweed
+	Root Template: 95356040-914c-4efa-8e5c-6555ce56db50
+
+	Name: ALCH_Extract_WoodBark
+	Root Template: 19d0c788-596c-4893-ac4a-bd609ed69753
+
+	Name: ALCH_Extract_WorgFang
+	Root Template: 314a234e-549d-41c0-992a-5a3765215eec
+
+	Name: ALCH_Extract_WyvernStinger
+	Root Template: 13aa0c56-538e-4a7c-a4d1-115e2704a274
+
+	Name: ALCH_Extract_XornScales
+	Root Template: 36e2ac7a-5799-4949-8cc6-0d9ea1818dbe
+
+	Name: ALCH_Extract_YellowMuskCreeper
+	Root Template: fdf1889d-ae81-43a9-8848-74c6edea2b37
+
+	Name: ALCH_Solution_Elixir_Alertness
+	Root Template: 17066367-7b64-402e-951d-9dcc1407c278
+
+	Name: ALCH_Solution_Elixir_ArcaneAcuity
+	Root Template: 7d1699d9-c3fa-4761-9718-28230f78420b
+
+	Name: ALCH_Solution_Elixir_Bloodlust
+	Root Template: 45a775f8-2cf9-440d-b9eb-4ee5f17efca8
+
+	Name: ALCH_Solution_Elixir_Barkskin
+	Root Template: cc1a8802-675a-426b-a791-ec1d5a5b6328
+
+	Name: ALCH_Solution_Elixir_Concentration
+	Root Template: 45cdcf69-bfd2-4311-a883-3f3631ab3959
+
+	Name: ALCH_Solution_Elixir_Criticals
+	Root Template: 44cd95a7-4791-4ace-bea0-a5ca4421171b
+
+	Name: ALCH_Solution_Elixir_Darkvision
+	Root Template: 0f2ccca6-3ce8-4271-aec0-820f6581c551
+
+	Name: ALCH_Solution_Elixir_Enlarge
+	Root Template: 0aacb1f9-116a-45ec-9b0c-cb436301d4b2
+
+	Name: ALCH_Solution_Elixir_Freedom
+	Root Template: b8a2f9e4-3b5e-4418-af05-5ca3cd40dd71
+
+	Name: ALCH_Solution_Elixir_Meditation
+	Root Template: 6f328fc5-6f54-4aad-959d-0825290a2763
+
+	Name: ALCH_Solution_Elixir_Meditation_Greater
+	Root Template: 8c7656f5-507a-4cee-8e15-320c968539f0
+
+	Name: ALCH_Solution_Elixir_Meditation_Superior
+	Root Template: fb16d5a8-866f-4c17-9591-0df1372b49c9
+
+	Name: ALCH_Solution_Elixir_Meditation_Supreme
+	Root Template: 4f17f210-9cde-4dad-80b5-fc4f9ddb1e1f
+
+	Name: ALCH_Solution_Elixir_SeeInvisible
+	Root Template: d106106a-3905-4acb-a24a-764940b61d9c
+
+	Name: ALCH_Solution_Elixir_Tadpole
+	Root Template: d44a454c-3a09-4b93-b982-79f7ee019703
+
+	Name: ALCH_Solution_Grenade_Light
+	Root Template: c3236e6e-21e4-4e39-a5b4-fda105d8ce3f
+
+	Name: ALCH_Solution_Grenade_SporesConfusion
+	Root Template: cbc47f2b-b88a-4bd8-99cd-aacc2dc2ea44
+
+	Name: ALCH_Solution_Grenade_SporesHaste
+	Root Template: 6008231b-9f5a-44f6-8050-14586b7626fd
+
+	Name: ALCH_Solution_Grenade_SporesToxic
+	Root Template: 9320005f-18c6-4c2b-be7f-e168d3b15573
+
+	Name: ALCH_Solution_Grenade_Web
+	Root Template: a4d98266-948b-4467-96cd-6a316f37ceda
+
+	Name: ALCH_Solution_Oil_AttackBuff
+	Root Template: 3383e241-4d1c-41ad-bc81-fc548fa9062d
+
+	Name: ALCH_Solution_Oil_Bane
+	Root Template: 08789f74-3f63-4e7c-8288-b8d873542c15
+
+	Name: ALCH_Solution_Oil_Combustion
+	Root Template: bb750807-895b-468d-81e1-4378797d11ca
+
+	Name: ALCH_Solution_Oil_DamageAttackBuff
+	Root Template: 955d3880-3d10-4fb5-845b-96b6b52aef9a
+
+	Name: ALCH_Solution_Oil_Frost
+	Root Template: 3e4ce3e8-fbae-4e78-9198-e4c15485a928
+
+	Name: ALCH_Solution_Oil_Reduce
+	Root Template: 01985597-fceb-47d1-93ae-9cc9928ed9e7
+
+	Name: ALCH_Solution_Oil_RemoveResistanceFire
+	Root Template: bd118cc0-eb90-412d-8229-6749f42df5c6
+
+	Name: ALCH_Solution_Oil_Wizardsbane
+	Root Template: e4f7cb7f-1cb3-411b-b078-f4ac25b750a8
+
+	Name: ALCH_Solution_Potion_DetectThoughts
+	Root Template: 91da7fe8-a5f7-4132-9096-e8da4916a42e
+
+	Name: ALCH_Solution_Potion_FeatherFall
+	Root Template: 179cfdd4-40ef-4f5c-ba6e-8c13f20aadc9
+
+	Name: ALCH_Solution_Potion_Flying
+	Root Template: 8b870692-8491-4f1b-9b5c-58cb0b47a62b
+
+	Name: ALCH_Solution_Potion_Jump
+	Root Template: 7406ffa4-930c-437f-b201-57b951e5165f
+
+	Name: ALCH_Solution_Potion_Remedy
+	Root Template: ae9a9360-7cbe-4f72-8bea-1dd5747c180d
+
+	Name: ALCH_Solution_Potion_Rest_Lesser
+	Root Template: b0ff8d30-5825-49d4-8cd4-ebf3a3d0a024
+
+	Name: ALCH_Solution_Potion_Rest_Greater
+	Root Template: 4d801c1a-691e-47c8-88e7-78367b4e2c8e
+
+	Name: UNI_BrilliantRetort
+	Root Template: 11f7c9b6-6210-44f2-ae59-2f61f6ad7563
+
+	Name: OBJ_Bomb_Sunflash
+	Root Template: 5e282d02-6a10-44cb-9737-9d52aab0701c
+
+	Name: OBJ_CrystalWall
+	Root Template: 10051779-42d5-4bc6-8d55-10f6ce504758
+
+	Name: OBJ_LOW_HoH_Pillar
+
+	Name: Food_Giant_Hamster
+	Root Template: c6910189-d120-42cd-9277-1e6c7d7bb772
+
+	Name: OBJ_ResonanceStone
+	Root Template: a7249edb-3444-4194-8f50-7189be6b46fc
+
+	Name: OBJ_ResonanceStoneLegless
+	Root Template: a7edf7ca-1999-4d2c-b1bf-035d6e2b9e6e
+
+	Name: OBJ_Keychain
+	Root Template: ee329627-dbee-405f-b9a6-b260de9ad34c
+
+	Name: OBJ_StuffedHead
+	Root Template: 2c0ec18b-9fa0-4e28-aca0-1f66a46049f7
+
+	Name: OBJ_Dead_Pixie
+	Root Template: f6d1950c-8823-4c90-bcea-466de1a8f336
+
+	Name: OBJ_WoodenPatchwork
+	Root Template: f926d854-83a2-4c6c-84ed-ca38aa37861c
+
+

@@ -1,0 +1,3520 @@
+Folder Path: Gustav\Public\GustavDev\Stats\Generated\Data, Total Passives: 623
+	Name: ORI_Karlach_Rage_Flames
+
+	Name: _SCL_p
+
+	Name: HAV_Phasm_ParalizingAttacks
+
+	Name: SCL_Raven_Hardcore
+
+	Name: SCL_CrawlingClaw_Hardcore
+
+	Name: _OTHER_p
+
+	Name: SHA_NightsongPrison_SoulCage
+
+	Name: SHA_SharBlessing
+
+	Name: SHA_NightsongResurrection
+
+	Name: TWN_Brewer_Holly_Acid
+
+	Name: TWN_Brewer_Holly_Cold
+
+	Name: TWN_Brewer_Holly_Fire
+
+	Name: TWN_Brewer_Holly_Lightning
+
+	Name: TWN_Brewer_Holly_Poison
+
+	Name: TWN_TC_Visage_CursedGold
+
+	Name: TWN_GithyankiWarlock_FormOfDread
+
+	Name: TWN_ApplyWET
+
+	Name: TWN_PlaquePuzzle_Wisdom
+
+	Name: TWN_PlaquePuzzle_Intelligence
+
+	Name: TWN_PlaquePuzzle_Charisma
+
+	Name: TWN_Nightdome_ReflectDamage
+
+	Name: TWN_Nightdome_HitFeedback
+
+	Name: TWN_Nightdome_HitFeedback_SummonDeath
+
+	Name: TWN_KuoToa_Storm
+
+	Name: TWN_KuoToa_LightningDamage
+
+	Name: TWN_AasimarSurvivor_SpawnShadow
+
+	Name: HAV_Phasm_AcidPool
+
+	Name: _SHA_p
+
+	Name: SHA_TortureTrial_Double
+
+	Name: SHA_DarkVengeance
+
+	Name: SHA_VisionOfShar
+
+	Name: SHA_DarkLifeforce
+
+	Name: SHA_MistressKiss
+
+	Name: SHA_Lyrthindor_UnlockExtraSpellSlots
+
+	Name: CRE_Mindsteal_Link_Target
+
+	Name: TWN_RatCatcher_Passive
+
+	Name: MAG_Throw_Swap
+
+	Name: MOO_KethericArmor
+
+	Name: SCE_ExhaustionImmunity
+
+	Name: SCE_TieflingFollowup_BardicInspiration_Attack_Ability
+
+	Name: SCE_TieflingFollowup_BardicInspiration_SavingThrow
+
+	Name: MAG_LC_Cyric_FearImmunity_Amulet_Passive
+
+	Name: CRE_BrainDamage_INT
+
+	Name: CRE_BrainDamage_WIS
+
+	Name: CRE_BrainDamage_CON
+
+	Name: CRE_GithInfirmary_Awakened
+
+	Name: CRE_BreweryKobolds_FireWineBelly
+
+	Name: SHA_FleshGolem_Berserk
+
+	Name: SHA_Skeleton_NecroticStrike
+
+	Name: COL_Restore_Drain
+
+	Name: ORI_Karlach_FirstUpgrade
+
+	Name: ORI_Karlach_SecondUpgrade
+
+	Name: Karlach_Infernal_Fury
+
+	Name: LOW_LiaraPortyr_Brave
+
+	Name: LOW_GithProdigy_ReactiveDisplacement
+
+	Name: LOW_GithProdigy_PsionicSkin
+
+	Name: LOW_GithProdigy_MentalImage_CullingStrikes
+
+	Name: LOW_Potion_Master
+
+	Name: LOW_Cistern_Evasion
+
+	Name: LOW_Raphael_ArchfiendWill
+
+	Name: LOW_SerialKiller_Dolor_Ambush
+
+	Name: LOW_AncientLair_Curse
+
+	Name: LOW_AncientLair_Curse_Hardcore
+
+	Name: LOW_Cazador_SpawnBuff_001_Passive
+
+	Name: LOW_Cazador_SpawnBuff_002_Passive
+
+	Name: LOW_Cazador_SpawnBuff_004_Passive
+
+	Name: LOW_Cazador_SpawnBuff_Astarion_Passive
+
+	Name: LOW_GithProdigy_UnnaturalGrowth
+
+	Name: LOW_Guildhall_ExtraAttack_DaggerSpecialist
+
+	Name: LOW_Guildhall_IsolatedPrey
+
+	Name: LOW_Guildhall_DaggerThrower
+
+	Name: LOW_Guildhall_SneakyRiposte
+
+	Name: LOW_Guildhall_AdaptableSneakAttacks
+
+	Name: LOW_BlushingMermaid_Redcap_Alcohol
+
+	Name: LOW_BlushingMermaid_Redcap_Buff
+
+	Name: LOW_HagSurvivors_Bloodlust
+
+	Name: LOW_Hag_Mushroom_ReactiveFungus
+
+	Name: LOW_Hag_Mushroom_VFX
+
+	Name: LOW_OskarsBeloved_HarrowingPresence
+
+	Name: LOW_OskarsBeloved_Poltergeists_Invisible
+
+	Name: LOW_OskarsBeloved_Poltergeists_DexDisadvantage
+
+	Name: LOW_OskarsBeloved_Poltergeists_See_Invisibility
+
+	Name: LOW_OskarsBeloved_Poltergeists_LimitThrow
+
+	Name: LOW_OskarsBeloved_Poltergeists_Fall
+
+	Name: LOW_ZombieBeggars_LumbarResistance
+
+	Name: LOW_DevilsFee_Bounty
+
+	Name: LOW_DevilsFee_Gold
+
+	Name: LOW_DevilsFee_ImpSpell
+
+	Name: LOW_RamazithsTower_ElementalSiphon
+
+	Name: LOW_RamazithsTower_ElementalRebuke
+
+	Name: LOW_RamazithsTower_Nightsong_Deva_Interrupt
+
+	Name: LOW_GreaseWizard_ElementalAffinity
+
+	Name: LOW_Rolan_SignatureSpells
+
+	Name: LOW_Chasm_Mangle_Pushback
+
+	Name: LOW_Houndmaster_CompanionsBond
+
+	Name: LOW_Houndmaster_CompanionsBond_Creature
+
+	Name: LOW_Houndmaster_HuntersCamouflage_Hardcore
+
+	Name: LOW_RaphaelImp_RepellingBlast
+
+	Name: LOW_RaphaelImp_RepellingBlast_Hardcore
+
+	Name: LOW_RaphaelImp_AgonizingBlast
+
+	Name: LOW_EternalDebtors_Explosion
+
+	Name: LOW_Raphael_RepelDivinity
+
+	Name: LOW_Raphael_Reaper
+
+	Name: LOW_Raphael_Cambions_ExtraDamage
+
+	Name: LOW_Raphael_Pillar_Empowered
+
+	Name: LOW_Raphael_SoulSiphon_Passive
+
+	Name: LOW_Raphael_SoulSiphon_Passive_2
+
+	Name: LOW_Raphael_SoulSiphon_Passive_3
+
+	Name: LOW_Raphael_SoulSiphon_Passive_4
+
+	Name: LOW_Raphael_SoulSiphon_Passive_5
+
+	Name: LOW_Raphael_SoulSiphon_Passive_6
+
+	Name: LOW_Raphael_SoulSiphon_Passive_7
+
+	Name: LOW_Raphael_SoulSiphon_Passive_8
+
+	Name: LOW_Raphael_SoulSiphon_Passive_9
+
+	Name: LOW_Raphael_Multiattack_Passive
+
+	Name: LOW_HouseOfHope_RaphaelsBlessing
+
+	Name: LOW_Raphael_Set_Pillar_Status
+
+	Name: LOW_Raphael_Reset
+
+	Name: LOW_HouseOfHope_Weapon
+
+	Name: LOW_HouseOfHope_Merregon_Fire
+
+	Name: LOW_HouseOfHope_EternalDebtor_Imp
+
+	Name: LOW_HouseOfHope_EternalDebtor_Boar
+
+	Name: LOW_HouseOfHope_EternalDebtor_Merregon
+
+	Name: LOW_HouseOfGrief_SharsFavour_Technical
+
+	Name: LOW_HouseOfGrief_Viconia_Heart_Empowered
+
+	Name: LOW_HouseOfGrief_Cultists_Melee
+
+	Name: LOW_HouseOfGrief_Cultists_Sight
+
+	Name: LOW_HouseOfGrief_Heart_Cure_Violent
+
+	Name: LOW_HouseOfGrief_Heart_Cure_Shadowheart
+
+	Name: LOW_HouseOfGrief_Heart_Cure_Shadowheart_2
+
+	Name: LOW_HouseOfGrief_Heart_Cure_Craven
+
+	Name: INT_EmperorRevealed_FakeFight
+
+	Name: WYR_PotentDrink_Sunblind_Passive
+
+	Name: WYR_PotentDrink_Nauseous_Passive
+
+	Name: WYR_PotentDrink_WildParty_Passive
+
+	Name: END_ChillTouch_OnAttack
+
+	Name: LOW_Sarevok_Essence_Amelyssan
+
+	Name: WYR_MerchantsHouse_ThugsNonLethal_Passive
+
+	Name: WYR_Gortash_UnlockManifestation_Armed
+
+	Name: LOW_Astarion_VampireAscendant
+
+	Name: END_Netherbrain_LowHp
+
+	Name: ORI_Gale_ShadowSpellSlots
+
+	Name: LOW_VoloFate_SlayerKnowledge
+
+	Name: _MAGIC_ITEM_DEV
+
+	Name: MAG_Frost_Passive
+
+	Name: MAG_Frost_GenerateFrostOnDamage_Robe_Passive
+
+	Name: MAG_Frost_GenerateFrostOnStatusApply_Hat_Passive
+
+	Name: MAG_Frost_GenerateFrostOnDamage_Gloves_Passive
+
+	Name: MAG_Frost_IceSurfaceProneImmunity_Boots_Passive
+
+	Name: MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive
+
+	Name: MAG_Frost_GenerateSurfaceOnColdDamage_Ring_Passive
+
+	Name: MAG_ElementalGish_ElementalInfusion_Ring_Passive
+
+	Name: MAG_ElementalGish_MomentumOnElementalDamage_Boots_Passive
+
+	Name: MAG_ElementalGish_ArcaneAcuity_Helmet_Passive
+
+	Name: MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive
+
+	Name: MAG_ElementalGish_CantripBooster_Amulet_Passive
+
+	Name: Absorb_Elements_Passive
+
+	Name: Absorb_Elements_Technical_Passive
+
+	Name: CRE_LathandersBlessing_Passive
+
+	Name: CRE_LathandersBlessing_Cooldown_Passive
+
+	Name: CRE_LathandersLight_Passive
+
+	Name: ShadowBlade_Passive
+
+	Name: MAG_Gish_ArcaneSynergy_Circlet_Passive
+
+	Name: MAG_Gish_ArcaneSynergy_Ring_Passive
+
+	Name: MAG_Gish_ArcaneAcuity_Gloves_Passive
+
+	Name: MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring_Passive
+
+	Name: MAG_Gish_TempHPWhileConcentrating_Boots_Passive
+
+	Name: MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring_Passive
+
+	Name: MAG_Radiant_Radiating_Helmet_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_Armor_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_Ring_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_Blind_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_Gloves_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_OnDamage_Passive
+
+	Name: MAG_Radiant_RadiatingOrb_Melee_OnDamage_Passive
+
+	Name: MAG_ZOC_ForceConduit_Halberd_Passive
+
+	Name: MAG_ZOC_RampartAura_Amulet_Passive
+
+	Name: MAG_ZOC_ForceConduitWhileSurounded_Boots_Passive
+
+	Name: MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves_Passive
+
+	Name: MAG_ZOC_ForceConduit_HeavyArmor_Passive
+
+	Name: MAG_ZOC_ForceConduit_EnergyConversionBlast_Passive
+
+	Name: MAG_ZOC_ForceConduit_EnergyConversionTrigger_Passive
+
+	Name: MAG_Fire_HeatOnFireDamage_Gloves_Passive
+
+	Name: MAG_Fire_HeatOnTakingFireDamage_Amulet_Passive
+
+	Name: MAG_Fire_ArcaneAcuityOnFireDamage_Hat_Passive
+
+	Name: MAG_Fire_HeatOnInflictBurning_Boots_Passive
+
+	Name: MAG_Fire_BurningOnDamaged_Cloak_Passive
+
+	Name: MAG_Fire_Heat_Convergence_Passive
+
+	Name: MAG_Heat_Fire_Robe_Passive
+
+	Name: MAG_Thunder_Reverberation
+
+	Name: MAG_Thunder_Reverberation_Blast
+
+	Name: MAG_Thunder_Reverberation_Gloves_Passive
+
+	Name: MAG_Thunder_ReverberationOnStatusApply_Boots_Passive
+
+	Name: MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat_Passive
+
+	Name: MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet_Passive
+
+	Name: MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak_Passive
+
+	Name: MAG_Thunder_InflictDazeOnThunderDamage_Ring_Passive
+
+	Name: MAG_Poison_PoisonExposure_Passive
+
+	Name: MAG_Poison_InflictPoisonHealSelf_Cloak_Passive
+
+	Name: MAG_Poison_PoisonExposure_Gloves_Passive
+
+	Name: MAG_Acid_NoxiousFumes_Gloves_Passive
+
+	Name: MAG_Acid_AcidDamageOnWeaponAttack_Ring_Passive
+
+	Name: MAG_Acid_AcidMeleeCounter_Cloak_Passive
+
+	Name: MAG_Shadow_FogOfCloudDisengage_Cloak_Passive
+
+	Name: MAG_Shadow_BlindImmunity_Ring_Passive
+
+	Name: MAG_Shadow_CriticalBoostWhileObscured_Helmet_Passive
+
+	Name: MAG_Shadow_StealthBonusWhileObscured_Armor_Passive
+
+	Name: MAG_Shadow_SpellDCBonusWhileObscured_Circlet_Passive
+
+	Name: MAG_Shadow_Blinding_Bow_Passive
+
+	Name: CRE_HatcheryBoots_Passive
+
+	Name: MAG_CQCaster_TempHPAfterCast_Cloak_Passive
+
+	Name: MAG_CQCaster_SpellDCBonusWhileThreatened_Circlet_Passive
+
+	Name: MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive
+
+	Name: MAG_CQCaster_ArcaneChargeAfterDash_Boots_Passive
+
+	Name: MAG_CQCaster_ArcaneBravado_Boots_Passive
+
+	Name: MAG_CQCaster_CloseRangedSpellMastery_Gloves_Passive
+
+	Name: MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff_Passive
+
+	Name: MAG_Enforcer_NonLethalFright_Club_Passive
+
+	Name: MAG_Enforcer_RejunevatingKnock_Helmet_Passive
+
+	Name: MAG_Enforcer_NonLethalBlessing_Shield_Passive
+
+	Name: MAG_Blindside_Shortsword_Passive
+
+	Name: MAG_Giantslayer_Passive
+
+	Name: MAG_TerrainWalker_Passive
+
+	Name: MAG_PHB_Displacement_Cloak_Passive
+
+	Name: MAG_Druid_Ironvine_Shield_Passive
+
+	Name: MAG_Druid_Ironvine_Shield_Technical_Passive
+
+	Name: MAG_Critical_DoneCritical_Passive
+
+	Name: MAG_Critical_Force_Critical_Passive
+
+	Name: MAG_Critical_Hiding_ReduceCriticalRange_Passive
+
+	Name: MAG_Critical_BolsteringCritical_Passive
+
+	Name: MAG_Critical_CriticalSwiftness_Passive
+
+	Name: MAG_Critical_CriticalExecution_Passive
+
+	Name: MAG_Psychic_MentalFatigue_Gloves_Passive
+
+	Name: MAG_Psychic_MentalFatigue_Ring_Passive
+
+	Name: MAG_Psychic_MentalFatigue_Cape_Passive
+
+	Name: MAG_WeaponAction_Frostbite_Passive
+
+	Name: MAG_Githborn_Circlet_Passive
+
+	Name: CRE_MAG_Githborn_Amulet_Passive
+
+	Name: MAG_Githborn_MagicEating_HalfPlate_Passive
+
+	Name: MAG_Githborn_Mindcrusher_Greatsword_Passive
+
+	Name: MOO_MAG_HowlOfTheDead_Passive
+
+	Name: MAG_FlamingFist_BlazingRetaliation_Passive
+
+	Name: MAG_FlamingFist_ProtectionFromMissiles_Passive
+
+	Name: MAG_Illithid_Regen_Circlet_Passive
+
+	Name: MAG_Illithid_Carapace_Gloves_Passive
+
+	Name: MAG_Illithid_CarapaceArmor_Passive
+
+	Name: MAG_Harpers_ArmorOfShadows_Passive
+
+	Name: MAG_Harpers_JhannylGloves_Passive
+
+	Name: MAG_Harpers_RingOfProjection_Passive
+
+	Name: MAG_Harpers_RingOfTwilight_Passive
+
+	Name: MAG_Zhentarim_BloodfeederBlade_Rapier_Passive
+
+	Name: MAG_Zhentarim_Demonspirit_Gloves_Passive
+
+	Name: MAG_Monk_Magic_Armor_Passive
+
+	Name: MAG_Monk_Magic_Boots_Passive
+
+	Name: MAG_Monk_Magic_Gloves_Passive
+
+	Name: MAG_Monk_Magic_Hat_Passive
+
+	Name: MAG_Monk_Magic_ArmorEx_Passive
+
+	Name: MAG_PHB_ElvenChain_Armor_Passive
+
+	Name: MAG_PHB_ElvenChain_AddedEffect_Armor_Passive
+
+	Name: SCL_MastiffPoachers_Ring_Passive
+
+	Name: LOW_HagKiller_CHA_Passive
+
+	Name: MAG_Zhentarim_SleeperDagger_Passive
+
+	Name: MAG_MAG_EndGame_Plate_Armor_Passive
+
+	Name: MAG_EndGame_Boots_Passive
+
+	Name: MAG_EndGame_StuddedLeather_Armor_MentalWarding_Passive
+
+	Name: MAG_EndGame_StuddedLeather_Armor_IncapacitationWarding_Passive
+
+	Name: MAG_LesserFlamingDispersion_Passive
+
+	Name: MAG_Infernal_Plate_Armor_Passive
+
+	Name: MAG_Infernal_Plate_Armor_DamageThreshold_Passive
+
+	Name: MAG_Infernal_Metal_AttackBonus_Passive
+
+	Name: MAG_Infernal_Metal_Gloves_FireDamage_Passive
+
+	Name: MAG_Infernal_Metal_Boots_AntiDisplacement_Passive
+
+	Name: MAG_Infernal_Metal_Legendary_Resistance_Passive
+
+	Name: MAG_Infernal_Metal_Helmet_InfernalSight_Passive
+
+	Name: MAG_Lesser_Infernal_Metal_Gloves_FireDamage_Passive
+
+	Name: MAG_Lesser_Infernal_Plate_Armor_FireDamage_Passive
+
+	Name: MAG_LC_TheAmplifier_Amulet_Passive
+
+	Name: MAG_LC_Nymph_Cloak_Passive
+
+	Name: MAG_LC_Jannath_Hat_Passive
+
+	Name: MAG_LC_RadiantLight_Rapier_Passive
+
+	Name: MAG_LC_MonsterHunter_Passive
+
+	Name: MAG_LC_Wave_Trident_Passive
+
+	Name: MAG_LC_BurnOnDamage_Scimitar_Passive
+
+	Name: MAG_LC_CazadorVampiric_Quarterstaff_Passive
+
+	Name: MAG_PHB_PeriaptofWoundClosure_Amulet_Passive
+
+	Name: MAG_PHB_PeriaptofWoundClosure_Amulet_Maximize_Passive
+
+	Name: MAG_PHB_Sentinel_Shield_Passive
+
+	Name: MAG_LC_Umberlee_Regeneration_Boots_Passive
+
+	Name: MAG_LC_Umberlee_Protection_Cape_Passive
+
+	Name: MAG_LC_Umberlee_Cold_Sickle_Passive
+
+	Name: MAG_ArcaneEnchantment_Passive
+
+	Name: MAG_ArcaneEnchantment_Lesser_Passive
+
+	Name: MAG_SpellSaveDC_Enchantment_Passive
+
+	Name: MAG_SpellSaveDC_Enchantment_Lesser_Passive
+
+	Name: MAG_SpellResistance_Passive
+
+	Name: MAG_SleepImmunity_Passive
+
+	Name: MAG_Radiant_UnarmedAttack_Passive
+
+	Name: MAG_Cold_UnarmedAttack_Passive
+
+	Name: MAG_Force_UnarmedAttack_Passive
+
+	Name: MAG_Lightning_UnarmedAttack_Passive
+
+	Name: MAG_Thunder_UnarmedAttack_Passive
+
+	Name: MAG_Fire_UnarmedAttack_Passive
+
+	Name: MAG_Force_SoulCatchingDamage_Passive
+
+	Name: MAG_PHB_SoulCatching_ExtraEffect_Passive
+
+	Name: MAG_Monk_Healed_TempHP_Passive
+
+	Name: MAG_Monk_SoulRejunevation_Passive
+
+	Name: MAG_Monk_Martial_Lethality_Passive
+
+	Name: MAG_WYRM_UndeadProtector_Robe_Passive
+
+	Name: MAG_StunnImmunity_Passive
+
+	Name: MAG_HelmOfBalduran_MaxHP_Passive
+
+	Name: MAG_HelmOfBalduran_Protection_Passive
+
+	Name: MAG_OfArcanicDefense_Robe_Passive
+
+	Name: MAG_Kuotoa_Lightning_Spear_Technical_Passive
+
+	Name: BoomingBlade_Movement_Passive
+
+	Name: BoomingBlade_MovementSpell_Passive
+
+	Name: MAG_Kuotoa_Lightning_Spear_Passive
+
+	Name: MAG_Spellbreaker_Battleaxe_Passive
+
+	Name: MAG_Moonlight_Glaive_Passive
+
+	Name: MAG_StaffOFRam_KnockStun_Passive
+
+	Name: MAG_WYRM_OfTruthTelling_Ring_Passive
+
+	Name: MAG_WYR_Hellrider_Longbow_Passive
+
+	Name: MAG_WYR_Orin_Bhaalist_Dagger_Passive
+
+	Name: MAG_WYR_Orin_Bhaalist_Dagger_ImprovedCritical_Passive
+
+	Name: MAG_PHB_ScarabOfProtection_Amulet_Passive
+
+	Name: MAG_Frightened_Immunity_Passive
+
+	Name: MAG_Extended_Target_Cantrip_Passive
+
+	Name: MAG_ClosQuarterRangedSpell_Passive
+
+	Name: Potion_OfUndying_Passive
+
+	Name: Potion_OfGiant_ThunderDamage_Passive
+
+	Name: Potion_OfGreatArcher_Passive
+
+	Name: Potion_OfTempus_Drawback_Passive
+
+	Name: MAG_Githborn_MageHandSupport_Gloves_Passive
+
+	Name: MAG_Githborn_PsionicMovement_Boots_Passive
+
+	Name: MAG_WYRM_UndeadBane_GreatAxe_Passive
+
+	Name: MAG_Tyr_OfJustice_WarHammer_Passive
+
+	Name: MAG_WeaponAction_UndeadTurning_Ammunition_Passive
+
+	Name: MAG_Sarevok_OfChaos_Greatsword_Leeching_Passive
+
+	Name: MAG_FrostTalon_ChillingCounter_Passive
+
+	Name: MAG_ArcaneAbsorption_Dagger_Passive
+
+	Name: MAG_Fire_HeatOnWeaponDamage_Passive
+
+	Name: MAG_BG_Harold_HeavyCrossbow_Passive
+
+	Name: MAG_BG_DragonsBreath_Glaive_Passive
+
+	Name: MAG_Vicious_Weapon_Passive
+
+	Name: MAG_WYRM_Commander_Longsword_Passive
+
+	Name: MAG_ShapesifterSlayer_Passive
+
+	Name: MAG_MonsterSlayer_Passive
+
+	Name: MAG_MagicalDurability_Passive
+
+	Name: MAG_Lesser_MagicalDurability_Passive
+
+	Name: MAG_DeathDo_Shadow_Passive
+
+	Name: MAG_DeathDo_Light_Passive
+
+	Name: MAG_END_PsychicRetaliation_Passive
+
+	Name: LOW_StormshoreTabernacle_Curse_KillingBlow_Passive
+
+	Name: LOW_StormshoreTabernacle_Curse_SpawnEnvoy_Passive
+
+	Name: LOW_StormshoreTabernacle_Curse_SpawnEnvoy_LonRest_Refresh_Passive
+
+	Name: UNI_DarkUrge_Stealth_Expertise_Passive
+
+	Name: UNI_DarkUrge_Bleeding_Dagger_Passive
+
+	Name: MAG_Bhaalist_Aura_Of_Murder_Passive
+
+	Name: MAG_Bhalist_Hat_Passive
+
+	Name: MAG_FeyWildSpark_WildMagic_Passive
+
+	Name: MAG_Greenstone_Amulet_Passive
+
+	Name: MAG_ShieldRiposte_Passive
+
+	Name: MAG_ShieldConduit_Passive
+
+	Name: MAG_OfTheDevout_Amulet_Passive
+
+	Name: MAG_TheHunters_Dagger_Passive
+
+	Name: MAG_Infernal_Weapon_Passive
+
+	Name: MAG_OfAutomaton_Gloves_Passive
+
+	Name: MAG_Victory_Longbow_Passive
+
+	Name: MAG_Legendary_ShieldRiposte_Passive
+
+	Name: MAG_Legendary_Spellguard_Passive
+
+	Name: MAG_TheThorns_ExplosiveThrowing_Passive
+
+	Name: MAG_TheThorns_VeilOfTheWind_Passive
+
+	Name: MAG_TheClover_Rearrangement_Passive
+
+	Name: MAG_TheClover_Mainhand_Passive
+
+	Name: MAG_TheClover_OffHand_Passive
+
+	Name: MAG_TheCrimson_Vicious_Passive
+
+	Name: MAG_TheCrimson_TwoWeapon_Passive
+
+	Name: MAG_TheDueller_ImprovedDuelist_Passive
+
+	Name: MAG_TheDueller_WitheringCut_Passive
+
+	Name: MAG_Legendary_ArcaneEnchantment_Passive
+
+	Name: MAG_Legendary_Chromatic_Heat_Passive
+
+	Name: MAG_Legendary_Chromatic_Frost_Passive
+
+	Name: MAG_Legendary_Chromatic_LightningCharge_Passive
+
+	Name: MAG_Legendary_Chromatic_Reverberation_Passive
+
+	Name: MAG_Legendary_Chromatic_Poisoned_Passive
+
+	Name: MAG_Legendary_Chromatic_NoxiousFumes_Passive
+
+	Name: MAG_Legendary_PsionicResistance_Passive
+
+	Name: MAG_Legendary_PsionicWeapon_Passive
+
+	Name: MAG_MagicItemPoweredCast_Passive
+
+	Name: MAG_Legendary_Chromatic_Spellslot_Passive
+
+	Name: MAG_DexteritySavingThrow_Evasion
+
+	Name: MAG_Necromancy_Evasion
+
+	Name: MAG_Heightened_Necromancy_Passive
+
+	Name: MAG_GreaterNecromancyStaff_LifeEssenceHarvest_Passive
+
+	Name: MAG_GreaterNecromancyStaff_CosumeLifeEssence_Passive
+
+	Name: MAG_TWN_Surgeon_ParalyzingCritical_Passive
+
+	Name: MAG_TWN_Brewer_DrunkardRage_Passive
+
+	Name: MAG_TWN_Brewer_DrunkardRage_Explosion_Passive
+
+	Name: MAG_LegendaryProtection_Passive
+
+	Name: MAG_PsionicResistance_Passive
+
+	Name: MAG_OfMissileSnaring_Gloves_Passive
+
+	Name: MAG_OfArchery_Gloves_Passive
+
+	Name: MAG_OfSwordmaster_Gloves_Passive
+
+	Name: MAG_OfDefense_Gloves_Passive
+
+	Name: MAG_SarevokArmor_WitheringBarrier_Passive
+
+	Name: MAG_SarevokArmor_WitheringBarrier_AOE_Passive
+
+	Name: MAG_Sarevok_HornedHelmet_DeathbringerSight_Passive
+
+	Name: MAG_Drowelf_PoisonAgainstEnsnared_Passive
+
+	Name: MAG_OfGreaterSorcery_Amulet_Passive
+
+	Name: MAG_SingingSword_Bane_ThunderDamage_Passive
+
+	Name: MAG_Barkskin_Shield_Passive
+
+	Name: MAG_TheWoundSeeker_Greatsword_Passive
+
+	Name: MAG_ShapeshiftersBurgeon_Passive
+
+	Name: MAG_FreeAction_AntiDisplacement_Passive
+
+	Name: MAG_LifeStealingCritical_Passive
+
+	Name: MAG_PHB_OfRegeneration_Ring_Passive
+
+	Name: MAG_Warlock_Quickened_Cantrips_Passive
+
+	Name: MAG_FreeCast_Execution_Passive
+
+	Name: MAG_FreeCast_Level3_Passive
+
+	Name: MAG_Consume_FreeCast_Level3_Passive
+
+	Name: MAG_BonusAttack_AgainstMarked_Passive
+
+	Name: MAG_RiskyAttack_Passive
+
+	Name: MAG_Sorcerer_MM_SeekingSpell
+
+	Name: MAG_ExtraSorcery_Passive
+
+	Name: MAG_HeightenedManeuver_Passive
+
+	Name: MAG_JumpBoost_Passive
+
+	Name: MAG_OfTheDuelist_Gloves_Passive
+
+	Name: MAG_AttackDamage_Bonus_Passive
+
+	Name: MAG_WondrousGloves_Passive
+
+	Name: MAG_CrushingBlow_Passive
+
+	Name: LOW_VampireSpawn
+
+	Name: MAG_ExoticMaterial_MediumArmor_Passive
+
+	Name: MAG_Nimblefinger_Passive
+
+	Name: MAG_BansheeBless_Passive
+
+	Name: MAG_UndeadSlayer_Passive
+
+	Name: MAG_BG_BlightBringer_Passive
+
+	Name: MAG_BG_SlowedOnCrit_Passive
+
+	Name: MAG_BlightBringer_Passive
+
+	Name: MAG_StrengthBonusToWeaponDamage_Passive
+
+	Name: MAG_DoubleProficiencyBonusToRangedAttack_Passive
+
+	Name: MAG_Aid_5_MaxHP_Passive
+
+	Name: MAG_Aid_10_MaxHP_Passive
+
+	Name: MAG_AdditionalSpellSlot_Level1_Passive
+
+	Name: MAG_AdditionalSpellSlot_Level2_Passive
+
+	Name: MAG_AdditionalSpellSlot_Level3_Passive
+
+	Name: MAG_InitiativeBonus_1_Passive
+
+	Name: MAG_InitiativeBonus_2_Passive
+
+	Name: MAG_ForcefulSneakAttack_Passive
+
+	Name: MAG_Slicing_Shortsword_Passive
+
+	Name: MAG_ArcaneTrickster_Ring_Passive
+
+	Name: MAG_BoundToBeBonded_Passive
+
+	Name: MAG_BanefulBound_Passive
+
+	Name: MAG_BoundToBeBonded_Technical_Passive
+
+	Name: MAG_ShockingBound_Passive
+
+	Name: MAG_ShockingBound_Passive_Technical_Passive
+
+	Name: MAG_Bound_ProficiencyToDamage_Passive
+
+	Name: MAG_Bound_ProficiencyToDamage_Technical_Passive
+
+	Name: MAG_Bound_Throwing_Passive
+
+	Name: MAG_Bound_Throwing_Technical_Passive
+
+	Name: MAG_BG_OfAges_Flail_Passive
+
+	Name: MAG_PhysicalDamageReduction_Passive
+
+	Name: MAG_AdvantageOnReactionAttack_Passive
+
+	Name: MAG_InitiativeWeapon_Passive
+
+	Name: MAG_FrightenedDisadvantage_Passive
+
+	Name: MAG_DazingSmite_Passive
+
+	Name: MAG_FrightenedAdvantage_Passive
+
+	Name: UNI_WYR_Circus_ClownHammer_Passive
+
+	Name: MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive
+
+	Name: MAG_DarkJusticiarGloves_Passive
+
+	Name: MAG_DarkJusticiar_Armor_Stealth_Passive
+
+	Name: MAG_DarkJusticiar_Armor_Protection_Passive
+
+	Name: MAG_Barbarian_Helmet_BoneSpike_Passive
+
+	Name: MAG_Barbarian_Armor_MeatShield_Passive
+
+	Name: MAG_Barbarian_Armor_BoneSpike_Passive
+
+	Name: MAG_Barbarian_Boots_BoneSpike_Defense_Passive
+
+	Name: MAG_Barbarian_Gloves_BoneSpike_Passive
+
+	Name: MAG_BarbMonk_Armor_Offensive_Passive
+
+	Name: MAG_BarbMonk_Armor_Defensive_Passive
+
+	Name: MAG_IgnoreSlashingResistance_Passive
+
+	Name: MAG_IgnoreBludgeoningResistance_Passive
+
+	Name: MAG_IgnorePiercingResistance_Passive
+
+	Name: MAG_Defender_DefensiveStance_Passive
+
+	Name: MAG_KhalidsGift_CursedImmunity_Passive
+
+	Name: MAG_PHB_DwarvenThrower_Passive
+
+	Name: CTY_NecromancyOfThay_ForbiddenKnowledge_Passive
+
+	Name: LOW_SharGrotto_Mirror_StrengthBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_DexterityBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_ConstitutionBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_IntelligenceBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_WisdomBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_CharismaBoon_Passive
+
+	Name: LOW_SharGrotto_Mirror_MinorCharismaBoon_Passive
+
+	Name: LOW_BhaalAmulet_Passive
+
+	Name: MAG_Wizard_PointyHat_Passive
+
+	Name: Background_HauntedOne
+
+	Name: Background_TricksterHedonist
+
+	Name: Background_AstralZealot
+
+	Name: Background_WaterdavianMagus
+
+	Name: Background_CloisteredStray
+
+	Name: Background_BladeOfFrontiers
+
+	Name: Background_BloodWarVeteran
+
+	Name: Background_UnderdarkExile
+
+	Name: Background_VeteranMentor
+
+	Name: Background_GroveKeeper
+
+	Name: Background_LegendOfBaldur'sGate
+
+	Name: MAG_BarbMonk_Strength_Passive
+
+	Name: MAG_BarbMonk_Dexterity_Passive
+
+	Name: MAG_Barbarian_Armor_RageSupport_Passive
+
+	Name: MAG_Monk_Armor_MountainStance_Passive
+
+	Name: MAG_Monk_Armor_WindStance_Passive
+
+	Name: MAG_ArmorOfAuthority_Passive
+
+	Name: MAG_Bedazzling_Passive
+
+	Name: MAG_Orthon_Hellfire_Crossbow_Passive
+
+	Name: MAG_Cunning_HandCrossbow_Combo_Passive
+
+	Name: MAG_Selunite_LunarProtection_Passive
+
+	Name: MAG_Interrupt_MAG_Shield_Resource_Passive
+
+	Name: MAG_Interrupt_MAG_Shield_LeatherArmor_Resource_Passive
+
+	Name: MAG_Interrupt_MAG_Shield_HarpersAmulet_Resource_Passive
+
+	Name: MAG_HaHaHat_Passive
+
+	Name: MAG_ButlerHat_Passive
+
+	Name: MAG_Multitasking_Passive
+
+	Name: MAG_ExoticMaterial_Druid_Passive
+
+	Name: MAG_RestrainingAdvantage_Passive
+
+	Name: MAG_Druid_Wildshape_TempHP_Passive
+
+	Name: MAG_Druid_Wildshape_SpellResistance_Passive
+
+	Name: MAG_Druid_Nature_Regeneration_Passive
+
+	Name: MAG_Druid_ExtraWildShape_Passive
+
+	Name: MAG_Druid_Spore_ExtraSpores_Passive
+
+	Name: MAG_Druid_Spore_NecroticSpellcasting_Passive
+
+	Name: MAG_InvisiblePike_Passive
+
+	Name: MAG_CharismaCaster_CantripBooster_Passive
+
+	Name: MAG_CharismaCaster_TempHP_Passive
+
+	Name: MAG_Marksmanship_Passive
+
+	Name: MAG_MagicEating_Robe_Passive
+
+	Name: Dos2_Join_Drum
+
+	Name: Dos2_Join_Flute
+
+	Name: Dos2_Join_Lute
+
+	Name: Dos2_Join_Lyre
+
+	Name: Dos2_Join_Violin
+
+	Name: Dos2_Join_Whistle
+
+	Name: LOW_BloodMerchant_ExplosiveBlood
+
+	Name: MAG_Projectile_Shoes_Passive
+
+	Name: MAG_EGW_OfTheDrunkard_Amulet_Passive
+
+	Name: MAG_DrunkenCloth_Passive
+
+	Name: MAG_OfSharpCaster_Hat_Passive
+
+	Name: MAG_Ambushing_Attack_Passive
+
+	Name: MAG_Arcanist_Gloves_Passive
+
+	Name: MAG_TwoWeaponFighting
+
+	Name: MAG_IllusionBlade_Passive
+
+	Name: MAG_SecondChance_Passive
+
+	Name: MAG_SecondChance_Resource_Passive
+
+	Name: MAG_Revivify_Gloves_Passive
+
+	Name: MAG_UndeadTurning_Weapon_Passive
+
+	Name: TAD_PartialCeremorph
+
+	Name: MAG_RavenCharm_Passive
+
+	Name: MAG_MartialBravery_Passive
+
+	Name: MAG_RavenFamiliar_Passive
+
+	Name: TWN_BondedByLove_HusbandsRing_Passive
+
+	Name: TWN_BondedByLove_WifesRing_Passive
+
+	Name: MAG_ProficientSupport_Weapon_Passive
+
+	Name: MAG_ShadowBlinding_Weapon_Passive
+
+	Name: MAG_HellDusk_Proficiency_Passive
+
+	Name: MAG_Viconia_Robe_Resistance_Passive
+
+	Name: MAG_AbsoluteProtector_Shield_Passive
+
+	Name: MAG_OuterEntitySlayer_Passive
+
+	Name: MAG_PlaneShifterSlayer_Passive
+
+	Name: MAG_FireThrow_Passive
+
+	Name: MAG_ColdThrow_Passive
+
+	Name: MAG_LightningThrow_Passive
+
+	Name: MAG_ThunderThrow_Passive
+
+	Name: MAG_AcidThrow_Passive
+
+	Name: MAG_PoisonThrow_Passive
+
+	Name: MAG_NecroticThrow_Passive
+
+	Name: MAG_ForceThrow_Passive
+
+	Name: MAG_PsychicThrow_Passive
+
+	Name: MAG_HomingWeapon_Passive
+
+	Name: MAG_MeleeCaster_Passive
+
+	Name: MAG_InfernalWeapon_WeaponBoost_Passive
+
+	Name: MAG_InfernalWeapon_Lesser_WeaponBoost_Passive
+
+	Name: MAG_MonkAmulet_WisdomDebuff_Passive
+
+	Name: MAG_MonkAmulet_WisdomDebuff_2_Passive
+
+	Name: MAG_LC_Counterspell_Quarterstaff_Resource_Passive
+
+	Name: MAG_PHB_ScarabOfProtection_Amulet_Resource_Passive
+
+	Name: MAG_Legendary_InfernalResistance_Resource_Passive
+
+	Name: MAG_LegendaryEvasion_Protection_Resource_Passive
+
+	Name: MAG_ImpalerDamageBonus_Passive
+
+	Name: MAG_ImpalerTempHP_Passive
+
+	Name: MAG_UnarmedEnchantment_1_Passive
+
+	Name: MAG_UnarmedEnchantment_2_Passive
+
+	Name: MAG_ShieldOfDevotion_Passive
+
+	Name: MAG_ShieldOfDevotion_Cooldown_Passive
+
+	Name: MAG_ShieldOfDevotion_Tracker_Passive
+
+	Name: MAG_OfGreaterSorcery_Amulet_Cooldown_Passive
+
+	Name: MAG_OfGreaterSorcery_Amulet_Tracker_Passive
+
+	Name: MAG_LC_TheAmplifier_Amulet_Cooldown_Passive
+
+	Name: MAG_LC_TheAmplifier_Amulet_Tracker_Passive
+
+	Name: MAG_OfTheDevout_Amulet_Cooldown_Passive
+
+	Name: MAG_OfTheDevout_Amulet_Tracker_Passive
+
+	Name: MAG_DeathKnightShield_Passive
+
+	Name: MAG_DeathKnightShield_Cooldown_Passive
+
+	Name: MAG_DeathKnightShield_Tracker_Passive
+
+	Name: MAG_WondrousGloves_Cooldown_Passive
+
+	Name: MAG_WondrousGloves_Tracker_Passive
+
+	Name: MAG_Druid_ExtraWildShape_Cooldown_Passive
+
+	Name: MAG_Druid_ExtraWildShape_Tracker_Passive
+
+	Name: MAG_WYRM_Farlin_Dagger_Passive
+
+	Name: MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive
+
+	Name: MAG_Umberlee_FireColdResistance_Passive
+
+	Name: MAG_Longstrider_Passive
+
+	Name: MAG_Watcher_Helmet_Darkvision_Passive
+
+	Name: MAG_Barbarian_Hide_Helmet_Bloodseeker_Passive
+
+	Name: MAG_Barbarian_Hide_Helmet_Bloodthirsty_Passive
+
+	Name: MAG_FlexibleArmor_Defense_Passive
+
+	Name: MAG_Light_Base_Passive
+
+	Name: MAG_Light_FarlinDagger_Passive
+
+	Name: MAG_Light_TheThorns_Passive
+
+	Name: MAG_Light_TheVictory_Passive
+
+	Name: MAG_Light_MoonlightGlaive_Passive
+
+	Name: MAG_Bhaalist_Aura_Of_Murder_DeadRevival_Passive
+
+	Name: MAG_RadiatingOrb_ReduceDurationPerAttack_Passive
+
+	Name: MAG_ArcaneAcuity_ReduceDurationPerDamage_Passive
+
+	Name: MAG_MentalFatigue_PsychicDischarge_Passive
+
+	Name: MAG_Orin_ShapeshifterGambit_Passive
+
+	Name: MAG_Orin_ShapeshifterProwess_Passive
+
+
+Folder Path: Gustav\Public\Gustav\Stats\Generated\Data, Total Passives: 166
+	Name: DEBUG_LevelUp_Generic
+
+	Name: BladeOfFrontiers
+
+	Name: GEN_Disadvantage_Athletics
+
+	Name: GEN_Disadvantage_Acrobatics
+
+	Name: CAMP_Volo_Lobotomy
+
+	Name: CAMP_Volo_ErsatzEye
+
+	Name: ORI_Karlach_SweatImmune
+
+	Name: _CRA_p
+
+	Name: QUEST_CRA_IntDev_Weakened
+
+	Name: CHA_CompassSpear_Passive
+
+	Name: CHA_ScribeOfTheDead
+
+	Name: _DEN_p
+
+	Name: DEN_RaidingParty_GoblinCaptain_Gloves_Passive
+
+	Name: DEN_Apprentice_DaggerOfShar_Passive
+
+	Name: DEN_TunnelStaff_Passive
+
+	Name: Quest_DEN_ARM_LuckyBoots_Passive
+
+	Name: DEN_HalsinBlade_Passive
+
+	Name: DEN_HellridersPride_Passive
+
+	Name: DEN_FaithwardenStaff_Passive
+
+	Name: DEN_CapturedGoblin_MurderDagger_Passive
+
+	Name: DEN_Rolan_DefaultSpells
+
+	Name: _FOR_p
+
+	Name: FOR_TrueSoul_SpearPassive
+
+	Name: FOR_OwlbearCubs_Armor_Passive
+
+	Name: FOR_OwlBearCubs_EasilyFrighten_Passive
+
+	Name: FOR_BottomlessWell_WebSensePassive
+
+	Name: FOR_NightWalkers_WebImmunity
+
+	Name: FOR_WebStaff_Passive
+
+	Name: FOR_SpiderQueen_Robe_Passive
+
+	Name: _GOB_p
+
+	Name: GOB_PainPriest_Dagger_Passive
+
+	Name: GOB_PainPriest_Scourge_Passive
+
+	Name: GOB_PainPriest_Axe_Passive
+
+	Name: GOB_Priest_Amulet_Passive
+
+	Name: GOB_Torturer_Spear_Passive
+
+	Name: GOB_LostBalance_Passive
+
+	Name: GOB_Pens_Dagger_Passive
+
+	Name: GOB_DrowCommander_Mace_Passive
+
+	Name: GOB_CalmnessInPain
+
+	Name: GOB_CalmnessInPainDeathCheck
+
+	Name: GOB_CalmnessInPainActive
+
+	Name: GOB_Boss_RecklessAttack
+
+	Name: GOB_Priest_Shield_Passive
+
+	Name: _HAG_p
+
+	Name: QUEST_HAG_HagEyed
+
+	Name: HAG_HagMask
+
+	Name: HAG_LowerDeathSavingThrows
+
+	Name: HAG_KillerFrogReaction
+
+	Name: HAG_MaskOfVengeance
+
+	Name: HAG_MaskOfRegret
+
+	Name: HAG_Hair_STR_Passive
+
+	Name: HAG_Hair_CON_Passive
+
+	Name: HAG_Hair_DEX_Passive
+
+	Name: HAG_Hair_INT_Passive
+
+	Name: HAG_Hair_WIS_Passive
+
+	Name: HAG_Hair_CHA_Passive
+
+	Name: HAG_Wilted_Dreams_Passive
+
+	Name: _PLA_p
+
+	Name: PLA_DyingHyena_Passive
+
+	Name: PLA_ConflictedFlind_Flail_Broken_Passive
+
+	Name: _UND_p
+
+	Name: UND_Myco_Alchemist_HealerGloves_Passive
+
+	Name: UND_DuergarRaft_PestKillerAxe_Passive
+
+	Name: UND_DuergarRaft_Hammer_Passive
+
+	Name: UND_Duergar_ShortswordOfFirstBlood_Passive
+
+	Name: UND_ServantOfBoooal
+
+	Name: UND_BlessingOfBOOOAL
+
+	Name: UND_SocietyOfBrilliance_MagicMissileNecklace_Passive
+
+	Name: UND_SocietyOfBrilliance_ResonanceStaff_Passive
+
+	Name: UND_SocietyOfBrilliance_PullingRing_Passive
+
+	Name: UND_SocietyOfBrilliance_DarkvisionRing_Passive
+
+	Name: UNI_UND_RingOfMindShielding_Passive
+
+	Name: UND_Tower_StaffBlessMystra_Passive
+
+	Name: UND_StrengthChair_Leg_Passive
+
+	Name: UND_Nere_ShieldOfScreams
+
+	Name: UND_AdamantineGolem_Aggro
+
+	Name: UND_AdamantineGolem_Heat
+
+	Name: UND_Justiciar_ChainShirt_Magic_Passive
+
+	Name: UND_Justiciar_Helmet_Magic_Passive
+
+	Name: UND_Elder_Warpick_Passive
+
+	Name: UND_Tower_AutomatonHalberd_Passive
+
+	Name: UND_AbsoluteRing_Passive
+
+	Name: _UNI_p
+
+	Name: UNI_Adamantine_CriticalVsItems_Passive
+
+	Name: UNI_Bow_SpellslotRecharge_Passive
+
+	Name: UNI_HealInShadow
+
+	Name: UNI_DoomAxe_Passive
+
+	Name: UNI_RepeatStaff_Passive
+
+	Name: UNI_MassHealRing_Passive
+
+	Name: UNI_MartyrAmulet_Passive
+
+	Name: _MAG_passives
+
+	Name: MAG_Fire_IncreasedDamage_Passive
+
+	Name: MAG_Cold_IncreaseColdDamageOnCast_Passive
+
+	Name: MAG_Cold_ChilledOnSpellDamage_Passive
+
+	Name: MAG_LowHP_IncreaseDamage_Passive
+
+	Name: MAG_LowHP_IncreaseDamagePsychic_Passive
+
+	Name: MAG_LowHP_IncreaseDamagePsychic_Ranged_Passive
+
+	Name: MAG_LowHP_TemporaryHP_Passive
+
+	Name: MAG_LowHP_CounterOnDamage_Passive
+
+	Name: MAG_LowHP_IncreaseSpeed_Passive
+
+	Name: MAG_LowHP_ResistanceFire_Passive
+
+	Name: MAG_LowHP_IgnoreAttackOfOpportunity_Passive
+
+	Name: MAG_LowHP_BonusAction_Passive
+
+	Name: MAG_LowHP_1HP_Passive
+
+	Name: MAG_LowHP_IncreasedSpellDamage_Passive
+
+	Name: MAG_Fire_ApplyBurning_Passive
+
+	Name: MAG_Fire_IncreaseSlashingDamageToBurning_Passive
+
+	Name: MAG_Fire_IncreasePiercingDamageToBurning_Passive
+
+	Name: MAG_Fire_ApplyBurningOnFireDamage_Passive
+
+	Name: MAG_Fire_BonusActionOnFireSpell_Passive
+
+	Name: MAG_Healer_HealSelf_Passive
+
+	Name: MAG_Healer_HealSelfPoisonWeapon_Passive
+
+	Name: MAG_Healer_DisengageOnHeal_Passive
+
+	Name: MAG_Healer_TempHPOnHeal_Passive
+
+	Name: MAG_Shove_ACboost
+
+	Name: MAG_Shove_DealDamage
+
+	Name: MAG_Mobility_MomentumOnDash_Passive
+
+	Name: MAG_Mobility_MomentumOnDamage_Passive
+
+	Name: MAG_Mobility_MomentumOnCombatStart_Passive
+
+	Name: MAG_Mobility_SprintForMomentum_Passive
+
+	Name: MAG_Mobility_JumpOnDash_Passive
+
+	Name: MAG_Mobility_ExplosionOnJump_Passive
+
+	Name: MAG_Mobility_LowHP_Momentum_Passive
+
+	Name: MAG_Violence_LowHP_Violence_Passive
+
+	Name: MAG_Violence_ViolenceOnDash_Passive
+
+	Name: MAG_Violence_ViolenceOnDamaged_Passive
+
+	Name: MAG_Rage_TempHPOnExit_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff1_OnDamage_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff2_OnDamage_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff1_OnDamaged_Passive
+
+	Name: MAG_MeleeDebuff_AttackDebuff2_OnDamaged_Passive
+
+	Name: MAG_INCREASED_DAMAGE_COLD_Passive
+
+	Name: MAG_ChargedLightning_ArmorMagicBoost_Passive
+
+	Name: MAG_ChargedLightning_WeaponMagicBoost_Passive
+
+	Name: MAG_ChargedLightning_UnarmedAttackAdvantage_Passive
+
+	Name: MAG_ChargedLightning_Charge_OnDamage_Passive
+
+	Name: MAG_ChargedLightning_Charge_OnSpellDamage_Passive
+
+	Name: MAG_ChargedLightning_Dash_Boots_Passive
+
+	Name: MAG_ChargedLightning_ElectricSurface_Boots_Passive
+
+	Name: MAG_ChargedLightning_ElectrifyWater_Boots_Passive
+
+	Name: MAG_ChargedLightning_Electrocute_Armor_Passive
+
+	Name: MAG_ChargedLightning_TempHP_Helmet_Passive
+
+	Name: MAG_ChargedLightning_StaticDischarge_Amulet_Passive
+
+	Name: MAG_ChargedLightning_Pull_Glove_Passive
+
+	Name: MAG_ChargedLightning_ExtraDamage_Ring_Passive
+
+	Name: MAG_ChargedLightning_Resistance_Ring_Passive
+
+	Name: MAG_ChargedLightning_ChargeOnTakeDamage_Cloak_Passive
+
+	Name: MAG_ChargedLightning_LightningAura
+
+	Name: MAG_ChargedLightning_ChargeAdvantage_Passive
+
+	Name: MAG_ChargedLightning_LightningDamage_Passive
+
+	Name: MAG_ChargedLightning_LightningDischarge_Passive
+
+	Name: MAG_ChargedLightning_LightningDischargeSpell_Passive
+
+	Name: MAG_ChargedLightning_ExtraDamageSpell_Passive
+
+	Name: MAG_ChargedLightning_LightningDamage_Shock_Technical_Passive
+
+	Name: MAG_ChargedLightning_LightningBlast_Passive
+
+	Name: MAG_ChargedLightning_EnsnaringShock_Passive
+
+	Name: MAG_ChargedLightning_AbilityCheckBoost_Passive
+
+	Name: MAG_ChargedLightning_Charge_OnUnarmedDamage_Passive
+
+	Name: MAG_BardicInspiration_TempHP_Armor_Passive
+
+	Name: MAG_BardicInspiration_Heal_Hat_Passive
+
+	Name: MAG_Paladin_LayOnHandsSupport_Gloves_Passive
+
+	Name: MAG_Paladin_SmiteSpellsSupport_Helmet_Passive
+
+	Name: MAG_Paladin_MomentumOnConcentration_Boots_Passive
+
+	Name: MAG_Paladin_MomentumOnConcentration_Boots_Technical_Passive
+
+
+Folder Path: Gustav\Public\Honour\Stats\Generated\Data, Total Passives: 74
+	Name: LegendaryActions
+
+	Name: LegendaryAction_AdamantineGolem_KineticArmor
+
+	Name: LegendaryAction_UND_Nere_PsychicMirror
+
+	Name: LegendaryAction_SHA_Necromancer_SpectralForm
+
+	Name: LegendaryAction_SHA_Necromancer_SpectralForm_Technical
+
+	Name: SHA_Necromancer_SpectralForm_BoneChill
+
+	Name: LegendaryAction_SHA_Necromancer_LandOfTheDead
+
+	Name: LegendaryAction_MixChangeExplosion_Brewer
+
+	Name: LegendaryAction_MidasWrath_TollCollector
+
+	Name: LegendaryAction_WYR_DivineBeckoning_Gortash
+
+	Name: LegendaryAction_LOW_BloodSwipe_Orin
+
+	Name: LegendaryAction_LOW_BhaalsRetribution_Orin
+
+	Name: LegendaryAction_LOW_BhaalsRetribution_Sarevok
+
+	Name: LegendaryAction_LOW_BhaalTemple_MarkedForMurder
+
+	Name: LegendaryAction_LOW_FatherCarrion_SpiritParade
+
+	Name: DefaultStatus_Bulette_DiamondScales
+
+	Name: LegendaryAction_Surgeon_MindScreech
+
+	Name: TWN_Hospital_Nurse_Honor_Technical
+
+	Name: LegendaryAction_Surgeon_GrapplingArm
+
+	Name: LegendaryAction_Bulette_DiamondScalesBurst
+
+	Name: LegendaryAction_Oliver_Cursedome
+
+	Name: DefaultStatus_SteelWatcherTitan_HonourVisuals
+
+	Name: LegendaryAction_Apostle_Gaze
+
+	Name: LegendaryAction_MOO_Ketheric_GeneralsWrath
+
+	Name: LegendaryAction_Automaton_ChainStaticBolt
+
+	Name: LegendaryAction_HAG_Counterswap
+
+	Name: LegendaryAction_HAG_Counterswap_Double
+
+	Name: LegendaryAction_Interrupt_CRE_GithyankiInquisitor_VlaakithsMindSword
+
+	Name: LegendaryAction_LOW_Cazador_BatSwarm
+
+	Name: LegendaryAction_LOW_Cazador_BatSwarm_Block
+
+	Name: LegendaryAction_LOW_Viconia_DarkSentinel
+
+	Name: LegendaryAction_LOW_Viconia_HeartWrench
+
+	Name: LOW_Viconia_UmbralResonance
+
+	Name: LOW_Viconia_DarkSanctuary
+
+	Name: LOW_Viconia_DarkSanctuary_Damage
+
+	Name: LegendaryAction_LOW_Raphael
+
+	Name: LegendaryAction_LOW_Raphael_Ascended
+
+	Name: LOW_Raphael_Set_Pillar_Status
+
+	Name: LOW_HouseOfHope_Weapon
+
+	Name: LegendaryAction_FOR_Owlbear
+
+	Name: FOR_Owlbear_Daddy_Rage_Passive
+
+	Name: LegendaryAction_FOR_SpiderQueen
+
+	Name: FOR_SpiderQueen_SeeInvis
+
+	Name: LegendaryAction_SHA_Orthon
+
+	Name: CrownOfKarsus_EnnervationRay
+
+	Name: SYSTEMS_PASSIVE
+
+	Name: TavernBrawler
+
+	Name: FullSwing_Passive
+
+	Name: Lifedrinker
+
+	Name: DEN_CapturedGoblin_MurderDagger_Passive
+
+	Name: DEN_Apprentice_DaggerOfShar_Passive
+
+	Name: UND_DuergarRaft_PestKillerAxe_Passive
+
+	Name: UND_Duergar_ShortswordOfFirstBlood_Passive
+
+	Name: UND_Elder_Warpick_Passive
+
+	Name: MAG_LowHP_IncreaseDamage_Passive
+
+	Name: MAG_LowHP_IncreasedSpellDamage_Passive
+
+	Name: MAG_Fire_IncreaseSlashingDamageToBurning_Passive
+
+	Name: MAG_Fire_IncreasePiercingDamageToBurning_Passive
+
+	Name: MAG_Thorn_Blade_Passive
+
+	Name: MAG_Blindside_Shortsword_Passive
+
+	Name: MAG_TheCrimson_Vicious_Passive
+
+	Name: MAG_ImpalerDamageBonus_Passive
+
+	Name: ThirstingBlade_Blade
+
+	Name: MAG_LifeStealingCritical_Passive
+
+	Name: MAG_ForcefulSneakAttack_Passive
+
+	Name: TAD_MindSanctuary_Haste
+
+	Name: TAD_Displace_FallDamage
+
+	Name: ColossusSlayer
+
+	Name: ExtraAttack
+
+	Name: ExtraAttack_2
+
+	Name: ThirstingBlade_Check
+
+	Name: WildStrike
+
+	Name: WildStrike_2
+
+	Name: ElixirOfColossus_HonourMode
+
+
+Folder Path: Shared\Public\SharedDev\Stats\Generated\Data, Total Passives: 474
+	Name: RACE
+
+	Name: Dragonborn_Resistance_Acid
+
+	Name: Dragonborn_Resistance_Cold
+
+	Name: Dragonborn_Resistance_Fire
+
+	Name: Dragonborn_Resistance_Lightning
+
+	Name: Dragonborn_Resistance_Poison
+
+	Name: SavageAttacks
+
+	Name: Ethereal
+
+	Name: HumanMilitia
+
+	Name: HumanVersatility
+
+	Name: CLASS
+
+	Name: AscendantStep
+
+	Name: AspectOfTheBeast_Bear
+
+	Name: AspectOfTheBeast_Chimpanzee
+
+	Name: AspectOfTheBeast_Crocodile
+
+	Name: AspectOfTheBeast_Eagle
+
+	Name: AspectOfTheBeast_Elk
+
+	Name: AspectOfTheBeast_HoneyBadger
+
+	Name: AspectOfTheBeast_Stallion
+
+	Name: AspectOfTheBeast_Tiger
+
+	Name: AspectOfTheBeast_Wolf
+
+	Name: AspectOfTheBeast_Wolverine
+
+	Name: ArcaneWard
+
+	Name: ArcaneWard_Cast
+
+	Name: ArcaneWard_Damage
+
+	Name: ImprovedAbjuration
+
+	Name: BardicInspiration_d10
+
+	Name: BardicInspiration_Ability_d10
+
+	Name: CombatInspiration_Ability_d10
+
+	Name: BeguilingDefenses
+
+	Name: BendLuck
+
+	Name: BestialFury
+
+	Name: BlessedHealer
+
+	Name: Blink_Check
+
+	Name: BookOfAncientSecrets
+
+	Name: BrutalCritical
+
+	Name: CommanderStrike_Maneuver
+
+	Name: CommanderStrike
+
+	Name: ControlledChaos
+
+	Name: DampenElements
+
+	Name: DampenElements_Check
+
+	Name: DarkOnesOwnLuck
+
+	Name: DeflectMissiles
+
+	Name: DestructiveWrath
+
+	Name: DistractingStrike
+
+	Name: DreadAmbusher
+
+	Name: DreadfulWord
+
+	Name: Divine_Strike_Life_Toggle
+
+	Name: Divine_Strike_Nature_Toggle
+
+	Name: Divine_Strike_Tempest_Toggle
+
+	Name: Divine_Strike_Trickery_Toggle
+
+	Name: Divine_Strike_War_Toggle
+
+	Name: DivineIntervention
+
+	Name: DominateBeast_Check
+
+	Name: EldritchSpear
+
+	Name: EldritchStrike
+
+	Name: ElementalAffinity_Damage
+
+	Name: ElementalAffinity_Resistance_Check
+
+	Name: ElementalAffinity_Resistance_Acid
+
+	Name: ElementalAffinity_Resistance_Cold
+
+	Name: ElementalAffinity_Resistance_Fire
+
+	Name: ElementalAffinity_Resistance_Lightning
+
+	Name: ElementalAffinity_Resistance_Poison
+
+	Name: EmpoweredEvocation
+
+	Name: EntropicWard
+
+	Name: EscapeTheHorde
+
+	Name: Evasion
+
+	Name: EvasiveFootwork
+
+	Name: ExceptionalTraining
+
+	Name: ExtraAttack_2
+
+	Name: ExpertDivination
+
+	Name: Divination_Damage_Fire
+
+	Name: Divination_Damage_Acid
+
+	Name: Divination_Damage_Bludgeoning
+
+	Name: Divination_Damage_Cold
+
+	Name: Divination_Damage_Force
+
+	Name: Divination_Damage_Lightning
+
+	Name: Divination_Damage_Necrotic
+
+	Name: Divination_Damage_Piercing
+
+	Name: Divination_Damage_Poison
+
+	Name: Divination_Damage_Psychic
+
+	Name: Divination_Damage_Radiant
+
+	Name: Divination_Damage_Slashing
+
+	Name: Divination_Damage_Thunder
+
+	Name: Divination_School_Abjuration
+
+	Name: Divination_School_Conjuration
+
+	Name: Divination_School_Divination
+
+	Name: Divination_School_Enchantment
+
+	Name: Divination_School_Evocation
+
+	Name: Divination_School_Illusion
+
+	Name: Divination_School_Necromancy
+
+	Name: Divination_School_Transmutation
+
+	Name: Divination_Ally_Help
+
+	Name: Divination_Enemy_Killed
+
+	Name: FeintingAttack
+
+	Name: FeralInstinct
+
+	Name: FiendishResilience
+
+	Name: FocusedConjuration
+
+	Name: FlurryOfBlowsUnlock
+
+	Name: ForcedManeuver
+
+	Name: GoadingAttack
+
+	Name: GuardianOfFaith_Retaliate
+
+	Name: Guided_Strike
+
+	Name: Guided_Strike_Toggle
+
+	Name: HeartOfTheStorm
+
+	Name: HeartOfTheStorm_Resistance
+
+	Name: IllusorySelf
+
+	Name: ImprovedCombatSuperiority
+
+	Name: ImprovedDivineSmite
+
+	Name: ImprovedElementalCasting
+
+	Name: ImprovedMinorIllusion
+
+	Name: Indomitable
+
+	Name: InstinctiveCharm
+
+	Name: InuredtoUndeath
+
+	Name: InquisitorsMight
+
+	Name: IronMind
+
+	Name: Ki
+
+	Name: KiEmpoweredStrikes
+
+	Name: Land_Arctic_3
+
+	Name: Land_Coast_3
+
+	Name: Land_Desert_3
+
+	Name: Land_Forest_3
+
+	Name: Land_Grassland_3
+
+	Name: Land_Mountain_3
+
+	Name: Land_Swamp_3
+
+	Name: Land_Underdark_3
+
+	Name: Land_Arctic_4
+
+	Name: Land_Coast_4
+
+	Name: Land_Desert_4
+
+	Name: Land_Forest_4
+
+	Name: Land_Grassland_4
+
+	Name: Land_Mountain_4
+
+	Name: Land_Swamp_4
+
+	Name: Land_Underdark_4
+
+	Name: Lucky
+
+	Name: Lucky_Unlock
+
+	Name: MagicalAmbush
+
+	Name: ManeuveringAttack
+
+	Name: Manifestation_of_Body
+
+	Name: Manifestation_of_Mind
+
+	Name: Manifestation_of_Soul
+
+	Name: MartialArts_DextrousUnarmedAttacks
+
+	Name: MartialArts_UnarmedDamage
+
+	Name: MartialArts_BonusUnarmedStrike
+
+	Name: MartialArts_Mastery
+
+	Name: MinionsOfChaos
+
+	Name: MireTheMind
+
+	Name: MistyEscape
+
+	Name: MultiattackDefense
+
+	Name: NaturesWard
+
+	Name: LandsStride_DifficultTerrain
+
+	Name: LandsStride_Surfaces
+
+	Name: LandsStride_Advantage
+
+	Name: Lifedrinker
+
+	Name: Metamagic_Empowered
+
+	Name: MindlessRage
+
+	Name: Monk_SoundSwitch
+
+	Name: Oath_Ancients_Tenents
+
+	Name: Oath_Devotion_Tenents
+
+	Name: Oath_Vengeance_Tenents
+
+	Name: OtherworldlyLeap
+
+	Name: PactOfTheBlade
+
+	Name: PactOfTheTome
+
+	Name: Parry
+
+	Name: Portent
+
+	Name: PotentCantrip
+
+	Name: PotentSpellcasting
+
+	Name: PrecisionAttack
+
+	Name: ProjectedWard
+
+	Name: PrimalStrike
+
+	Name: PurityOfBody
+
+	Name: RelentlessAvenger
+
+	Name: RelentlessEndurance
+
+	Name: RelentlessRage
+
+	Name: ReliableTalent
+
+	Name: RemarkableAthlete_Proficiency
+
+	Name: RemarkableAthlete_Jump
+
+	Name: SculptorOfFlesh
+
+	Name: Shapechanger
+
+	Name: SlowFall
+
+	Name: SneakAttack_Unlock
+
+	Name: SpellSniper_Critical
+
+	Name: SplitEnchantment
+
+	Name: SpreadingSpores
+
+	Name: StalkersFlurry
+
+	Name: SteelWill
+
+	Name: StillnessOfMind
+
+	Name: StormsFury
+
+	Name: SweepingAttack
+
+	Name: TempestuousMagic
+
+	Name: ThunderboltStrike
+
+	Name: ThirstingBlade_Blade
+
+	Name: ThirstingBlade_Tome
+
+	Name: ThirstingBlade_Check
+
+	Name: Thought_Shield_Psychic_Resistance
+
+	Name: Thought_Shield_Psychic_Reflection
+
+	Name: Tranquility
+
+	Name: TransmutationStone
+
+	Name: TransmutationStone_Activation
+
+	Name: UnarmoredDefense_Monk
+
+	Name: UnarmoredMovement_1
+
+	Name: UnarmoredMovement_2
+
+	Name: UnarmoredMovement_3
+
+	Name: UnarmoredMovement_DifficultTerrain
+
+	Name: UndeadThrall_BetterSummon
+
+	Name: UndeadThrall_ExtraSummon
+
+	Name: UndeadThrall_FreeSpell
+
+	Name: Unstable_Backlash
+
+	Name: WardingFlare_Improved
+
+	Name: WarGodsBlessing
+
+	Name: WarMagic
+
+	Name: WarPriest
+
+	Name: WhispersOfTheGrave
+
+	Name: WildMagicRage
+
+	Name: WildMagicBarbarian_FlumphDestruct
+
+	Name: WildMagic_Heal
+
+	Name: WrathOfTheStorm
+
+	Name: WildStrike
+
+	Name: WildStrike_2
+
+	Name: SPELLS_PASSIVES
+
+	Name: ArmorOfAgathys_3
+
+	Name: ArmorOfAgathys_4
+
+	Name: ArmorOfAgathys_5
+
+	Name: ArmorOfAgathys_6
+
+	Name: Contagion_Slimy_Doom_Stunned
+
+	Name: FireShield_Chill
+
+	Name: FireShield_Warm
+
+	Name: HellishRebuke_3
+
+	Name: HellishRebuke_4
+
+	Name: GuardianOfFaith_Attack
+
+	Name: Opportune_Predator
+
+	Name: Slow_ActionPoint
+
+	Name: Slow_Casting
+
+	Name: WildMagicBarbarian_MagicRetribution_Passive
+
+	Name: MONSTERS_PASSIVES
+
+	Name: Bat_Diseased_Cosmetic
+
+	Name: DamageShield_NPC_Any_Acid
+
+	Name: DamageShield_NPC_Physical
+
+	Name: DamageShield_NPC_Radiant
+
+	Name: DamageShield_NPC_Fire
+
+	Name: Devour_ShamblingMound
+
+	Name: Dragon_Red_Retaliate
+
+	Name: Dragon_Skeletal_Retaliate
+
+	Name: ARM_MagicalPlate_1_Passive
+
+	Name: ARM_MagicalPlate_2_Passive
+
+	Name: DamageReduction_Dragon
+
+	Name: DamageReduction_Dragon_Tactician
+
+	Name: Multiattack_Drider
+
+	Name: Multiattack_GiantEagle
+
+	Name: Multiattack_Mummy
+
+	Name: Multiattack_Cloaker
+
+	Name: Multiattack_SteelWatcherTitan
+
+	Name: Multiattack_Surgeon
+
+	Name: Multiattack_Doppelganger
+
+	Name: Multiattack_Werewolf
+
+	Name: Multiattack_MudElemental
+
+	Name: NeedleBlight_NeedleBurst
+
+	Name: VineBlight_VineBody
+
+	Name: ShadowTeleport_Meazel
+
+	Name: EyesOfTheNight_Raven
+
+	Name: ExplosiveRetribution
+
+	Name: LivingShadow
+
+	Name: ShadowVeil
+
+	Name: ShadowyRetreat
+
+	Name: Amorphous
+
+	Name: AuraOfVileOblivion_Technical
+
+	Name: VileOblivion
+
+	Name: ImmutableForm
+
+	Name: ImmutableExistance
+
+	Name: LightweightFrame
+
+	Name: SelfDestruct_SteelWatcher
+
+	Name: BrutalBite
+
+	Name: ShadowStealth
+
+	Name: Surprise_Immunity
+
+	Name: Talkative
+
+	Name: Turret_Weakspot
+
+	Name: MistyEscape_ShadarKai_GloomWeaver
+
+	Name: DispelEvilAndGood_Charm_Check
+
+	Name: DispelEvilAndGood_Frightened_Check
+
+	Name: DispelEvilAndGood_Possessed_Check
+
+	Name: DeathBurst_IntellectDevourer
+
+	Name: Entangle_Dryad
+
+	Name: LightSensitivity
+
+	Name: ConsumeTheFaithful
+
+	Name: ConsumeTheFaithful_Hardcore
+
+	Name: BlessingsOfKnowledge
+
+	Name: EightLeggedWaltz_Spider
+
+	Name: ArmyArcana
+
+	Name: FlamingSphere_State_4
+
+	Name: FlamingSphere_State_5
+
+	Name: FlamingSphere_State_6
+
+	Name: GiftOfTheEverLivingOnes
+
+	Name: GraspOfHadar
+
+	Name: GraveMagic
+
+	Name: HellishRebukeMyrmidon
+
+	Name: Poison_Myrmidon
+
+	Name: ImprovedCritical
+
+	Name: ImprovedPactWeapon_AttackBonus
+
+	Name: ImprovedPactWeapon_ExpandedChoices
+
+	Name: ImmuneToWadableWater
+
+	Name: ImmuneToThrowDamage
+
+	Name: PsionicRebuke_Netherbrain
+
+	Name: Ki_FlurryOfBlows
+
+	Name: LanceOfLethargy
+
+	Name: NaturesStep_Dryad
+
+	Name: NecroticAttacks_DeathKnight
+
+	Name: TombOfLevistus
+
+	Name: AversionOfFire
+
+	Name: LightningAbsortion
+
+	Name: GrimHarvest
+
+	Name: MagicAllergy_InRange
+
+	Name: NursePresence_Aura_Technical
+
+	Name: CombatMark
+
+	Name: PsychicStrikes_Githyanki
+
+	Name: Gishra_ArchetypeChange_Githyanki
+
+	Name: MurderHungry
+
+	Name: IncorporealMovement
+
+	Name: EtherealEscape_Incubus
+
+	Name: ControlUndead_Immune
+
+	Name: Prowl_ShortRest_Panther
+
+	Name: BloodFrenzy_Sahuagin
+
+	Name: FinishingStrike
+
+	Name: Scar_Sirocco_Gur
+
+	Name: Scar_Fury_Gur
+
+	Name: Scar_Eclipse_Gur
+
+	Name: Scar_Mirage_Gur
+
+	Name: Scar_Agave_Gur
+
+	Name: Scar_Thirst_Gur
+
+	Name: Scar_Dunes_Gur
+
+	Name: Slayer_Critical
+
+	Name: Slayer_ExtraAttack_2
+
+	Name: Slayer_ExtraAttack
+
+	Name: SkeletonDeath_Check
+
+	Name: Tactical_Discipline
+
+	Name: ThirdEye
+
+	Name: TollCollector_Armor
+
+	Name: Parry_Githyanki_Supreme
+
+	Name: Parry_Githyanki_Supreme_EquipTrigger
+
+	Name: Werewolf_Rage
+
+	Name: VampireSpawn
+
+	Name: HellfireDamagePierce_Technical
+
+	Name: LegendaryResistance
+
+	Name: Goblin_FuryOfTheSmall
+
+	Name: FearOfWolves_Shadowheart
+
+	Name: Spectator_FallResist
+
+	Name: DisplacerBeast_Avoidance
+
+	Name: FEATS
+
+	Name: Actor
+
+	Name: Charger
+
+	Name: DungeonDelver_Perception
+
+	Name: DungeonDelver_ResistTraps
+
+	Name: ElementalAdept_Acid
+
+	Name: ElementalAdept_Cold
+
+	Name: ElementalAdept_Fire
+
+	Name: ElementalAdept_Lightning
+
+	Name: ElementalAdept_Thunder
+
+	Name: MageSlayer_Advantage
+
+	Name: MageSlayer_AttackCaster
+
+	Name: MageSlayer_BreakConcentration
+
+	Name: PolearmMaster_AttackOfOpportunity
+
+	Name: PolearmMaster_BonusAttack
+
+	Name: TavernBrawler
+
+	Name: SavageAttacker
+
+	Name: ShieldMaster_Shove
+
+	Name: GUARDIAN_OF_FAITH
+
+	Name: GuardianOfFaith_Bahamut
+
+	Name: GuardianOfFaith_Bane
+
+	Name: GuardianOfFaith_Bhaal
+
+	Name: GuardianOfFaith_Corellonlarethian
+
+	Name: GuardianOfFaith_Eilistraee
+
+	Name: GuardianOfFaith_Garlglittergold
+
+	Name: GuardianOfFaith_Gruumsh
+
+	Name: GuardianOfFaith_Helm
+
+	Name: GuardianOfFaith_Ilmater
+
+	Name: GuardianOfFaith_Kelemvor
+
+	Name: GuardianOfFaith_Laduguer
+
+	Name: GuardianOfFaith_Lathander
+
+	Name: GuardianOfFaith_Lolth
+
+	Name: GuardianOfFaith_Mielikki
+
+	Name: GuardianOfFaith_Moradin
+
+	Name: GuardianOfFaith_Myrkul
+
+	Name: GuardianOfFaith_Mystra
+
+	Name: GuardianOfFaith_Oghma
+
+	Name: GuardianOfFaith_Selune
+
+	Name: GuardianOfFaith_Shar
+
+	Name: GuardianOfFaith_Talos
+
+	Name: GuardianOfFaith_Tempus
+
+	Name: GuardianOfFaith_Tiamat
+
+	Name: GuardianOfFaith_Tymora
+
+	Name: GuardianOfFaith_Tyr
+
+	Name: GuardianOfFaith_Vlaakith
+
+	Name: GuardianOfFaith_Yondalla
+
+	Name: __TADPOLE
+
+	Name: TAD_Charm
+
+	Name: TAD_CullTheWeak
+
+	Name: TAD_Displace
+
+	Name: TAD_Displace_FallDamage
+
+	Name: TAD_DrainAbility
+
+	Name: TAD_DrainAbility_Technical
+
+	Name: TAD_Expertise
+
+	Name: TAD_Freecast
+
+	Name: TAD_LuckOfTheFarRealms
+
+	Name: TAD_MindSanctuary
+
+	Name: MF_MindSanctuary
+
+	Name: MF_MindSanctuary_Technical
+
+	Name: TAD_PeaceBreaker
+
+	Name: TAD_PerilousStakes
+
+	Name: TAD_PsionicBacklash
+
+	Name: TAD_PsionicDominance
+
+	Name: TAD_IllithidPersuasion
+
+	Name: CursedTome_FalseLife
+
+	Name: _ALCHEMY
+
+	Name: ALCH_Ingredient_Air_Passive
+
+	Name: ALCH_Ingredient_Earth_Passive
+
+	Name: ALCH_Ingredient_Fey_Passive
+
+	Name: ALCH_Ingredient_Fire_Passive
+
+	Name: ALCH_Ingredient_Shadow_Passive
+
+	Name: ALCH_Ingredient_Water_Passive
+
+	Name: ALCH_Extract_Fire_Earth_Passive
+
+	Name: ALCH_Extract_Fire_Fey_Passive
+
+	Name: ALCH_Extract_Air_Fire_Passive
+
+	Name: ALCH_Extract_Air_Fey_Passive
+
+	Name: ALCH_Extract_Earth_Water_Passive
+
+	Name: ALCH_Extract_Earth_Shadow_Passive
+
+	Name: ALCH_Extract_Water_Air_Passive
+
+	Name: ALCH_Extract_Water_Shadow_Passive
+
+	Name: ALCH_Extract_Fey_Earth_Passive
+
+	Name: ALCH_Extract_Fey_Water_Passive
+
+	Name: ALCH_Extract_Shadow_Fire_Passive
+
+	Name: ALCH_Extract_Shadow_Air_Passive
+
+	Name: ALCH_Elixir_ArcaneAcuity_Passive
+
+	Name: ALCH_Elixir_Bloodlust_Passive
+
+	Name: ALCH_Oil_Bane_Passive
+
+	Name: ALCH_Oil_Frost_Passive
+
+	Name: ALCH_Oil_Reduce_Passive
+
+	Name: ALCH_Oil_RemoveResistanceFire_Passive
+
+	Name: ALCH_Oil_Combustion_Passive
+
+	Name: ALCH_Oil_Combustion_Condition_Passive
+
+	Name: ALCH_Elixir_Concentration_Passive
+
+	Name: ALCH_Elixir_Tadpole_Passive
+
+	Name: ALCH_Oil_Wizardsbane_Passive
+
+	Name: MAGIC_ITEMS
+
+	Name: MAG_SHA_SharBlessing_Spear_Passive
+
+	Name: MAG_SHA_SeluneBlessing_Spear_Passive
+
+	Name: MAG_TWN_Brewery_Greatclub_Passive
+
+	Name: MAG_TWN_Brewery_Club_Acid_Passive
+
+	Name: MAG_TWN_Brewery_Club_Cold_Passive
+
+	Name: MAG_TWN_Brewery_Club_Lightning_Passive
+
+	Name: MAG_TWN_Brewery_Club_Radiant_Passive
+
+	Name: MAG_TWN_Brewery_Club_Fire_Passive
+
+	Name: MAG_TWN_Brewery_Club_Poison_Passive
+
+	Name: MAG_Thorn_Blade_Passive
+
+	Name: MAG_TWN_Tollhouse_Fortune_Morningstar_Passive
+
+	Name: GENERIC_MAGIC_ARMOR_PROPERTY
+
+	Name: ARM_SuperiorPadding_1_Passive
+
+	Name: ARM_SuperiorPadding_2_Passive
+
+	Name: ARM_SuperiorMaterial_1_Passive
+
+	Name: ARM_SuperiorMaterial_2_Passive
+
+	Name: ARM_SuperiorPlate_1_Passive
+
+	Name: ARM_SuperiorPlate_2_Passive
+
+	Name: ARM_Ambusher_1_Passive
+
+	Name: ARM_Ambusher_2_Passive
+
+	Name: ARM_Elegant_1_Passive
+
+	Name: ARM_Elegant_2_Passive
+
+	Name: ARM_Balance_1_Passive
+
+	Name: ARM_Balance_2_Passive
+
+	Name: ARM_BodyAid_1_Passive
+
+	Name: ARM_BodyAid_2_Passive
+
+	Name: ARM_ExceptionalPlate_1_Passive
+
+	Name: ARM_ExceptionalPlate_2_Passive
+
+	Name: ARM_MartialArtsLethality_1_Passive
+
+	Name: ARM_MartialArtsLethality_2_Passive
+
+	Name: ARM_Stealthy_1_Passive
+
+	Name: ARM_Stealthy_2_Passive
+
+
+Folder Path: Shared\Public\Shared\Stats\Generated\Data, Total Passives: 418
+	Name: GENERIC PASSIVES
+
+	Name: AbilityImprovement_Charisma
+
+	Name: AbilityImprovement_Constitution
+
+	Name: AbilityImprovement_Dexterity
+
+	Name: AbilityImprovement_Intelligence
+
+	Name: AbilityImprovement_Strength
+
+	Name: AbilityImprovement_Wisdom
+
+	Name: AbilityDeterioration_Strength
+
+	Name: AbilityDeterioration_Wisdom
+
+	Name: AttackOfOpportunity
+
+	Name: Backstab
+
+	Name: Blindsight
+
+	Name: BonusProficiencies
+
+	Name: DarkDevotion
+
+	Name: Darkvision
+
+	Name: NonLethal
+
+	Name: SuperiorDarkvision
+
+	Name: DarknessRules
+
+	Name: Undead
+
+	Name: DeathSavingThrows
+
+	Name: ShortResting
+
+	Name: WeaponThrow
+
+	Name: DamageDealtRecently
+
+	Name: PlayerBonusesStory
+
+	Name: UnlockedSpellSlotLevel1
+
+	Name: UnlockedSpellSlotLevel2
+
+	Name: UnlockedSpellSlotLevel3
+
+	Name: UnlockedWarlockSpellSlotLevel1
+
+	Name: UnlockedWarlockSpellSlotLevel2
+
+	Name: UnlockedWarlockSpellSlotLevel3
+
+	Name: CombatStartAttack
+
+	Name: WEAPON_ACTION_PASSIVE
+
+	Name: GapingWound_Passive
+
+	Name: Overwhelm
+
+	Name: FullSwing_Passive
+
+	Name: RACES
+
+	Name: Drow_DrowWeaponTraining
+
+	Name: Duergar_DuergarResilience
+
+	Name: Dwarf_DwarvenCombatTraining
+
+	Name: Dwarf_DwarvenResilience
+
+	Name: MountainDwarf_DwarvenArmorTraining
+
+	Name: Elf_WeaponTraining
+
+	Name: FeyAncestry
+
+	Name: Gith_MartialProdigy
+
+	Name: Gnome_Cunning
+
+	Name: Gnome_Speed
+
+	Name: RockGnome_ArtificersLore
+
+	Name: DeepGnome_StoneCamouflage
+
+	Name: Halfling_StoutResilience
+
+	Name: Halfling_LightfootStealth
+
+	Name: Halfling_Lucky
+
+	Name: Halfling_Brave
+
+	Name: Tiefling_HellishResistance
+
+	Name: CLASS
+
+	Name: AcolyteOfNature
+
+	Name: AgonizingBlast
+
+	Name: ArmorOfShadows
+
+	Name: Assassinate_Ambush
+
+	Name: Assassinate_Initiative
+
+	Name: Assassinate_Resource
+
+	Name: BardSpellcasting
+
+	Name: BardicInspiration
+
+	Name: BardicInspiration_Ability
+
+	Name: BardicInspiration_Ability_d8
+
+	Name: BardicInspiration_d8
+
+	Name: BeastSpeech
+
+	Name: BeguilingInfluence
+
+	Name: ClarifiedMortality
+
+	Name: CollegeOfLore_Proficiency
+
+	Name: ColossusSlayer
+
+	Name: CombatInspiration
+
+	Name: CombatInspiration_Ability
+
+	Name: CombatInspiration_Ability_d8
+
+	Name: CombatWildShape
+
+	Name: CompanionsBond
+
+	Name: CuttingWords
+
+	Name: DangerSense
+
+	Name: DarkOnesBlessing
+
+	Name: DeflectMissiles
+
+	Name: DevilsSight
+
+	Name: DisarmingAttack
+
+	Name: DiscipleOfLife
+
+	Name: DomainSpells
+
+	Name: DraconicAncestry_Black
+
+	Name: DraconicAncestry_Blue
+
+	Name: DraconicAncestry_Brass
+
+	Name: DraconicAncestry_Bronze
+
+	Name: DraconicAncestry_Copper
+
+	Name: DraconicAncestry_Gold
+
+	Name: DraconicAncestry_Green
+
+	Name: DraconicAncestry_Red
+
+	Name: DraconicAncestry_Silver
+
+	Name: DraconicAncestry_White
+
+	Name: DraconicResilience
+
+	Name: EnlargeWeightMedium
+
+	Name: EnlargeWeightLarge
+
+	Name: ExperimentalAlchemy
+
+	Name: Expertise
+
+	Name: ExtraAttack
+
+	Name: EyesOfTheRuneKeeper
+
+	Name: FastHands
+
+	Name: FavoredEnemy_BountyHunter
+
+	Name: FavoredEnemy_KeeperOfTheVeil
+
+	Name: FavoredEnemy_MageBreaker
+
+	Name: FavoredEnemy_RangerKnight
+
+	Name: FavoredEnemy_SanctifiedStalker
+
+	Name: FiendishVigor
+
+	Name: FightingStyle_Archery
+
+	Name: FightingStyle_Defense
+
+	Name: FightingStyle_Dueling
+
+	Name: FightingStyle_GreatWeaponFighting
+
+	Name: FightingStyle_Protection
+
+	Name: FightingStyle_TwoWeaponFighting
+
+	Name: GiantKiller
+
+	Name: HordeBreaker
+
+	Name: JackOfAllTrades
+
+	Name: Land_BonusCantrip
+
+	Name: Land_Arctic
+
+	Name: Land_Coast
+
+	Name: Land_Desert
+
+	Name: Land_Forest
+
+	Name: Land_Grassland
+
+	Name: Land_Mountain
+
+	Name: Land_Swamp
+
+	Name: Land_Underdark
+
+	Name: Land_Arctic_2
+
+	Name: Land_Coast_2
+
+	Name: Land_Desert_2
+
+	Name: Land_Forest_2
+
+	Name: Land_Grassland_2
+
+	Name: Land_Mountain_2
+
+	Name: Land_Swamp_2
+
+	Name: Land_Underdark_2
+
+	Name: Light_BonusCantrip
+
+	Name: MageHandLegerdemain
+
+	Name: MageHandLegerdemain_Check
+
+	Name: MagicResistance
+
+	Name: MaskOfManyFaces
+
+	Name: MenacingAttack
+
+	Name: Metamagic_Careful
+
+	Name: Metamagic_Distant
+
+	Name: Metamagic_Distant_NPC
+
+	Name: Metamagic_Extended
+
+	Name: Metamagic_Heightened
+
+	Name: Metamagic_Quickened
+
+	Name: Metamagic_Subtle
+
+	Name: Metamagic_Twinned
+
+	Name: NaturalExplorer
+
+	Name: NaturalExplorer_BeastTamer
+
+	Name: NaturalExplorer_ExpertClimber
+
+	Name: NaturalExplorer_UrbanTracker
+
+	Name: NaturalExplorer_WastelandWander_Cold
+
+	Name: NaturalExplorer_WastelandWander_Fire
+
+	Name: NaturalExplorer_WastelandWander_Poison
+
+	Name: OneWithShadows
+
+	Name: PactOfTheChain
+
+	Name: Perform
+
+	Name: PrecisionAttack
+
+	Name: PushingAttack
+
+	Name: RageUnlock
+
+	Name: Rage_Rage_Boosts
+
+	Name: RageFrenzyUnlock
+
+	Name: Rage_Attack
+
+	Name: Rage_Damaged
+
+	Name: Rage_Armour_Message
+
+	Name: Rage_NoHeavyArmour_VFX
+
+	Name: Rage_Frenzy_NoHeavyArmour_VFX
+
+	Name: Rage_Bear_NoHeavyArmour_VFX
+
+	Name: Rage_Eagle_NoHeavyArmour_VFX
+
+	Name: Rage_Elk_NoHeavyArmour_VFX
+
+	Name: Rage_Tiger_NoHeavyArmour_VFX
+
+	Name: Rage_Wolf_NoHeavyArmour_VFX
+
+	Name: Rally
+
+	Name: RecklessAttack
+
+	Name: RepellingBlast
+
+	Name: Riposte
+
+	Name: SignOfIllOmen
+
+	Name: SculptSpells
+
+	Name: SecondStoryWork
+
+	Name: SecondStoryWork_Climbing
+
+	Name: SecondStoryWork_Jumping
+
+	Name: ShadowArts_MinorIllusion
+
+	Name: SpiritSeeker
+
+	Name: StunningStrike
+
+	Name: ThiefOfFiveFates
+
+	Name: ThievesCant
+
+	Name: TidesOfChaos
+
+	Name: TidesOfChaos_Unlock
+
+	Name: TotemSpirit_Bear
+
+	Name: TotemSpirit_Bear_Rage_Boosts
+
+	Name: TotemSpirit_Eagle
+
+	Name: TotemSpirit_Eagle_Rage_Boosts
+
+	Name: TotemSpirit_Elk
+
+	Name: TotemSpirit_Elk_Rage_Boosts
+
+	Name: TotemSpirit_Tiger
+
+	Name: TotemSpirit_Tiger_Rage_Boosts
+
+	Name: TotemSpirit_Wolf
+
+	Name: TotemSpirit_Wolf_Rage_Boosts
+
+	Name: TripAttack
+
+	Name: UnarmouredDefence_Barbarian
+
+	Name: WardingFlare
+
+	Name: WildMagic
+
+	Name: WildMagic_SorceryPoints
+
+	Name: WildMagic_Heal
+
+	Name: WildMagic_Swap
+
+	Name: WildShape_Combat
+
+	Name: BACKGROUNDS
+
+	Name: Background_Acolyte
+
+	Name: Background_Charlatan
+
+	Name: Background_Criminal
+
+	Name: Background_Entertainer
+
+	Name: Background_FolkHero
+
+	Name: Background_GuildArtisan
+
+	Name: Background_Noble
+
+	Name: Background_Outlander
+
+	Name: Background_Sage
+
+	Name: Background_Soldier
+
+	Name: Background_Urchin
+
+	Name: SPELLS_PASSIVES
+
+	Name: ArcaneWard
+
+	Name: ArmorOfAgathys
+
+	Name: ArmorOfAgathys_2
+
+	Name: Curse_ExtraDamage
+
+	Name: HellishRebuke
+
+	Name: HellishRebuke_2
+
+	Name: Hex
+
+	Name: HuntersMark
+
+	Name: HuntersMark_RangerCompanion
+
+	Name: Illusion_Disappear
+
+	Name: Moonbeam
+
+	Name: PhantasmalForce
+
+	Name: Sanctuary
+
+	Name: SanctuaryDamage
+
+	Name: SanctuarySpecificSpell
+
+	Name: StageFright
+
+	Name: TrueStrike
+
+	Name: Turned_Remove
+
+	Name: Warding_Bond
+
+	Name: BarbedArrow_Passive
+
+	Name: FEATS
+
+	Name: Alert
+
+	Name: Athlete_PassiveBonuses
+
+	Name: Athlete_StandUp
+
+	Name: CrossbowExpert_PointBlank
+
+	Name: CrossbowExpert_Wounding
+
+	Name: DefensiveDuelist
+
+	Name: DestroyUndead
+
+	Name: DualWielder_BonusAC
+
+	Name: DualWielder_PassiveBonuses
+
+	Name: Durable
+
+	Name: FastMovement
+
+	Name: FontOfInspiration
+
+	Name: GreatWeaponMaster_BonusAttack
+
+	Name: GreatWeaponMaster_BonusDamage
+
+	Name: Healer_RestoreTo1
+
+	Name: HeavilyArmored
+
+	Name: HeavyArmorMaster
+
+	Name: KeenMind_AbilityIncrease
+
+	Name: LightlyArmored
+
+	Name: Linguist_AbilityIncrease
+
+	Name: Luck_ReplaceAttackersDie
+
+	Name: Luck_RollAdditionalDie
+
+	Name: MageSlayer_Advantage
+
+	Name: MageSlayer_AttackCaster
+
+	Name: MageSlayer_BreakConcentration
+
+	Name: MagicInitiate_Bard
+
+	Name: MagicInitiate_Cleric
+
+	Name: MagicInitiate_Warlock
+
+	Name: MagicInitiate_Wizard
+
+	Name: MagicInitiate_Druid
+
+	Name: MagicInitiate_Sorcerer
+
+	Name: MartialAdept
+
+	Name: MediumArmorMaster
+
+	Name: Mobile_PassiveBonuses
+
+	Name: Mobile_CounterAttackOfOpportunity
+
+	Name: Mobile_DashAcrossDifficultTerrain
+
+	Name: ModeratelyArmored
+
+	Name: Performer
+
+	Name: Observant_Bonuses
+
+	Name: Resilient_Charisma
+
+	Name: Resilient_Constitution
+
+	Name: Resilient_Dexterity
+
+	Name: Resilient_Intelligence
+
+	Name: Resilient_Strength
+
+	Name: Resilient_Wisdom
+
+	Name: RitualCaster_FreeSpells
+
+	Name: SavageAttacker
+
+	Name: Sentinel_Attack
+
+	Name: Sentinel_ZeroSpeed
+
+	Name: Sentinel_OpportunityAdvantage
+
+	Name: Sharpshooter_AllIn
+
+	Name: Sharpshooter_Bonuses
+
+	Name: ShieldMaster_PassiveBonuses
+
+	Name: ShieldMaster_Block
+
+	Name: Skilled
+
+	Name: Skulker_StayHidden
+
+	Name: TavernBrawler_Bonuses
+
+	Name: Tough
+
+	Name: UncannyDodge
+
+	Name: WarCaster_Bonuses
+
+	Name: WarCaster_OpportunitySpell
+
+	Name: WeaponMaster
+
+	Name: MONSTERS_PASSIVES
+
+	Name: ImmuneToDisarm
+
+	Name: Oiled
+
+	Name: AntimagicSusceptibility
+
+	Name: AdditionalSpellSlot_Level_1
+
+	Name: AdditionalSpellSlot_Level_2
+
+	Name: AdditionalSpellSlot_Level_3
+
+	Name: AdditionalSpellSlot_Level_4
+
+	Name: AdditionalSuperiorityDie_Level_1
+
+	Name: AdditionalSuperiorityDie_Level_7
+
+	Name: AdditionalSuperiorityDie_Level_15
+
+	Name: BlockVerbalSpellcasting
+
+	Name: BloodThirsty_Redcap
+
+	Name: Bloodlust_Redcap
+
+	Name: Brute_Bugbear
+
+	Name: BurningHide_HellBoar
+
+	Name: CompanionsBond_Creature
+
+	Name: Confusion_CraniumRat
+
+	Name: DeathBurst_MagmaMephit
+
+	Name: DeathBurst_IceMephit
+
+	Name: DeathBurst_MudMephit
+
+	Name: Doppelganger_ReadThoughts
+
+	Name: FlamingSphere_State
+
+	Name: FlamingSphere_State_3
+
+	Name: WoodWoad_MagicClub
+
+	Name: EtherealForm_ScryingEye
+
+	Name: ExposingBite_Wildshape
+
+	Name: MartialAdvantage
+
+	Name: Muscular_Athletics
+
+	Name: OgreCurse
+
+	Name: PackTactics
+
+	Name: PhalanxFormation_Duergar
+
+	Name: PreferredTarget_Bulette
+
+	Name: Rampage
+
+	Name: Regeneration_WoodWoad
+
+	Name: Regeneration_WoodWoad_Cooldown_Technical
+
+	Name: Regeneration_WoodWoad_Summon
+
+	Name: Regeneration_Vampire
+
+	Name: Regeneration_Vampire_Spawn
+
+	Name: SunlightSensitivity
+
+	Name: SunlightHypersensitivity
+
+	Name: SunlightWeakness
+
+	Name: SunSickness_Myconid
+
+	Name: SpiderFallResistance
+
+	Name: SpiderWalk
+
+	Name: Spider_Infestation
+
+	Name: StaticDischarge_Aura
+
+	Name: MindMaster_Remove
+
+	Name: UndeadFortitude
+
+	Name: Multiattack_Automaton
+
+	Name: Multiattack_Ettercap
+
+	Name: Multiattack_Ettercap_Hardcore
+
+	Name: Multiattack_HookHorror
+
+	Name: Multiattack_Harpy
+
+	Name: Multiattack_Myconid
+
+	Name: Multiattack_Myconid_Glut
+
+	Name: Multiattack_Owlbear
+
+	Name: Multiattack_Redcap
+
+	Name: FelineFall
+
+	Name: FiendishBlessing
+
+	Name: TurnResistance
+
+	Name: WarMagic_Githyanki
+
+	Name: Parry_Githyanki
+
+	Name: Parry_Githyanki_EquipTrigger
+
+	Name: ImmuneToControlUndead
+
+	Name: WEAPON_PROFICIENCIES
+
+	Name: Proficiency_Battleaxes
+
+	Name: Proficiency_Clubs
+
+	Name: Proficiency_Daggers
+
+	Name: Proficiency_Flails
+
+	Name: Proficiency_Glaives
+
+	Name: Proficiency_Greataxe
+
+	Name: Proficiency_Greatclub
+
+	Name: Proficiency_Greatswords
+
+	Name: Proficiency_Halberds
+
+	Name: Proficiency_HandCrossbows
+
+	Name: Proficiency_Handaxes
+
+	Name: Proficiency_HeavyCrossbows
+
+	Name: Proficiency_Javelins
+
+	Name: Proficiency_LightCrossbows
+
+	Name: Proficiency_LightHammers
+
+	Name: Proficiency_Longbows
+
+	Name: Proficiency_Longswords
+
+	Name: Proficiency_Maces
+
+	Name: Proficiency_Mauls
+
+	Name: Proficiency_Morningstars
+
+	Name: Proficiency_Pikes
+
+	Name: Proficiency_Quarterstaffs
+
+	Name: Proficiency_Rapiers
+
+	Name: Proficiency_Scimitars
+
+	Name: Proficiency_Shortbows
+
+	Name: Proficiency_Shortswords
+
+	Name: Proficiency_Sickles
+
+	Name: Proficiency_Spears
+
+	Name: Proficiency_Tridents
+
+	Name: Proficiency_Warhammers
+
+	Name: Proficiency_Warpicks
+
+	Name: POTIONS_PASSIVES
+
+	Name: Poison_Simple_Passive
+
+	Name: Poison_Drow_Passive
+
+	Name: Poison_CrawlerMucus_Passive
+
+	Name: Poison_Malice_Passive
+
+	Name: UNI_Poison_Brewer_Passive
+
+	Name: Toxin_Basic_Passive
+
+	Name: Toxin_SerpentVenom_Passive
+
+	Name: Toxin_Wyvern_Passive
+
+	Name: Toxin_PurpleWorm_Passive
+
+	Name: Smite_Divine_Toggle
+
+	Name: Smite_Divine
+
+	Name: Smite_Divine_2
+
+	Name: Smite_Divine_3
+
+	Name: Smite_Divine_NPC
+
+	Name: Smite_Divine_2_NPC
+
+	Name: Smite_Divine_3_NPC
+
+	Name: DivineHealth
+
+	Name: HolyRebuke
+
+
